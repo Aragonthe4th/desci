@@ -1,0 +1,81 @@
+/* SlidingPuzzleGame.css */
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-board {
+  display: grid;
+  gap: 5px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.tile {
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: border 0.2s;
+}
+
+.tile.selected {
+  border: 2px solid rgb(233, 13, 13);
+}
+
+.tile.empty {
+  background-color: white;
+}
+
+#pointsDisplay {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: rgb(255, 255, 255); /* Change the color of the points display text */
+}
+
+.full-image-wrapper {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  margin: 20px auto;
+}
+
+.full-image {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+#grid-size-selector,
+#shuffleButton,
+#showImageButton {
+  margin: 10px;
+  color: white; /* Change the color of the text on the buttons */
+  background-color: rgb(71, 118, 206); /* Change the background color of the buttons */
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#grid-size-selector {
+  color: rgb(255, 255, 255); /* Change the color of the text in the dropdown */
+}
+
+#grid-size-selector option {
+  color: rgb(255, 255, 255); /* Change the color of the options in the dropdown */
+}
+
+label {
+  color: rgb(255, 255, 255); /* Change the color of the label text */
+  margin-right: 10px;
+}
+
+h1 {
+  color: rgb(255, 255, 255); /* Change the color of the heading text */
+}

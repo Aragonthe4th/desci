@@ -1,0 +1,318 @@
+[
+    {
+      "questionText": "What is the name of the galaxy that contains our Solar System?",
+      "answerOptions": [
+        { "answerText": "The Milky Way", "isCorrect": true },
+        { "answerText": "Andromeda", "isCorrect": false },
+        { "answerText": "Triangulum", "isCorrect": false },
+        { "answerText": "Whirlpool", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which planet is known as the Red Planet?",
+      "answerOptions": [
+        { "answerText": "Mars", "isCorrect": true },
+        { "answerText": "Venus", "isCorrect": false },
+        { "answerText": "Jupiter", "isCorrect": false },
+        { "answerText": "Saturn", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the hottest planet in our solar system?",
+      "answerOptions": [
+        { "answerText": "Venus", "isCorrect": true },
+        { "answerText": "Mercury", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": false },
+        { "answerText": "Jupiter", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which planet has the most moons?",
+      "answerOptions": [
+        { "answerText": "Jupiter", "isCorrect": true },
+        { "answerText": "Saturn", "isCorrect": false },
+        { "answerText": "Uranus", "isCorrect": false },
+        { "answerText": "Neptune", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which planet is closest to the sun?",
+      "answerOptions": [
+        { "answerText": "Mercury", "isCorrect": true },
+        { "answerText": "Venus", "isCorrect": false },
+        { "answerText": "Earth", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary gas that makes up the sun?",
+      "answerOptions": [
+        { "answerText": "Hydrogen", "isCorrect": true },
+        { "answerText": "Helium", "isCorrect": false },
+        { "answerText": "Oxygen", "isCorrect": false },
+        { "answerText": "Nitrogen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who developed the theory of relativity?",
+      "answerOptions": [
+        { "answerText": "Albert Einstein", "isCorrect": true },
+        { "answerText": "Isaac Newton", "isCorrect": false },
+        { "answerText": "Galileo Galilei", "isCorrect": false },
+        { "answerText": "Nikola Tesla", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the speed of light in a vacuum?",
+      "answerOptions": [
+        { "answerText": "299,792,458 meters per second", "isCorrect": true },
+        { "answerText": "150,000,000 meters per second", "isCorrect": false },
+        { "answerText": "1,000,000 meters per second", "isCorrect": false },
+        { "answerText": "300,000,000 meters per second", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the most common type of star in the universe?",
+      "answerOptions": [
+        { "answerText": "Red dwarf", "isCorrect": true },
+        { "answerText": "Yellow dwarf", "isCorrect": false },
+        { "answerText": "Blue giant", "isCorrect": false },
+        { "answerText": "White dwarf", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the study of the universe?",
+      "answerOptions": [
+        { "answerText": "Astronomy", "isCorrect": true },
+        { "answerText": "Biology", "isCorrect": false },
+        { "answerText": "Chemistry", "isCorrect": false },
+        { "answerText": "Geology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of Earth's natural satellite?",
+      "answerOptions": [
+        { "answerText": "The Moon", "isCorrect": true },
+        { "answerText": "Phobos", "isCorrect": false },
+        { "answerText": "Deimos", "isCorrect": false },
+        { "answerText": "Europa", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the largest planet in our solar system?",
+      "answerOptions": [
+        { "answerText": "Jupiter", "isCorrect": true },
+        { "answerText": "Saturn", "isCorrect": false },
+        { "answerText": "Uranus", "isCorrect": false },
+        { "answerText": "Neptune", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who was the first person to walk on the moon?",
+      "answerOptions": [
+        { "answerText": "Neil Armstrong", "isCorrect": true },
+        { "answerText": "Buzz Aldrin", "isCorrect": false },
+        { "answerText": "Yuri Gagarin", "isCorrect": false },
+        { "answerText": "Michael Collins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the largest moon of Saturn?",
+      "answerOptions": [
+        { "answerText": "Titan", "isCorrect": true },
+        { "answerText": "Europa", "isCorrect": false },
+        { "answerText": "Ganymede", "isCorrect": false },
+        { "answerText": "Callisto", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the first artificial satellite launched into space?",
+      "answerOptions": [
+        { "answerText": "Sputnik 1", "isCorrect": true },
+        { "answerText": "Explorer 1", "isCorrect": false },
+        { "answerText": "Vanguard 1", "isCorrect": false },
+        { "answerText": "Luna 1", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a system of millions or billions of stars, together with gas and dust?",
+      "answerOptions": [
+        { "answerText": "Galaxy", "isCorrect": true },
+        { "answerText": "Universe", "isCorrect": false },
+        { "answerText": "Solar System", "isCorrect": false },
+        { "answerText": "Constellation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What planet is known for its rings?",
+      "answerOptions": [
+        { "answerText": "Saturn", "isCorrect": true },
+        { "answerText": "Jupiter", "isCorrect": false },
+        { "answerText": "Uranus", "isCorrect": false },
+        { "answerText": "Neptune", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a planet outside our solar system?",
+      "answerOptions": [
+        { "answerText": "Exoplanet", "isCorrect": true },
+        { "answerText": "Asteroid", "isCorrect": false },
+        { "answerText": "Comet", "isCorrect": false },
+        { "answerText": "Meteoroid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the boundary around a black hole beyond which nothing can escape?",
+      "answerOptions": [
+        { "answerText": "Event Horizon", "isCorrect": true },
+        { "answerText": "Singularity", "isCorrect": false },
+        { "answerText": "Accretion Disk", "isCorrect": false },
+        { "answerText": "Photon Sphere", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the dwarf planet located in the asteroid belt?",
+      "answerOptions": [
+        { "answerText": "Ceres", "isCorrect": true },
+        { "answerText": "Pluto", "isCorrect": false },
+        { "answerText": "Eris", "isCorrect": false },
+        { "answerText": "Makemake", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the largest moon of Jupiter?",
+      "answerOptions": [
+        { "answerText": "Ganymede", "isCorrect": true },
+        { "answerText": "Europa", "isCorrect": false },
+        { "answerText": "Callisto", "isCorrect": false },
+        { "answerText": "Io", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a small rocky body orbiting the sun?",
+      "answerOptions": [
+        { "answerText": "Asteroid", "isCorrect": true },
+        { "answerText": "Comet", "isCorrect": false },
+        { "answerText": "Meteor", "isCorrect": false },
+        { "answerText": "Meteoroid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the nearest star to the sun?",
+      "answerOptions": [
+        { "answerText": "Proxima Centauri", "isCorrect": true },
+        { "answerText": "Alpha Centauri A", "isCorrect": false },
+        { "answerText": "Alpha Centauri B", "isCorrect": false },
+        { "answerText": "Barnard's Star", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the second largest planet in our solar system?",
+      "answerOptions": [
+        { "answerText": "Saturn", "isCorrect": true },
+        { "answerText": "Jupiter", "isCorrect": false },
+        { "answerText": "Uranus", "isCorrect": false },
+        { "answerText": "Neptune", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who proposed the heliocentric model of the solar system?",
+      "answerOptions": [
+        { "answerText": "Nicolaus Copernicus", "isCorrect": true },
+        { "answerText": "Ptolemy", "isCorrect": false },
+        { "answerText": "Galileo Galilei", "isCorrect": false },
+        { "answerText": "Isaac Newton", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the apparent shift in the position of an object when viewed from different locations?",
+      "answerOptions": [
+        { "answerText": "Parallax", "isCorrect": true },
+        { "answerText": "Refraction", "isCorrect": false },
+        { "answerText": "Diffraction", "isCorrect": false },
+        { "answerText": "Dispersion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the spacecraft that first landed humans on the moon?",
+      "answerOptions": [
+        { "answerText": "Apollo 11", "isCorrect": true },
+        { "answerText": "Apollo 12", "isCorrect": false },
+        { "answerText": "Gemini 8", "isCorrect": false },
+        { "answerText": "Sputnik 1", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a star that suddenly increases greatly in brightness because of a catastrophic explosion?",
+      "answerOptions": [
+        { "answerText": "Supernova", "isCorrect": true },
+        { "answerText": "Nova", "isCorrect": false },
+        { "answerText": "Hypernova", "isCorrect": false },
+        { "answerText": "Nebula", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the phenomenon where the sun is completely obscured by the moon?",
+      "answerOptions": [
+        { "answerText": "Solar Eclipse", "isCorrect": true },
+        { "answerText": "Lunar Eclipse", "isCorrect": false },
+        { "answerText": "Annular Eclipse", "isCorrect": false },
+        { "answerText": "Partial Eclipse", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the path of a celestial body in its orbit around another body?",
+      "answerOptions": [
+        { "answerText": "Orbit", "isCorrect": true },
+        { "answerText": "Trajectory", "isCorrect": false },
+        { "answerText": "Path", "isCorrect": false },
+        { "answerText": "Course", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a natural satellite of a planet?",
+      "answerOptions": [
+        { "answerText": "Moon", "isCorrect": true },
+        { "answerText": "Asteroid", "isCorrect": false },
+        { "answerText": "Comet", "isCorrect": false },
+        { "answerText": "Meteoroid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the galaxy closest to the Milky Way?",
+      "answerOptions": [
+        { "answerText": "Andromeda", "isCorrect": true },
+        { "answerText": "Triangulum", "isCorrect": false },
+        { "answerText": "Whirlpool", "isCorrect": false },
+        { "answerText": "Sculptor", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the force that keeps planets in orbit around the sun?",
+      "answerOptions": [
+        { "answerText": "Gravity", "isCorrect": true },
+        { "answerText": "Magnetism", "isCorrect": false },
+        { "answerText": "Inertia", "isCorrect": false },
+        { "answerText": "Centripetal Force", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a collection of stars, dust, and gas bound together by gravity?",
+      "answerOptions": [
+        { "answerText": "Galaxy", "isCorrect": true },
+        { "answerText": "Constellation", "isCorrect": false },
+        { "answerText": "Nebula", "isCorrect": false },
+        { "answerText": "Cluster", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the first American astronaut to orbit Earth?",
+      "answerOptions": [
+        { "answerText": "John Glenn", "isCorrect": true },
+        { "answerText": "Neil Armstrong", "isCorrect": false },
+        { "answerText": "Buzz Aldrin", "isCorrect": false },
+        { "answerText": "Alan Shepard", "isCorrect": false }
+      ]
+    }
+  ]
+  

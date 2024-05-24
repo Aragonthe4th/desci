@@ -1,0 +1,318 @@
+[
+    {
+      "questionText": "What is the chemical symbol for water?",
+      "answerOptions": [
+        { "answerText": "H2O", "isCorrect": true },
+        { "answerText": "O2", "isCorrect": false },
+        { "answerText": "CO2", "isCorrect": false },
+        { "answerText": "NaCl", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for gold?",
+      "answerOptions": [
+        { "answerText": "Au", "isCorrect": true },
+        { "answerText": "Ag", "isCorrect": false },
+        { "answerText": "Pb", "isCorrect": false },
+        { "answerText": "Fe", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for sodium?",
+      "answerOptions": [
+        { "answerText": "Na", "isCorrect": true },
+        { "answerText": "K", "isCorrect": false },
+        { "answerText": "S", "isCorrect": false },
+        { "answerText": "Si", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for oxygen?",
+      "answerOptions": [
+        { "answerText": "O", "isCorrect": true },
+        { "answerText": "O2", "isCorrect": false },
+        { "answerText": "O3", "isCorrect": false },
+        { "answerText": "O4", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for methane?",
+      "answerOptions": [
+        { "answerText": "CH4", "isCorrect": true },
+        { "answerText": "C2H6", "isCorrect": false },
+        { "answerText": "C3H8", "isCorrect": false },
+        { "answerText": "CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for table salt?",
+      "answerOptions": [
+        { "answerText": "NaCl", "isCorrect": true },
+        { "answerText": "KCl", "isCorrect": false },
+        { "answerText": "NaOH", "isCorrect": false },
+        { "answerText": "HCl", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for calcium?",
+      "answerOptions": [
+        { "answerText": "Ca", "isCorrect": true },
+        { "answerText": "C", "isCorrect": false },
+        { "answerText": "Cl", "isCorrect": false },
+        { "answerText": "Cu", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for ammonia?",
+      "answerOptions": [
+        { "answerText": "NH3", "isCorrect": true },
+        { "answerText": "N2H4", "isCorrect": false },
+        { "answerText": "NH4", "isCorrect": false },
+        { "answerText": "N2H3", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for silver?",
+      "answerOptions": [
+        { "answerText": "Ag", "isCorrect": true },
+        { "answerText": "Au", "isCorrect": false },
+        { "answerText": "Pb", "isCorrect": false },
+        { "answerText": "Sn", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for glucose?",
+      "answerOptions": [
+        { "answerText": "C6H12O6", "isCorrect": true },
+        { "answerText": "C12H22O11", "isCorrect": false },
+        { "answerText": "C2H4O2", "isCorrect": false },
+        { "answerText": "CH4", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for sulfuric acid?",
+      "answerOptions": [
+        { "answerText": "H2SO4", "isCorrect": true },
+        { "answerText": "HCl", "isCorrect": false },
+        { "answerText": "HNO3", "isCorrect": false },
+        { "answerText": "H2CO3", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who developed the periodic table?",
+      "answerOptions": [
+        { "answerText": "Dmitri Mendeleev", "isCorrect": true },
+        { "answerText": "Marie Curie", "isCorrect": false },
+        { "answerText": "Niels Bohr", "isCorrect": false },
+        { "answerText": "Ernest Rutherford", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the most common isotope of hydrogen?",
+      "answerOptions": [
+        { "answerText": "Protium", "isCorrect": true },
+        { "answerText": "Deuterium", "isCorrect": false },
+        { "answerText": "Tritium", "isCorrect": false },
+        { "answerText": "Hydronium", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for lead?",
+      "answerOptions": [
+        { "answerText": "Pb", "isCorrect": true },
+        { "answerText": "Pl", "isCorrect": false },
+        { "answerText": "Pt", "isCorrect": false },
+        { "answerText": "P", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for carbon dioxide?",
+      "answerOptions": [
+        { "answerText": "CO2", "isCorrect": true },
+        { "answerText": "CO", "isCorrect": false },
+        { "answerText": "O2", "isCorrect": false },
+        { "answerText": "H2O", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for ethanol?",
+      "answerOptions": [
+        { "answerText": "C2H5OH", "isCorrect": true },
+        { "answerText": "C2H6O", "isCorrect": false },
+        { "answerText": "CH3OH", "isCorrect": false },
+        { "answerText": "C3H7OH", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for acetic acid?",
+      "answerOptions": [
+        { "answerText": "CH3COOH", "isCorrect": true },
+        { "answerText": "C2H4O2", "isCorrect": false },
+        { "answerText": "C2H6O", "isCorrect": false },
+        { "answerText": "C2H5OH", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for magnesium?",
+      "answerOptions": [
+        { "answerText": "Mg", "isCorrect": true },
+        { "answerText": "Mn", "isCorrect": false },
+        { "answerText": "Mo", "isCorrect": false },
+        { "answerText": "Mt", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for potassium?",
+      "answerOptions": [
+        { "answerText": "K", "isCorrect": true },
+        { "answerText": "P", "isCorrect": false },
+        { "answerText": "Pt", "isCorrect": false },
+        { "answerText": "Po", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for nitric acid?",
+      "answerOptions": [
+        { "answerText": "HNO3", "isCorrect": true },
+        { "answerText": "HCl", "isCorrect": false },
+        { "answerText": "H2SO4", "isCorrect": false },
+        { "answerText": "H2CO3", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for calcium carbonate?",
+      "answerOptions": [
+        { "answerText": "CaCO3", "isCorrect": true },
+        { "answerText": "CaO", "isCorrect": false },
+        { "answerText": "CaSO4", "isCorrect": false },
+        { "answerText": "CaCl2", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for zinc?",
+      "answerOptions": [
+        { "answerText": "Zn", "isCorrect": true },
+        { "answerText": "Z", "isCorrect": false },
+        { "answerText": "Ze", "isCorrect": false },
+        { "answerText": "Zr", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for copper?",
+      "answerOptions": [
+        { "answerText": "Cu", "isCorrect": true },
+        { "answerText": "Co", "isCorrect": false },
+        { "answerText": "Ca", "isCorrect": false },
+        { "answerText": "Cr", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for hydrochloric acid?",
+      "answerOptions": [
+        { "answerText": "HCl", "isCorrect": true },
+        { "answerText": "HNO3", "isCorrect": false },
+        { "answerText": "H2SO4", "isCorrect": false },
+        { "answerText": "H2CO3", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for iron?",
+      "answerOptions": [
+        { "answerText": "Fe", "isCorrect": true },
+        { "answerText": "Ir", "isCorrect": false },
+        { "answerText": "In", "isCorrect": false },
+        { "answerText": "I", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for aluminum?",
+      "answerOptions": [
+        { "answerText": "Al", "isCorrect": true },
+        { "answerText": "Au", "isCorrect": false },
+        { "answerText": "Ag", "isCorrect": false },
+        { "answerText": "As", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for chlorine?",
+      "answerOptions": [
+        { "answerText": "Cl", "isCorrect": true },
+        { "answerText": "Ch", "isCorrect": false },
+        { "answerText": "C", "isCorrect": false },
+        { "answerText": "Cr", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for butane?",
+      "answerOptions": [
+        { "answerText": "C4H10", "isCorrect": true },
+        { "answerText": "C3H8", "isCorrect": false },
+        { "answerText": "C2H6", "isCorrect": false },
+        { "answerText": "C5H12", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for nickel?",
+      "answerOptions": [
+        { "answerText": "Ni", "isCorrect": true },
+        { "answerText": "N", "isCorrect": false },
+        { "answerText": "Ne", "isCorrect": false },
+        { "answerText": "Np", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for phosphorus?",
+      "answerOptions": [
+        { "answerText": "P", "isCorrect": true },
+        { "answerText": "Pt", "isCorrect": false },
+        { "answerText": "Po", "isCorrect": false },
+        { "answerText": "Pb", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for sodium hydroxide?",
+      "answerOptions": [
+        { "answerText": "NaOH", "isCorrect": true },
+        { "answerText": "KOH", "isCorrect": false },
+        { "answerText": "LiOH", "isCorrect": false },
+        { "answerText": "Ca(OH)2", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical symbol for tin?",
+      "answerOptions": [
+        { "answerText": "Sn", "isCorrect": true },
+        { "answerText": "Sb", "isCorrect": false },
+        { "answerText": "Sr", "isCorrect": false },
+        { "answerText": "Si", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for hydrogen peroxide?",
+      "answerOptions": [
+        { "answerText": "H2O2", "isCorrect": true },
+        { "answerText": "H2O", "isCorrect": false },
+        { "answerText": "HO2", "isCorrect": false },
+        { "answerText": "H3O", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for methane?",
+      "answerOptions": [
+        { "answerText": "CH4", "isCorrect": true },
+        { "answerText": "C2H6", "isCorrect": false },
+        { "answerText": "C3H8", "isCorrect": false },
+        { "answerText": "CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for sodium bicarbonate?",
+      "answerOptions": [
+        { "answerText": "NaHCO3", "isCorrect": true },
+        { "answerText": "Na2CO3", "isCorrect": false },
+        { "answerText": "NaCl", "isCorrect": false },
+        { "answerText": "NaOH", "isCorrect": false }
+      ]
+    }
+  ]
+  

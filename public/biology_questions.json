@@ -1,0 +1,318 @@
+[
+    {
+      "questionText": "What is the powerhouse of the cell?",
+      "answerOptions": [
+        { "answerText": "Mitochondria", "isCorrect": true },
+        { "answerText": "Nucleus", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false },
+        { "answerText": "Golgi apparatus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the basic unit of life?",
+      "answerOptions": [
+        { "answerText": "Cell", "isCorrect": true },
+        { "answerText": "Atom", "isCorrect": false },
+        { "answerText": "Molecule", "isCorrect": false },
+        { "answerText": "Tissue", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What gas do plants absorb from the atmosphere?",
+      "answerOptions": [
+        { "answerText": "Carbon dioxide", "isCorrect": true },
+        { "answerText": "Oxygen", "isCorrect": false },
+        { "answerText": "Nitrogen", "isCorrect": false },
+        { "answerText": "Hydrogen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What organ is primarily responsible for pumping blood in the human body?",
+      "answerOptions": [
+        { "answerText": "Heart", "isCorrect": true },
+        { "answerText": "Lungs", "isCorrect": false },
+        { "answerText": "Brain", "isCorrect": false },
+        { "answerText": "Kidneys", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What part of the cell contains the genetic material?",
+      "answerOptions": [
+        { "answerText": "Nucleus", "isCorrect": true },
+        { "answerText": "Mitochondria", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false },
+        { "answerText": "Cytoplasm", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of red blood cells?",
+      "answerOptions": [
+        { "answerText": "Transport oxygen", "isCorrect": true },
+        { "answerText": "Fight infections", "isCorrect": false },
+        { "answerText": "Clot blood", "isCorrect": false },
+        { "answerText": "Produce antibodies", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of white blood cells?",
+      "answerOptions": [
+        { "answerText": "Fight infections", "isCorrect": true },
+        { "answerText": "Transport oxygen", "isCorrect": false },
+        { "answerText": "Clot blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who is known as the father of genetics?",
+      "answerOptions": [
+        { "answerText": "Gregor Mendel", "isCorrect": true },
+        { "answerText": "Charles Darwin", "isCorrect": false },
+        { "answerText": "James Watson", "isCorrect": false },
+        { "answerText": "Francis Crick", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the study of living organisms called?",
+      "answerOptions": [
+        { "answerText": "Biology", "isCorrect": true },
+        { "answerText": "Physics", "isCorrect": false },
+        { "answerText": "Chemistry", "isCorrect": false },
+        { "answerText": "Geology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What organelle is responsible for photosynthesis in plants?",
+      "answerOptions": [
+        { "answerText": "Chloroplast", "isCorrect": true },
+        { "answerText": "Mitochondria", "isCorrect": false },
+        { "answerText": "Nucleus", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a group of similar cells that perform a specific function?",
+      "answerOptions": [
+        { "answerText": "Tissue", "isCorrect": true },
+        { "answerText": "Organ", "isCorrect": false },
+        { "answerText": "System", "isCorrect": false },
+        { "answerText": "Organism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main pigment used in photosynthesis?",
+      "answerOptions": [
+        { "answerText": "Chlorophyll", "isCorrect": true },
+        { "answerText": "Carotene", "isCorrect": false },
+        { "answerText": "Xanthophyll", "isCorrect": false },
+        { "answerText": "Anthocyanin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the process by which cells divide?",
+      "answerOptions": [
+        { "answerText": "Mitosis", "isCorrect": true },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false },
+        { "answerText": "Budding", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the molecule that carries genetic information?",
+      "answerOptions": [
+        { "answerText": "DNA", "isCorrect": true },
+        { "answerText": "RNA", "isCorrect": false },
+        { "answerText": "Protein", "isCorrect": false },
+        { "answerText": "Lipid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for an organism's complete set of DNA?",
+      "answerOptions": [
+        { "answerText": "Genome", "isCorrect": true },
+        { "answerText": "Chromosome", "isCorrect": false },
+        { "answerText": "Gene", "isCorrect": false },
+        { "answerText": "Allele", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants lose water through their leaves?",
+      "answerOptions": [
+        { "answerText": "Transpiration", "isCorrect": true },
+        { "answerText": "Evaporation", "isCorrect": false },
+        { "answerText": "Condensation", "isCorrect": false },
+        { "answerText": "Sublimation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for an animal that eats only plants?",
+      "answerOptions": [
+        { "answerText": "Herbivore", "isCorrect": true },
+        { "answerText": "Carnivore", "isCorrect": false },
+        { "answerText": "Omnivore", "isCorrect": false },
+        { "answerText": "Detritivore", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells create proteins?",
+      "answerOptions": [
+        { "answerText": "Translation", "isCorrect": true },
+        { "answerText": "Transcription", "isCorrect": false },
+        { "answerText": "Replication", "isCorrect": false },
+        { "answerText": "Translocation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the study of heredity and variation in organisms?",
+      "answerOptions": [
+        { "answerText": "Genetics", "isCorrect": true },
+        { "answerText": "Biology", "isCorrect": false },
+        { "answerText": "Microbiology", "isCorrect": false },
+        { "answerText": "Biochemistry", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a structure within a cell that performs a specific function?",
+      "answerOptions": [
+        { "answerText": "Organelle", "isCorrect": true },
+        { "answerText": "Tissue", "isCorrect": false },
+        { "answerText": "Organ", "isCorrect": false },
+        { "answerText": "System", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the jelly-like substance inside a cell?",
+      "answerOptions": [
+        { "answerText": "Cytoplasm", "isCorrect": true },
+        { "answerText": "Nucleus", "isCorrect": false },
+        { "answerText": "Mitochondria", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the large intestine?",
+      "answerOptions": [
+        { "answerText": "Absorb water", "isCorrect": true },
+        { "answerText": "Digest food", "isCorrect": false },
+        { "answerText": "Produce enzymes", "isCorrect": false },
+        { "answerText": "Filter toxins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the protein that speeds up chemical reactions in the body?",
+      "answerOptions": [
+        { "answerText": "Enzyme", "isCorrect": true },
+        { "answerText": "Hormone", "isCorrect": false },
+        { "answerText": "Antibody", "isCorrect": false },
+        { "answerText": "Antigen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the maintenance of stable internal conditions in an organism?",
+      "answerOptions": [
+        { "answerText": "Homeostasis", "isCorrect": true },
+        { "answerText": "Metabolism", "isCorrect": false },
+        { "answerText": "Catabolism", "isCorrect": false },
+        { "answerText": "Anabolism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for an animal that eats both plants and animals?",
+      "answerOptions": [
+        { "answerText": "Omnivore", "isCorrect": true },
+        { "answerText": "Herbivore", "isCorrect": false },
+        { "answerText": "Carnivore", "isCorrect": false },
+        { "answerText": "Detritivore", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the mitochondria?",
+      "answerOptions": [
+        { "answerText": "Produce energy", "isCorrect": true },
+        { "answerText": "Store genetic material", "isCorrect": false },
+        { "answerText": "Synthesize proteins", "isCorrect": false },
+        { "answerText": "Detoxify chemicals", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the semi-permeable membrane surrounding a cell?",
+      "answerOptions": [
+        { "answerText": "Cell membrane", "isCorrect": true },
+        { "answerText": "Cell wall", "isCorrect": false },
+        { "answerText": "Cytoplasm", "isCorrect": false },
+        { "answerText": "Nucleus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells release energy from glucose?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a single-celled organism without a nucleus?",
+      "answerOptions": [
+        { "answerText": "Prokaryote", "isCorrect": true },
+        { "answerText": "Eukaryote", "isCorrect": false },
+        { "answerText": "Virus", "isCorrect": false },
+        { "answerText": "Bacteriophage", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells take in liquid from the surrounding environment?",
+      "answerOptions": [
+        { "answerText": "Pinocytosis", "isCorrect": true },
+        { "answerText": "Phagocytosis", "isCorrect": false },
+        { "answerText": "Exocytosis", "isCorrect": false },
+        { "answerText": "Endocytosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a molecule that binds to an enzyme's active site?",
+      "answerOptions": [
+        { "answerText": "Substrate", "isCorrect": true },
+        { "answerText": "Product", "isCorrect": false },
+        { "answerText": "Inhibitor", "isCorrect": false },
+        { "answerText": "Activator", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which an egg cell and a sperm cell unite?",
+      "answerOptions": [
+        { "answerText": "Fertilization", "isCorrect": true },
+        { "answerText": "Mitosis", "isCorrect": false },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of ribosomes?",
+      "answerOptions": [
+        { "answerText": "Synthesize proteins", "isCorrect": true },
+        { "answerText": "Produce energy", "isCorrect": false },
+        { "answerText": "Store genetic material", "isCorrect": false },
+        { "answerText": "Detoxify chemicals", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a change in the DNA sequence?",
+      "answerOptions": [
+        { "answerText": "Mutation", "isCorrect": true },
+        { "answerText": "Replication", "isCorrect": false },
+        { "answerText": "Transcription", "isCorrect": false },
+        { "answerText": "Translation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells remove waste products?",
+      "answerOptions": [
+        { "answerText": "Exocytosis", "isCorrect": true },
+        { "answerText": "Endocytosis", "isCorrect": false },
+        { "answerText": "Pinocytosis", "isCorrect": false },
+        { "answerText": "Phagocytosis", "isCorrect": false }
+      ]
+    }
+  ]
+  

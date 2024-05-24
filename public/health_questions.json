@@ -1,0 +1,318 @@
+[
+    {
+      "questionText": "What organ is primarily responsible for filtering blood in the human body?",
+      "answerOptions": [
+        { "answerText": "Kidneys", "isCorrect": true },
+        { "answerText": "Liver", "isCorrect": false },
+        { "answerText": "Heart", "isCorrect": false },
+        { "answerText": "Lungs", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for high blood pressure?",
+      "answerOptions": [
+        { "answerText": "Hypertension", "isCorrect": true },
+        { "answerText": "Hypotension", "isCorrect": false },
+        { "answerText": "Tachycardia", "isCorrect": false },
+        { "answerText": "Bradycardia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the liver?",
+      "answerOptions": [
+        { "answerText": "Detoxify chemicals", "isCorrect": true },
+        { "answerText": "Pump blood", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false },
+        { "answerText": "Produce insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the chemical formula for glucose?",
+      "answerOptions": [
+        { "answerText": "C6H12O6", "isCorrect": true },
+        { "answerText": "C12H22O11", "isCorrect": false },
+        { "answerText": "C2H4O2", "isCorrect": false },
+        { "answerText": "CH4", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the amount of energy required to raise the temperature of one gram of water by one degree Celsius?",
+      "answerOptions": [
+        { "answerText": "Calorie", "isCorrect": true },
+        { "answerText": "Joule", "isCorrect": false },
+        { "answerText": "Watt", "isCorrect": false },
+        { "answerText": "Kelvin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the kidneys?",
+      "answerOptions": [
+        { "answerText": "Filter blood", "isCorrect": true },
+        { "answerText": "Pump blood", "isCorrect": false },
+        { "answerText": "Produce bile", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a disease characterized by uncontrolled cell growth?",
+      "answerOptions": [
+        { "answerText": "Cancer", "isCorrect": true },
+        { "answerText": "Diabetes", "isCorrect": false },
+        { "answerText": "Hypertension", "isCorrect": false },
+        { "answerText": "Asthma", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the lungs?",
+      "answerOptions": [
+        { "answerText": "Exchange gases", "isCorrect": true },
+        { "answerText": "Pump blood", "isCorrect": false },
+        { "answerText": "Digest food", "isCorrect": false },
+        { "answerText": "Filter waste", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the rate at which the body uses energy?",
+      "answerOptions": [
+        { "answerText": "Metabolic rate", "isCorrect": true },
+        { "answerText": "Heart rate", "isCorrect": false },
+        { "answerText": "Respiration rate", "isCorrect": false },
+        { "answerText": "Blood pressure", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which the body breaks down food into energy?",
+      "answerOptions": [
+        { "answerText": "Metabolism", "isCorrect": true },
+        { "answerText": "Digestion", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Excretion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of insulin in the body?",
+      "answerOptions": [
+        { "answerText": "Regulate blood sugar", "isCorrect": true },
+        { "answerText": "Produce energy", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false },
+        { "answerText": "Filter waste", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a substance that causes an allergic reaction?",
+      "answerOptions": [
+        { "answerText": "Allergen", "isCorrect": true },
+        { "answerText": "Antibody", "isCorrect": false },
+        { "answerText": "Antigen", "isCorrect": false },
+        { "answerText": "Pathogen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a decrease in bone density?",
+      "answerOptions": [
+        { "answerText": "Osteoporosis", "isCorrect": true },
+        { "answerText": "Arthritis", "isCorrect": false },
+        { "answerText": "Rickets", "isCorrect": false },
+        { "answerText": "Scoliosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a deficiency of red blood cells or hemoglobin?",
+      "answerOptions": [
+        { "answerText": "Anemia", "isCorrect": true },
+        { "answerText": "Leukemia", "isCorrect": false },
+        { "answerText": "Lymphoma", "isCorrect": false },
+        { "answerText": "Thrombocytopenia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the immune system?",
+      "answerOptions": [
+        { "answerText": "Fight infections", "isCorrect": true },
+        { "answerText": "Transport oxygen", "isCorrect": false },
+        { "answerText": "Produce energy", "isCorrect": false },
+        { "answerText": "Filter waste", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for inflammation of the liver?",
+      "answerOptions": [
+        { "answerText": "Hepatitis", "isCorrect": true },
+        { "answerText": "Cirrhosis", "isCorrect": false },
+        { "answerText": "Nephritis", "isCorrect": false },
+        { "answerText": "Gastritis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a disease caused by a lack of vitamin C?",
+      "answerOptions": [
+        { "answerText": "Scurvy", "isCorrect": true },
+        { "answerText": "Rickets", "isCorrect": false },
+        { "answerText": "Pellagra", "isCorrect": false },
+        { "answerText": "Beriberi", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of white blood cells?",
+      "answerOptions": [
+        { "answerText": "Fight infections", "isCorrect": true },
+        { "answerText": "Transport oxygen", "isCorrect": false },
+        { "answerText": "Clot blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the maintenance of stable internal conditions in the body?",
+      "answerOptions": [
+        { "answerText": "Homeostasis", "isCorrect": true },
+        { "answerText": "Metabolism", "isCorrect": false },
+        { "answerText": "Catabolism", "isCorrect": false },
+        { "answerText": "Anabolism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for an abnormal growth of tissue?",
+      "answerOptions": [
+        { "answerText": "Tumor", "isCorrect": true },
+        { "answerText": "Cyst", "isCorrect": false },
+        { "answerText": "Lesion", "isCorrect": false },
+        { "answerText": "Ulcer", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a medication that reduces pain?",
+      "answerOptions": [
+        { "answerText": "Analgesic", "isCorrect": true },
+        { "answerText": "Antibiotic", "isCorrect": false },
+        { "answerText": "Antihistamine", "isCorrect": false },
+        { "answerText": "Antiviral", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the study of diseases?",
+      "answerOptions": [
+        { "answerText": "Pathology", "isCorrect": true },
+        { "answerText": "Oncology", "isCorrect": false },
+        { "answerText": "Virology", "isCorrect": false },
+        { "answerText": "Immunology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of hemoglobin?",
+      "answerOptions": [
+        { "answerText": "Transport oxygen", "isCorrect": true },
+        { "answerText": "Fight infections", "isCorrect": false },
+        { "answerText": "Clot blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a protein that speeds up chemical reactions in the body?",
+      "answerOptions": [
+        { "answerText": "Enzyme", "isCorrect": true },
+        { "answerText": "Hormone", "isCorrect": false },
+        { "answerText": "Antibody", "isCorrect": false },
+        { "answerText": "Antigen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a condition characterized by high levels of glucose in the blood?",
+      "answerOptions": [
+        { "answerText": "Diabetes", "isCorrect": true },
+        { "answerText": "Hypoglycemia", "isCorrect": false },
+        { "answerText": "Hyperlipidemia", "isCorrect": false },
+        { "answerText": "Hypotension", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of red blood cells?",
+      "answerOptions": [
+        { "answerText": "Transport oxygen", "isCorrect": true },
+        { "answerText": "Fight infections", "isCorrect": false },
+        { "answerText": "Clot blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a condition characterized by a lack of insulin production?",
+      "answerOptions": [
+        { "answerText": "Type 1 diabetes", "isCorrect": true },
+        { "answerText": "Type 2 diabetes", "isCorrect": false },
+        { "answerText": "Gestational diabetes", "isCorrect": false },
+        { "answerText": "Hypoglycemia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which the body removes waste products?",
+      "answerOptions": [
+        { "answerText": "Excretion", "isCorrect": true },
+        { "answerText": "Secretion", "isCorrect": false },
+        { "answerText": "Absorption", "isCorrect": false },
+        { "answerText": "Filtration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a disease characterized by chronic inflammation of the airways?",
+      "answerOptions": [
+        { "answerText": "Asthma", "isCorrect": true },
+        { "answerText": "Bronchitis", "isCorrect": false },
+        { "answerText": "Pneumonia", "isCorrect": false },
+        { "answerText": "Emphysema", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a condition characterized by the buildup of fatty deposits in the arteries?",
+      "answerOptions": [
+        { "answerText": "Atherosclerosis", "isCorrect": true },
+        { "answerText": "Arteriosclerosis", "isCorrect": false },
+        { "answerText": "Hypertension", "isCorrect": false },
+        { "answerText": "Hypotension", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the digestive system?",
+      "answerOptions": [
+        { "answerText": "Break down food and absorb nutrients", "isCorrect": true },
+        { "answerText": "Filter blood", "isCorrect": false },
+        { "answerText": "Transport oxygen", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a disease caused by a virus?",
+      "answerOptions": [
+        { "answerText": "Viral infection", "isCorrect": true },
+        { "answerText": "Bacterial infection", "isCorrect": false },
+        { "answerText": "Fungal infection", "isCorrect": false },
+        { "answerText": "Parasitic infection", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a condition characterized by the weakening of muscles?",
+      "answerOptions": [
+        { "answerText": "Muscular dystrophy", "isCorrect": true },
+        { "answerText": "Arthritis", "isCorrect": false },
+        { "answerText": "Osteoporosis", "isCorrect": false },
+        { "answerText": "Fibromyalgia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the endocrine system?",
+      "answerOptions": [
+        { "answerText": "Produce hormones", "isCorrect": true },
+        { "answerText": "Transport oxygen", "isCorrect": false },
+        { "answerText": "Filter waste", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a condition characterized by the loss of memory?",
+      "answerOptions": [
+        { "answerText": "Amnesia", "isCorrect": true },
+        { "answerText": "Dementia", "isCorrect": false },
+        { "answerText": "Alzheimer's disease", "isCorrect": false },
+        { "answerText": "Parkinson's disease", "isCorrect": false }
+      ]
+    }
+  ]
+  
