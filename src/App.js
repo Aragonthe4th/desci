@@ -1,45 +1,49 @@
 import React, { useState } from 'react';
 import './App.css';
 import SlidingPuzzleGame from './SlidingPuzzleGame';
-import QuizGame from './QuizGame'; // Assume you have a QuizGame component
+import QuizGame from './QuizGame';
 
 function App() {
   const [points, setPoints] = useState(0);
   const [selectedGame, setSelectedGame] = useState('puzzle'); // Default to 'puzzle'
 
+  // Function to update points
   const updatePoints = (earnedPoints) => {
-    setPoints(points + earnedPoints);
+    setPoints((prevPoints) => prevPoints + earnedPoints);
   };
 
+  // Function to render the selected game component
   const renderGame = () => {
-    if (selectedGame === 'puzzle') {
-      return <SlidingPuzzleGame updatePoints={updatePoints} />;
-    } else if (selectedGame === 'quiz') {
-      return <QuizGame updatePoints={updatePoints} />;
+    switch (selectedGame) {
+      case 'puzzle':
+        return <SlidingPuzzleGame updatePoints={updatePoints} />;
+      case 'quiz':
+        return <QuizGame updatePoints={updatePoints} />;
+      default:
+        return null;
     }
   };
 
   return (
     <div className="App">
-      <h1>Hello</h1>
       <div className="game-container">
+        {/* Game selection buttons */}
         <div className="game-selection">
-          <span 
-            onClick={() => setSelectedGame('puzzle')} 
-            className={selectedGame === 'puzzle' ? 'active' : ''}
-          >
-            Sliding Puzzle Game
-          </span>
-          <span 
-            onClick={() => setSelectedGame('quiz')} 
-            className={selectedGame === 'quiz' ? 'active' : ''}
-          >
-            Quiz Game
-          </span>
+          {['puzzle', 'quiz'].map((game) => (
+            <span
+              key={game}
+              onClick={() => setSelectedGame(game)}
+              className={selectedGame === game ? 'active' : ''}
+            >
+              {game === 'puzzle' ? 'Sliding Puzzle Game' : 'Quiz Game'}
+            </span>
+          ))}
         </div>
+        {/* Display current points */}
+        <div className="points-display">Current Points: {points}</div>
+        {/* Render the selected game */}
         {renderGame()}
       </div>
-      <div>Current Points: {points}</div>
     </div>
   );
 }

@@ -1,42 +1,10 @@
+/* Main app container */
 .App {
   text-align: center;
+  position: relative;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
+/* Game container with border and layout styling */
 .game-container {
   border: 6px solid transparent;
   border-image: linear-gradient(to bottom, #909097, #cca44d) 1 stretch;
@@ -44,18 +12,20 @@
   border-radius: 15px;
   background-color: transparent;
   font-weight: bold;
-  height: auto;
-  width: 80%; /* Adjusted width */
-  max-width: 1200px; /* Maximum width for larger screens */
+  width: 80%;
+  max-width: 1200px;
   font-size: 0.9rem;
   display: flex;
   flex-direction: column;
-  gap: 20px; /* Increased gap between elements */
-  padding: 20px; /* Added padding inside the container */
-  margin: auto; /* Center the container */
-  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  gap: 20px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 40px;
+  box-sizing: border-box;
+  position: relative;
 }
 
+/* Game selection button container */
 .game-selection {
   display: flex;
   justify-content: flex-end;
@@ -63,33 +33,56 @@
   margin-bottom: 20px;
 }
 
+/* Styling for each game selection button */
 .game-selection span {
   cursor: pointer;
   color: rgb(71, 118, 206);
   font-size: 1rem;
   font-weight: bold;
   transition: color 0.3s, background-color 0.3s;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
+/* Active and hover state for game selection buttons */
 .game-selection span:hover,
 .game-selection span.active {
   color: white;
-  background-color: rgb(71, 118, 206); /* Added background color for active and hover states */
+  background-color: rgb(71, 118, 206);
 }
 
-#pointsDisplay {
-  margin-top: 20px;
+/* Points display styling */
+.points-display {
+  position: absolute;
+  top: 10px;
+  left: 10px;
   font-size: 1.2em;
-  color: rgb(255, 255, 255); /* Change the color of the points display text */
-}
-
-.game-selection span {
-  cursor: pointer;
-  margin: 0 10px;
+  color: rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 5px 10px;
+  border-radius: 5px;
 }
 
-.game-selection span.active {
-  font-weight: bold;
-  border-bottom: 2px solid #000;
+/* Media query for smaller screens to avoid overlay and position points display below buttons */
+@media (max-width: 768px) {
+  .game-container {
+    align-items: center;
+  }
+
+  .game-selection {
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .points-display {
+    position: static;
+    margin: 10px auto;
+    font-size: 1em;
+    text-align: center;
+    order: 1; /* Ensure it appears after the game-selection */
+  }
+
+  .game-selection {
+    order: 0; /* Ensure it appears before the points-display */
+  }
 }

@@ -5,7 +5,7 @@ const topics = [
   { name: 'Space', file: 'space_questions.json' },
   { name: 'Biology', file: 'biology_questions.json' },
   { name: 'Chemistry', file: 'chemistry_questions.json' },
-  { name: 'Health', file: 'health_questions.json' }
+  { name: 'Health', file: 'health_questions.json' },
 ];
 
 const fetchQuestions = async (file) => {
@@ -28,6 +28,7 @@ const QuizGame = ({ updatePoints }) => {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [isQuizFinished, setIsQuizFinished] = useState(false);
+  const [lastAnswerCorrect, setLastAnswerCorrect] = useState(null);
 
   useEffect(() => {
     if (topic) {
@@ -38,6 +39,7 @@ const QuizGame = ({ updatePoints }) => {
           setCurrentQuestionIndex(0);
           setScore(0);
           setIsQuizFinished(false);
+          setLastAnswerCorrect(null);
         } else {
           alert('Failed to load questions. Please try again.');
           setTopic(null);
@@ -51,16 +53,21 @@ const QuizGame = ({ updatePoints }) => {
   };
 
   const handleAnswerClick = (isCorrect) => {
+    setLastAnswerCorrect(isCorrect);
+
     if (isCorrect) {
       setScore(score + 20);
     }
+  };
 
+  const handleNextQuestion = () => {
     const nextQuestionIndex = currentQuestionIndex + 1;
     if (nextQuestionIndex < questions.length) {
       setCurrentQuestionIndex(nextQuestionIndex);
+      setLastAnswerCorrect(null);
     } else {
       setIsQuizFinished(true);
-      updatePoints(score + (isCorrect ? 20 : 0));
+      updatePoints(score);
     }
   };
 
@@ -103,6 +110,16 @@ const QuizGame = ({ updatePoints }) => {
                   </button>
                 ))}
               </div>
+              {lastAnswerCorrect !== null && (
+                <div className="answer-feedback-container">
+                  <p className={`answer-feedback ${lastAnswerCorrect ? 'correct' : 'wrong'}`}>
+                    {lastAnswerCorrect ? 'Correct!' : 'Wrong!'}
+                  </p>
+                  <button className="next-question-button" onClick={handleNextQuestion}>
+                    Next Question
+                  </button>
+                </div>
+              )}
             </div>
           ) : (
             <p>Loading questions...</p>
