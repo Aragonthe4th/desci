@@ -99,13 +99,14 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
     }, 3000); // Show full image for 3 seconds
   };
 
-  const closePopup = () => {
+  const closePopupAndReshuffle = () => {
     setShowPopup(false);
+    setImageSrc(getRandomImage()); // Set a new random image
   };
 
   return (
     <div className="container">
-      <h1>Sliding Puzzle Game</h1>
+      <h1>Picture Swap Puzzle</h1>
       <div className="game-box">
         <div
           id="gameBoard"
@@ -156,7 +157,7 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
           <div className="popup">
             <h2>Congratulations!</h2>
             <p>You have solved the puzzle. Your current points are {points}!</p>
-            <button onClick={closePopup}>Close</button>
+            <button onClick={closePopupAndReshuffle}>Close</button>
           </div>
         </div>
       )}
