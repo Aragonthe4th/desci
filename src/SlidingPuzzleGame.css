@@ -179,7 +179,7 @@ h1 {
 
   .full-image {
     width: auto;
-    height: 100%;
+    height: auto;
    
     z-index: 1;
   }
