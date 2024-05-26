@@ -1,41 +1,40 @@
-/* Container for centering the game content */
+/* Container for the sliding puzzle game */
 .container {
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: relative;
-  justify-content: center;
+  position: relative; /* Add relative positioning to the container */
 }
 
-/* Box that holds the game board */
+/* Game box with border and background */
 .game-box {
-  padding: 10px;
-  width: 50%;
-  margin: auto;
-  align-items: center;
-  justify-content: center;
-  display: flex;
-
-
-
-}
-
-/* Grid container for the game tiles */
-.game-board {
-  display: grid;
-  width: auto;
-  gap: 2px;
-  height: auto;
-  aspect-ratio: 1;
-  position: relative;
-  border: 4px solid #000;
-  background-color: #f0f0f0;
-
+  border-radius: 25px;
+  background: #de090900;
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+  margin: 20px 10px;
+  box-sizing: border-box;
   
 }
 
-/* Styling for each tile in the game */
+/* Game board grid layout */
+.game-board {
+  display: grid;
+  gap: 1px;
+  margin: 20px auto;
+  /* max-width: 100%; */
+  width: auto;
+  height: auto;
+ 
+  position: relative; /* Add relative positioning to the game board */
+  border: 3px solid rgb(0, 0, 0);
+  /* justify-items: center; */
+  /* align-items: center; */
+}
+
+/* Styles for each tile */
 .tile {
   cursor: pointer;
   border: 2px solid transparent;
@@ -45,30 +44,62 @@
   box-sizing: border-box;
 }
 
-/* Styling for the selected tile */
+/* Styles for selected tile */
 .tile.selected {
   border: 2px solid rgb(233, 13, 13);
 }
 
-/* Full image preview styling */
-.full-image {
-  width: auto;
-  height: 100%;
- 
-  z-index: 1;
+/* Styles for empty tile */
+.tile.empty {
+  background-color: white;
 }
 
-/* Styling for the controls below the game board */
+/* Points display styling */
+.pointsDisplay {
+  position: absolute; /* Position the points display absolutely */
+  top: 10px; /* Adjust top position */
+  left: 10px; /* Adjust left position */
+  font-size: 1.2em;
+  color: white; /* Change the color of the points display text */
+  background: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background */
+  padding: 5px 10px; /* Add some padding */
+  border-radius: 5px; /* Add border radius */
+}
+
+/* Wrapper for full image display */
+.full-image-wrapper {
+  position: absolute; /* Position absolutely within the game board */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1; /* Ensure it is on top of the tiles */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Full image styling */
+.full-image {
+  width: 100%;
+  height: 100%;
+  background-size: contain; /* Ensure the image is fully contained */
+  background-repeat: no-repeat; /* Prevent image repetition */
+  background-position: center; /* Center the image */
+
+}
+
+/* Controls container */
 .controls {
   margin-top: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
-  flex-wrap: wrap;
+  gap: 10px; /* Space between controls */
+  flex-wrap: wrap; /* Allow controls to wrap on smaller screens */
 }
 
-/* Button styling */
+/* Common styles for buttons and dropdown */
 #grid-size-selector,
 #shuffleButton,
 #showImageButton {
@@ -81,18 +112,19 @@
   border-radius: 5px;
 }
 
-/* Additional styling for the grid size selector */
+/* Dropdown specific styling */
 #grid-size-selector {
   color: white;
 }
 
+/* Options specific styling */
 #grid-size-selector option {
   color: white;
 }
 
 /* Label styling */
 label {
-  color: black;
+  color: black; /* Change the color of the label text to black */
   margin-right: 10px;
 }
 
@@ -108,21 +140,22 @@ h1 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 9999;
+  z-index: 9999; /* Ensure the popup is above other content */
 }
 
-/* Popup content styling */
+/* Popup container styling */
 .popup {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
   padding: 20px;
   border-radius: 10px;
   text-align: center;
 }
 
+/* Popup heading styling */
 .popup h2 {
   margin-top: 0;
 }
@@ -138,14 +171,14 @@ h1 {
   cursor: pointer;
 }
 
-/* Responsive design adjustments for smaller screens */
+/* Media queries for mobile screens */
 @media (max-width: 600px) {
   .game-box {
-    width: 120%;
+    width: 90%;
     height: auto;
     padding: 10px;
     margin: 10px;
-   
+    
   }
 
   .game-board {
@@ -154,9 +187,15 @@ h1 {
     aspect-ratio: 1;
   }
 
-  .tile {
-    width: calc((100% / var(--grid-size)) - 5px) !important;
-    height: calc((100% / var(--grid-size)) - 5px) !important;
+  /* .tile {
+    width: calc((100% / var(--grid-size)) - 5px) !important; 
+    height: calc((100% / var(--grid-size)) - 5px) !important; 
+  } */
+
+  .pointsDisplay {
+    font-size: 1em;
+    top: 5px;
+    left: 5px;
   }
 
   .controls {
@@ -170,7 +209,6 @@ h1 {
     width: 100%;
     padding: 10px;
     margin: 5px 0;
-    text-align: center;
   }
 
   label {
