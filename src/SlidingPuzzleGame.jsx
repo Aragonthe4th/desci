@@ -1,62 +1,65 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import './SlidingPuzzleGame.css';
 
+// Array to store the file paths of the images used in the puzzle
 const imageFiles = [
   'image.png',
-  'image1.jpg',
   'image2.jpg'
   // Add more images as needed
 ];
 
+// Map to store the points corresponding to different grid sizes
 const pointsMap = {
-  3: 500,
-  4: 800,
-  5: 1200,
+  4: 500,
+  5: 800,
+  6: 1200,
 };
 
-const getRandomImage = () => {
-  const randomIndex = Math.floor(Math.random() * imageFiles.length);
-  return imageFiles[randomIndex];
-};
+// Function to randomly select an image from the imageFiles array
+const getRandomImage = () => imageFiles[Math.floor(Math.random() * imageFiles.length)];
 
 const SlidingPuzzleGame = ({ updatePoints }) => {
-  const [gridSize, setGridSize] = useState(3); // Default grid size
-  const [tiles, setTiles] = useState([]); // State for the tiles
-  const [selectedTileIndex, setSelectedTileIndex] = useState(null); // State for the selected tile index
-  const [points, setPoints] = useState(0); // State for the points
-  const [imageSrc, setImageSrc] = useState(getRandomImage()); // State for the image source
-  const [showFullImage, setShowFullImage] = useState(false); // State for showing the full image
-  const [showPopup, setShowPopup] = useState(false); // State for showing the popup
+  // State to store the current grid size
+  const [gridSize, setGridSize] = useState(4);
+  // State to store the tiles of the puzzle
+  const [tiles, setTiles] = useState([]);
+  // State to store the index of the currently selected tile
+  const [selectedTileIndex, setSelectedTileIndex] = useState(null);
+  // State to store the total points accumulated by the user
+  const [points, setPoints] = useState(0);
+  // State to store the source of the current image used in the puzzle
+  const [imageSrc, setImageSrc] = useState(getRandomImage());
+  // State to control the visibility of the full image preview
+  const [showFullImage, setShowFullImage] = useState(false);
+  // State to control the visibility of the popup when the puzzle is solved
+  const [showPopup, setShowPopup] = useState(false);
 
+  // Effect to initialize the board when the grid size or image source changes
   useEffect(() => {
     initializeBoard();
   }, [gridSize, imageSrc]);
 
+  // Function to initialize the puzzle board
   const initializeBoard = () => {
-    const newTiles = [];
-    const tileCount = gridSize * gridSize;
-    const tileSize = getTileSize();
-    for (let i = 0; i < tileCount; i++) {
-      newTiles.push({
-        index: i,
-        style: {
-          backgroundImage: `url(${imageSrc})`,
-          backgroundSize: `${gridSize * 100}% ${gridSize * 100}%`,
-          backgroundPosition: `${(i % gridSize) * (100 / (gridSize - 1))}% ${(Math.floor(i / gridSize) * (100 / (gridSize - 1)))}%`,
-          width: `${tileSize}px`,
-          height: `${tileSize}px`,
-        },
-      });
-    }
-    shuffleBoard(newTiles); // Shuffle the tiles after initialization
+    // Create an array of tiles based on the grid size
+    const newTiles = Array.from({ length: gridSize * gridSize }, (_, i) => ({
+      index: i,
+      style: {
+        backgroundImage: `url(${imageSrc})`,
+        backgroundSize: `${gridSize * 100}%`,
+        backgroundPosition: `${(i % gridSize) * (100 / (gridSize - 1))}% ${(Math.floor(i / gridSize) * (100 / (gridSize - 1)))}%`,
+        width: `${getTileSize()}px`,
+        height: `${getTileSize()}px`,
+      },
+    }));
+    // Shuffle the tiles
+    shuffleBoard(newTiles);
   };
 
-  const getTileSize = () => {
-    const isMobile = window.innerWidth <= 600;
-    const boardSize = isMobile ? window.innerWidth * 0.9 : 400;
-    return boardSize / gridSize;
-  };
+  // Function to get the size of each tile based on the window width and grid size
+  const getTileSize = () => (window.innerWidth <= 600 ? window.innerWidth * 0.9 : 400) / gridSize;
 
+  // Function to shuffle the tiles on the board
   const shuffleBoard = (newTiles) => {
     let shuffledTiles;
     do {
@@ -65,11 +68,12 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffledTiles[i], shuffledTiles[j]] = [shuffledTiles[j], shuffledTiles[i]];
       }
-    } while (isSolved(shuffledTiles)); // Ensure the puzzle is not already solved
+    } while (isSolved(shuffledTiles));
 
     setTiles(shuffledTiles);
   };
 
+  // Function to handle the tile click event
   const onTileClick = (index) => {
     if (selectedTileIndex === null) {
       setSelectedTileIndex(index);
@@ -82,28 +86,30 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
       if (isSolved(newTiles)) {
         const earnedPoints = pointsMap[gridSize];
         setPoints(points + earnedPoints);
-        updatePoints(earnedPoints); // Update points in the parent component
-        setShowPopup(true); // Show the popup when puzzle is solved
+        updatePoints(earnedPoints);
+        setShowPopup(true);
       }
     }
   };
 
-  const isSolved = (tiles) => {
-    return tiles.every((tile, i) => tile.index === i);
-  };
+  // Function to check if the puzzle is solved
+  const isSolved = (tiles) => tiles.every((tile, i) => tile.index === i);
 
+  // Function to show the full image for a short duration
   const showFullImageTemporarily = () => {
     setShowFullImage(true);
-    setTimeout(() => {
-      setShowFullImage(false);
-    }, 3000); // Show full image for 3 seconds
+    setTimeout(() => setShowFullImage(false), 3000);
   };
 
+  // Function to close the popup and reshuffle the puzzle with a new random image
   const closePopupAndReshuffle = () => {
     setShowPopup(false);
-    setImageSrc(getRandomImage()); // Set a new random image
+    setImageSrc(getRandomImage());
   };
-
+  // for the love of all holy dont touch this ever.
+  const mediaquery = window.matchMedia ('(min-width: 600px)');
+  const maxWidth = (mediaquery.matches) ? '406px': '350px';
+  // console.log (mediaquery.matches);
   return (
     <div className="container">
       <h1>Picture Swap Puzzle</h1>
@@ -113,16 +119,13 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
           className="game-board"
           style={{
             gridTemplateColumns: `repeat(${gridSize}, 1fr)`,
-            width: '100%',
-            maxWidth: '400px',
-            height: 'auto',
-            aspectRatio: '1',
+            maxWidth: maxWidth,
+            height:'auto',
+            
           }}
         >
           {showFullImage ? (
-            <div className="full-image-wrapper">
-              <div className="full-image" style={{ backgroundImage: `url(${imageSrc})` }}></div>
-            </div>
+            <img src={imageSrc} alt="Full Image" className="full-image" />
           ) : (
             tiles.map((tile, index) => (
               <div
@@ -130,7 +133,7 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
                 className={`tile ${index === selectedTileIndex ? 'selected' : ''}`}
                 style={tile.style}
                 onClick={() => onTileClick(index)}
-              ></div>
+              />
             ))
           )}
         </div>
@@ -145,9 +148,9 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
             setImageSrc(getRandomImage());
           }}
         >
-          <option value={3}>3x3</option>
           <option value={4}>4x4</option>
           <option value={5}>5x5</option>
+          <option value={6}>6x6</option>
         </select>
         <button id="shuffleButton" onClick={initializeBoard}>Shuffle</button>
         <button id="showImageButton" onClick={showFullImageTemporarily}>Show Image</button>
