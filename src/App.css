@@ -79,10 +79,10 @@
     margin: 10px auto;
     font-size: 1em;
     text-align: center;
-    order: 1; /* Ensure it appears after the game-selection */
+    order: 1; 
   }
 
   .game-selection {
-    order: 0; /* Ensure it appears before the points-display */
+    order: 0; 
   }
 }
