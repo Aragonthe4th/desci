@@ -3,14 +3,13 @@ import './SlidingPuzzleGame.css';
 
 const imageFiles = [
   'image.png',
-  
   // Add more images as needed
 ];
 
 const pointsMap = {
-  3: 500,
-  4: 800,
-  5: 1200,
+  6: 600,
+  7: 900,
+  8: 1200,
 };
 
 const getRandomImage = () => {
@@ -19,16 +18,23 @@ const getRandomImage = () => {
 };
 
 const SlidingPuzzleGame = ({ updatePoints }) => {
-  const [gridSize, setGridSize] = useState(4); // Default grid size
-  const [tiles, setTiles] = useState([]); // State for the tiles
-  const [selectedTileIndex, setSelectedTileIndex] = useState(null); // State for the selected tile index
-  const [points, setPoints] = useState(0); // State for the points
-  const [imageSrc, setImageSrc] = useState(getRandomImage()); // State for the image source
-  const [showFullImage, setShowFullImage] = useState(false); // State for showing the full image
-  const [showPopup, setShowPopup] = useState(false); // State for showing the popup
+  const [gridSize, setGridSize] = useState(6);
+  const [tiles, setTiles] = useState([]);
+  const [selectedTileIndex, setSelectedTileIndex] = useState(null);
+  const [points, setPoints] = useState(0);
+  const [imageSrc, setImageSrc] = useState(getRandomImage());
+  const [showFullImage, setShowFullImage] = useState(false);
+  const [showPopup, setShowPopup] = useState(false);
+  const gameBoardRef = useRef(null); // Use ref for the game board
 
   useEffect(() => {
     initializeBoard();
+
+    return () => {
+      setTiles([]);
+      setSelectedTileIndex(null);
+      setShowPopup(false);
+    };
   }, [gridSize, imageSrc]);
 
   const initializeBoard = () => {
@@ -47,12 +53,12 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
         },
       });
     }
-    shuffleBoard(newTiles); // Shuffle the tiles after initialization
+    shuffleBoard(newTiles);
   };
 
   const getTileSize = () => {
     const isMobile = window.innerWidth <= 600;
-    const boardSize = isMobile ? window.innerWidth * 0.7 : 400;
+    const boardSize = isMobile ? window.innerWidth * 0.9 : 400;
     return (boardSize / gridSize);
   };
 
@@ -64,7 +70,7 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffledTiles[i], shuffledTiles[j]] = [shuffledTiles[j], shuffledTiles[i]];
       }
-    } while (isSolved(shuffledTiles)); // Ensure the puzzle is not already solved
+    } while (isSolved(shuffledTiles));
 
     setTiles(shuffledTiles);
   };
@@ -81,8 +87,8 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
       if (isSolved(newTiles)) {
         const earnedPoints = pointsMap[gridSize];
         setPoints(points + earnedPoints);
-        updatePoints(earnedPoints); // Update points in the parent component
-        setShowPopup(true); // Show the popup when puzzle is solved
+        updatePoints(earnedPoints);
+        setShowPopup(true);
       }
     }
   };
@@ -93,11 +99,15 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
 
   const showFullImageTemporarily = () => {
     setShowFullImage(true);
-    document.getElementById('gameBoard').style.width = '85%';
-     setTimeout(() => {
-       setShowFullImage(false);
-       document.getElementById('gameBoard').style.width = 'max-content';
-     }, 3000); // Show full image for 3 seconds
+    if (gameBoardRef.current) {
+      gameBoardRef.current.style.width = '90%';
+    }
+    setTimeout(() => {
+      setShowFullImage(false);
+      if (gameBoardRef.current) {
+        gameBoardRef.current.style.width = 'max-content';
+      }
+    }, 3000);
   };
 
   const closePopup = () => {
@@ -109,12 +119,11 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
       <h1>Sliding Puzzle Game</h1>
       <div className="game-box">
         <div
-          id="gameBoard"
+          ref={gameBoardRef} // Assign ref to the game board div
           className="game-board"
           style={{
             gridTemplateColumns: `repeat(${gridSize}, 1fr)`,
-            width:'max-content',
-            // maxWidth: '406px',
+            width: 'max-content',
             height: 'auto',
             aspectRatio: '1',
           }}
@@ -132,7 +141,6 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
                 onClick={() => onTileClick(index)}
               ></div>
             ))
-           
           )}
         </div>
       </div>
@@ -146,9 +154,9 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
             setImageSrc(getRandomImage());
           }}
         >
-          <option value={4}>4x4</option>
-          <option value={5}>5x5</option>
           <option value={6}>6x6</option>
+          <option value={7}>7x7</option>
+          <option value={8}>8x8</option>
         </select>
         <button id="shuffleButton" onClick={initializeBoard}>Shuffle</button>
         <button id="showImageButton" onClick={showFullImageTemporarily}>Show Image</button>

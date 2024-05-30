@@ -313,6 +313,1910 @@
         { "answerText": "Alzheimer's disease", "isCorrect": false },
         { "answerText": "Parkinson's disease", "isCorrect": false }
       ]
+    },
+    {
+      "questionText": "What condition is characterized by the body's inability to regulate blood sugar?",
+      "answerOptions": [
+        { "answerText": "Diabetes", "isCorrect": true },
+        { "answerText": "Asthma", "isCorrect": false },
+        { "answerText": "Hypertension", "isCorrect": false },
+        { "answerText": "Hypothyroidism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What condition is characterized by the narrowing of the airways and difficulty breathing?",
+      "answerOptions": [
+        { "answerText": "Asthma", "isCorrect": true },
+        { "answerText": "Diabetes", "isCorrect": false },
+        { "answerText": "Heart Disease", "isCorrect": false },
+        { "answerText": "Anemia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What hormone regulates blood sugar levels?",
+      "answerOptions": [
+        { "answerText": "Insulin", "isCorrect": true },
+        { "answerText": "Adrenaline", "isCorrect": false },
+        { "answerText": "Thyroxine", "isCorrect": false },
+        { "answerText": "Cortisol", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the average heart rate for a healthy adult?",
+      "answerOptions": [
+        { "answerText": "60-100 beats per minute", "isCorrect": true },
+        { "answerText": "40-60 beats per minute", "isCorrect": false },
+        { "answerText": "100-120 beats per minute", "isCorrect": false },
+        { "answerText": "120-140 beats per minute", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the common name for the clavicle?",
+      "answerOptions": [
+        { "answerText": "Collarbone", "isCorrect": true },
+        { "answerText": "Shoulder blade", "isCorrect": false },
+        { "answerText": "Kneecap", "isCorrect": false },
+        { "answerText": "Thigh bone", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the common name for the patella?",
+      "answerOptions": [
+        { "answerText": "Kneecap", "isCorrect": true },
+        { "answerText": "Collarbone", "isCorrect": false },
+        { "answerText": "Shoulder blade", "isCorrect": false },
+        { "answerText": "Thigh bone", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the common name for the scapula?",
+      "answerOptions": [
+        { "answerText": "Shoulder blade", "isCorrect": true },
+        { "answerText": "Collarbone", "isCorrect": false },
+        { "answerText": "Kneecap", "isCorrect": false },
+        { "answerText": "Thigh bone", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the adrenal cortex?",
+      "answerOptions": [
+        { "answerText": "Produces steroid hormones", "isCorrect": true },
+        { "answerText": "Produces insulin", "isCorrect": false },
+        { "answerText": "Filters blood", "isCorrect": false },
+        { "answerText": "Produces digestive enzymes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the adrenal glands?",
+      "answerOptions": [
+        { "answerText": "Produce hormones like adrenaline and cortisol", "isCorrect": true },
+        { "answerText": "Regulate blood sugar", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the alveoli in the lungs?",
+      "answerOptions": [
+        { "answerText": "Exchange oxygen and carbon dioxide", "isCorrect": true },
+        { "answerText": "Produce mucus", "isCorrect": false },
+        { "answerText": "Filter dust and bacteria", "isCorrect": false },
+        { "answerText": "Move air in and out of the lungs", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the cochlea in the ear?",
+      "answerOptions": [
+        { "answerText": "Convert sound waves into nerve impulses", "isCorrect": true },
+        { "answerText": "Balance the body", "isCorrect": false },
+        { "answerText": "Transmit sound to the outer ear", "isCorrect": false },
+        { "answerText": "Produce earwax", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the eustachian tube?",
+      "answerOptions": [
+        { "answerText": "Equalize pressure in the middle ear", "isCorrect": true },
+        { "answerText": "Convert sound waves into nerve impulses", "isCorrect": false },
+        { "answerText": "Transmit sound to the inner ear", "isCorrect": false },
+        { "answerText": "Produce earwax", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the gallbladder?",
+      "answerOptions": [
+        { "answerText": "Store and concentrate bile", "isCorrect": true },
+        { "answerText": "Produce digestive enzymes", "isCorrect": false },
+        { "answerText": "Filter toxins from the blood", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the hypothalamus?",
+      "answerOptions": [
+        { "answerText": "Regulate body temperature and hunger", "isCorrect": true },
+        { "answerText": "Control movement and coordination", "isCorrect": false },
+        { "answerText": "Filter toxins from the blood", "isCorrect": false },
+        { "answerText": "Produce digestive enzymes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the immune system?",
+      "answerOptions": [
+        { "answerText": "Protect the body against infections", "isCorrect": true },
+        { "answerText": "Regulate blood sugar levels", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Filter toxins from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the islets of Langerhans?",
+      "answerOptions": [
+        { "answerText": "Produce insulin and glucagon", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the kidneys?",
+      "answerOptions": [
+        { "answerText": "Filter waste from the blood", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the lacrimal glands?",
+      "answerOptions": [
+        { "answerText": "Produce tears", "isCorrect": true },
+        { "answerText": "Produce saliva", "isCorrect": false },
+        { "answerText": "Produce digestive enzymes", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the liver?",
+      "answerOptions": [
+        { "answerText": "Detoxify chemicals and metabolize drugs", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce digestive enzymes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the mammary glands?",
+      "answerOptions": [
+        { "answerText": "Produce milk", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the optic nerve?",
+      "answerOptions": [
+        { "answerText": "Transmit visual information from the eye to the brain", "isCorrect": true },
+        { "answerText": "Transmit sound from the ear to the brain", "isCorrect": false },
+        { "answerText": "Regulate balance", "isCorrect": false },
+        { "answerText": "Produce tears", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the ovaries?",
+      "answerOptions": [
+        { "answerText": "Produce eggs and hormones", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the pancreas?",
+      "answerOptions": [
+        { "answerText": "Produce digestive enzymes and hormones", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the parathyroid glands?",
+      "answerOptions": [
+        { "answerText": "Regulate calcium levels in the blood", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the pineal gland?",
+      "answerOptions": [
+        { "answerText": "Regulate sleep-wake cycles", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the pituitary gland?",
+      "answerOptions": [
+        { "answerText": "Regulate other endocrine glands", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Produce insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the prostate gland?",
+      "answerOptions": [
+        { "answerText": "Produce seminal fluid", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the pyloric sphincter?",
+      "answerOptions": [
+        { "answerText": "Control the passage of food from the stomach to the small intestine", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce digestive enzymes", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the retina in the eye?",
+      "answerOptions": [
+        { "answerText": "Detect light and convert it into neural signals", "isCorrect": true },
+        { "answerText": "Produce tears", "isCorrect": false },
+        { "answerText": "Transmit sound to the brain", "isCorrect": false },
+        { "answerText": "Regulate balance", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the salivary glands?",
+      "answerOptions": [
+        { "answerText": "Produce saliva", "isCorrect": true },
+        { "answerText": "Produce tears", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the sebaceous glands?",
+      "answerOptions": [
+        { "answerText": "Produce oil to lubricate the skin", "isCorrect": true },
+        { "answerText": "Produce tears", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the small intestine?",
+      "answerOptions": [
+        { "answerText": "Absorb nutrients from digested food", "isCorrect": true },
+        { "answerText": "Produce digestive enzymes", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the spleen?",
+      "answerOptions": [
+        { "answerText": "Filter blood and help fight infections", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the submandibular gland?",
+      "answerOptions": [
+        { "answerText": "Produce saliva", "isCorrect": true },
+        { "answerText": "Produce tears", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the sweat glands?",
+      "answerOptions": [
+        { "answerText": "Produce sweat to cool the body", "isCorrect": true },
+        { "answerText": "Produce oil to lubricate the skin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce tears", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the testes?",
+      "answerOptions": [
+        { "answerText": "Produce sperm and testosterone", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the thymus gland?",
+      "answerOptions": [
+        { "answerText": "Produce T-cells for the immune system", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the thyroid gland?",
+      "answerOptions": [
+        { "answerText": "Regulate metabolism", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the vestibular system?",
+      "answerOptions": [
+        { "answerText": "Maintain balance and spatial orientation", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Produce tears", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the largest muscle in the human body?",
+      "answerOptions": [
+        { "answerText": "Gluteus maximus", "isCorrect": true },
+        { "answerText": "Quadriceps", "isCorrect": false },
+        { "answerText": "Hamstrings", "isCorrect": false },
+        { "answerText": "Pectoralis major", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the largest organ in the human body?",
+      "answerOptions": [
+        { "answerText": "Skin", "isCorrect": true },
+        { "answerText": "Liver", "isCorrect": false },
+        { "answerText": "Brain", "isCorrect": false },
+        { "answerText": "Heart", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of Alzheimer's disease?",
+      "answerOptions": [
+        { "answerText": "Accumulation of amyloid plaques and tau tangles in the brain", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of Crohn's disease?",
+      "answerOptions": [
+        { "answerText": "Autoimmune reaction in the digestive tract", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of Parkinson's disease?",
+      "answerOptions": [
+        { "answerText": "Loss of dopamine-producing neurons in the brain", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of Type 2 diabetes?",
+      "answerOptions": [
+        { "answerText": "Insulin resistance and poor insulin production", "isCorrect": true },
+        { "answerText": "Autoimmune destruction of insulin-producing cells", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of anemia?",
+      "answerOptions": [
+        { "answerText": "Lack of healthy red blood cells", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of appendicitis?",
+      "answerOptions": [
+        { "answerText": "Blockage in the lining of the appendix", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of arthritis?",
+      "answerOptions": [
+        { "answerText": "Inflammation of the joints", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of asthma?",
+      "answerOptions": [
+        { "answerText": "Inflammation and narrowing of the airways", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of atherosclerosis?",
+      "answerOptions": [
+        { "answerText": "Buildup of plaque in the arteries", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of cataracts?",
+      "answerOptions": [
+        { "answerText": "Clouding of the eye's lens", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of celiac disease?",
+      "answerOptions": [
+        { "answerText": "Autoimmune reaction to gluten", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of cholecystitis?",
+      "answerOptions": [
+        { "answerText": "Inflammation of the gallbladder", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of chronic kidney disease?",
+      "answerOptions": [
+        { "answerText": "Diabetes and high blood pressure", "isCorrect": true },
+        { "answerText": "Autoimmune reaction", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of chronic obstructive pulmonary disease?",
+      "answerOptions": [
+        { "answerText": "Long-term exposure to lung irritants", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of diabetes?",
+      "answerOptions": [
+        { "answerText": "Insulin resistance and poor insulin production", "isCorrect": true },
+        { "answerText": "Autoimmune destruction of insulin-producing cells", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of eczema?",
+      "answerOptions": [
+        { "answerText": "Inflammation of the skin", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of gallstones?",
+      "answerOptions": [
+        { "answerText": "Imbalance in the substances that make up bile", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of gout?",
+      "answerOptions": [
+        { "answerText": "High levels of uric acid in the blood", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of hay fever?",
+      "answerOptions": [
+        { "answerText": "Allergic reaction to pollen", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of heart disease?",
+      "answerOptions": [
+        { "answerText": "Buildup of plaque in the arteries", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of hepatitis?",
+      "answerOptions": [
+        { "answerText": "Viral infection", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Autoimmune reaction", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of hyperlipidemia?",
+      "answerOptions": [
+        { "answerText": "High levels of lipids (fats) in the blood", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of hypertension?",
+      "answerOptions": [
+        { "answerText": "High blood pressure", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of hyperthyroidism?",
+      "answerOptions": [
+        { "answerText": "Overactive thyroid gland", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of irritable bowel syndrome?",
+      "answerOptions": [
+        { "answerText": "Unknown, but factors include diet, stress, and hormones", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of kidney stones?",
+      "answerOptions": [
+        { "answerText": "High levels of certain substances in the urine", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of liver cirrhosis?",
+      "answerOptions": [
+        { "answerText": "Chronic liver damage from various causes", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of lung cancer?",
+      "answerOptions": [
+        { "answerText": "Smoking and exposure to certain substances", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of lupus?",
+      "answerOptions": [
+        { "answerText": "Autoimmune reaction", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of meningitis?",
+      "answerOptions": [
+        { "answerText": "Infection (bacterial or viral)", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Autoimmune reaction", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of multiple sclerosis?",
+      "answerOptions": [
+        { "answerText": "Autoimmune reaction that damages nerve coverings", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of osteoporosis?",
+      "answerOptions": [
+        { "answerText": "Loss of bone density", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of pancreatitis?",
+      "answerOptions": [
+        { "answerText": "Inflammation of the pancreas", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of peptic ulcers?",
+      "answerOptions": [
+        { "answerText": "Infection with H. pylori bacteria or use of NSAIDs", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of psoriasis?",
+      "answerOptions": [
+        { "answerText": "Autoimmune reaction", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of rheumatoid arthritis?",
+      "answerOptions": [
+        { "answerText": "Autoimmune reaction", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of rosacea?",
+      "answerOptions": [
+        { "answerText": "Unknown, but factors include genetics and environmental triggers", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of scoliosis?",
+      "answerOptions": [
+        { "answerText": "Unknown, but factors include genetics and neuromuscular conditions", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of shingles?",
+      "answerOptions": [
+        { "answerText": "Reactivation of the varicella-zoster virus", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of skin cancer?",
+      "answerOptions": [
+        { "answerText": "Exposure to ultraviolet (UV) radiation", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of sleep apnea?",
+      "answerOptions": [
+        { "answerText": "Obstruction of the airway during sleep", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of thyroiditis?",
+      "answerOptions": [
+        { "answerText": "Inflammation of the thyroid gland", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of tooth decay?",
+      "answerOptions": [
+        { "answerText": "Bacteria in the mouth producing acid that damages teeth", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main cause of varicose veins?",
+      "answerOptions": [
+        { "answerText": "Weak or damaged vein valves", "isCorrect": true },
+        { "answerText": "High blood sugar levels", "isCorrect": false },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Exposure to allergens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main component of blood plasma?",
+      "answerOptions": [
+        { "answerText": "Water", "isCorrect": true },
+        { "answerText": "Proteins", "isCorrect": false },
+        { "answerText": "Electrolytes", "isCorrect": false },
+        { "answerText": "Glucose", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main component of the central nervous system?",
+      "answerOptions": [
+        { "answerText": "Brain and spinal cord", "isCorrect": true },
+        { "answerText": "Nerves and ganglia", "isCorrect": false },
+        { "answerText": "Heart and blood vessels", "isCorrect": false },
+        { "answerText": "Bones and muscles", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main component of the human brain?",
+      "answerOptions": [
+        { "answerText": "Neurons and glial cells", "isCorrect": true },
+        { "answerText": "Bones and muscles", "isCorrect": false },
+        { "answerText": "Heart and blood vessels", "isCorrect": false },
+        { "answerText": "Skin and hair", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of red blood cells?",
+      "answerOptions": [
+        { "answerText": "Transport oxygen", "isCorrect": true },
+        { "answerText": "Fight infections", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the digestive system?",
+      "answerOptions": [
+        { "answerText": "Break down food and absorb nutrients", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the large intestine?",
+      "answerOptions": [
+        { "answerText": "Absorb water and form stool", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the lymphatic system?",
+      "answerOptions": [
+        { "answerText": "Transport lymph and fight infections", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the reproductive system?",
+      "answerOptions": [
+        { "answerText": "Produce offspring", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the respiratory system?",
+      "answerOptions": [
+        { "answerText": "Exchange oxygen and carbon dioxide", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for a heart attack?",
+      "answerOptions": [
+        { "answerText": "Myocardial infarction", "isCorrect": true },
+        { "answerText": "Cerebrovascular accident", "isCorrect": false },
+        { "answerText": "Hypertension", "isCorrect": false },
+        { "answerText": "Arrhythmia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for a stroke?",
+      "answerOptions": [
+        { "answerText": "Cerebrovascular accident", "isCorrect": true },
+        { "answerText": "Myocardial infarction", "isCorrect": false },
+        { "answerText": "Hypertension", "isCorrect": false },
+        { "answerText": "Arrhythmia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for high blood pressure?",
+      "answerOptions": [
+        { "answerText": "Hypertension", "isCorrect": true },
+        { "answerText": "Hypotension", "isCorrect": false },
+        { "answerText": "Arrhythmia", "isCorrect": false },
+        { "answerText": "Myocardial infarction", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for inflammation of the joints?",
+      "answerOptions": [
+        { "answerText": "Arthritis", "isCorrect": true },
+        { "answerText": "Bursitis", "isCorrect": false },
+        { "answerText": "Tendonitis", "isCorrect": false },
+        { "answerText": "Osteoporosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for low blood sugar?",
+      "answerOptions": [
+        { "answerText": "Hypoglycemia", "isCorrect": true },
+        { "answerText": "Hyperglycemia", "isCorrect": false },
+        { "answerText": "Hypotension", "isCorrect": false },
+        { "answerText": "Hypertension", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the ankle bones?",
+      "answerOptions": [
+        { "answerText": "Tarsals", "isCorrect": true },
+        { "answerText": "Carpals", "isCorrect": false },
+        { "answerText": "Metacarpals", "isCorrect": false },
+        { "answerText": "Metatarsals", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the back of the knee?",
+      "answerOptions": [
+        { "answerText": "Popliteal", "isCorrect": true },
+        { "answerText": "Patellar", "isCorrect": false },
+        { "answerText": "Femoral", "isCorrect": false },
+        { "answerText": "Tibial", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the breastbone?",
+      "answerOptions": [
+        { "answerText": "Sternum", "isCorrect": true },
+        { "answerText": "Clavicle", "isCorrect": false },
+        { "answerText": "Scapula", "isCorrect": false },
+        { "answerText": "Xiphoid process", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the calf bone?",
+      "answerOptions": [
+        { "answerText": "Fibula", "isCorrect": true },
+        { "answerText": "Tibia", "isCorrect": false },
+        { "answerText": "Femur", "isCorrect": false },
+        { "answerText": "Patella", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the cheekbone?",
+      "answerOptions": [
+        { "answerText": "Zygomatic bone", "isCorrect": true },
+        { "answerText": "Maxilla", "isCorrect": false },
+        { "answerText": "Mandible", "isCorrect": false },
+        { "answerText": "Frontal bone", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the collarbone?",
+      "answerOptions": [
+        { "answerText": "Clavicle", "isCorrect": true },
+        { "answerText": "Scapula", "isCorrect": false },
+        { "answerText": "Sternum", "isCorrect": false },
+        { "answerText": "Humerus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the elbow joint?",
+      "answerOptions": [
+        { "answerText": "Olecranon", "isCorrect": true },
+        { "answerText": "Radius", "isCorrect": false },
+        { "answerText": "Ulna", "isCorrect": false },
+        { "answerText": "Humerus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the heel bone?",
+      "answerOptions": [
+        { "answerText": "Calcaneus", "isCorrect": true },
+        { "answerText": "Talus", "isCorrect": false },
+        { "answerText": "Navicular", "isCorrect": false },
+        { "answerText": "Cuboid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the hip bone?",
+      "answerOptions": [
+        { "answerText": "Pelvis", "isCorrect": true },
+        { "answerText": "Femur", "isCorrect": false },
+        { "answerText": "Ilium", "isCorrect": false },
+        { "answerText": "Ischium", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the knee joint?",
+      "answerOptions": [
+        { "answerText": "Patella", "isCorrect": true },
+        { "answerText": "Tibia", "isCorrect": false },
+        { "answerText": "Femur", "isCorrect": false },
+        { "answerText": "Fibula", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the kneecap?",
+      "answerOptions": [
+        { "answerText": "Patella", "isCorrect": true },
+        { "answerText": "Femur", "isCorrect": false },
+        { "answerText": "Tibia", "isCorrect": false },
+        { "answerText": "Fibula", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the lower jawbone?",
+      "answerOptions": [
+        { "answerText": "Mandible", "isCorrect": true },
+        { "answerText": "Maxilla", "isCorrect": false },
+        { "answerText": "Zygomatic bone", "isCorrect": false },
+        { "answerText": "Frontal bone", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the shin bone?",
+      "answerOptions": [
+        { "answerText": "Tibia", "isCorrect": true },
+        { "answerText": "Fibula", "isCorrect": false },
+        { "answerText": "Femur", "isCorrect": false },
+        { "answerText": "Patella", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the shoulder blade?",
+      "answerOptions": [
+        { "answerText": "Scapula", "isCorrect": true },
+        { "answerText": "Clavicle", "isCorrect": false },
+        { "answerText": "Sternum", "isCorrect": false },
+        { "answerText": "Humerus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the tailbone?",
+      "answerOptions": [
+        { "answerText": "Coccyx", "isCorrect": true },
+        { "answerText": "Sacrum", "isCorrect": false },
+        { "answerText": "Lumbar vertebrae", "isCorrect": false },
+        { "answerText": "Ilium", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the thigh bone?",
+      "answerOptions": [
+        { "answerText": "Femur", "isCorrect": true },
+        { "answerText": "Tibia", "isCorrect": false },
+        { "answerText": "Fibula", "isCorrect": false },
+        { "answerText": "Patella", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the upper arm bone?",
+      "answerOptions": [
+        { "answerText": "Humerus", "isCorrect": true },
+        { "answerText": "Radius", "isCorrect": false },
+        { "answerText": "Ulna", "isCorrect": false },
+        { "answerText": "Clavicle", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the upper jawbone?",
+      "answerOptions": [
+        { "answerText": "Maxilla", "isCorrect": true },
+        { "answerText": "Mandible", "isCorrect": false },
+        { "answerText": "Zygomatic bone", "isCorrect": false },
+        { "answerText": "Frontal bone", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the voice box?",
+      "answerOptions": [
+        { "answerText": "Larynx", "isCorrect": true },
+        { "answerText": "Pharynx", "isCorrect": false },
+        { "answerText": "Trachea", "isCorrect": false },
+        { "answerText": "Esophagus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the windpipe?",
+      "answerOptions": [
+        { "answerText": "Trachea", "isCorrect": true },
+        { "answerText": "Larynx", "isCorrect": false },
+        { "answerText": "Pharynx", "isCorrect": false },
+        { "answerText": "Esophagus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the medical term for the wrist bones?",
+      "answerOptions": [
+        { "answerText": "Carpals", "isCorrect": true },
+        { "answerText": "Tarsals", "isCorrect": false },
+        { "answerText": "Metacarpals", "isCorrect": false },
+        { "answerText": "Phalanges", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the normal range for adult blood pressure?",
+      "answerOptions": [
+        { "answerText": "120/80 mmHg", "isCorrect": true },
+        { "answerText": "140/90 mmHg", "isCorrect": false },
+        { "answerText": "100/70 mmHg", "isCorrect": false },
+        { "answerText": "130/85 mmHg", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary cause of obesity?",
+      "answerOptions": [
+        { "answerText": "Excessive calorie intake and lack of physical activity", "isCorrect": true },
+        { "answerText": "Viral infection", "isCorrect": false },
+        { "answerText": "Autoimmune reaction", "isCorrect": false },
+        { "answerText": "Genetic factors alone", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary component of the human skeleton?",
+      "answerOptions": [
+        { "answerText": "Bones", "isCorrect": true },
+        { "answerText": "Cartilage", "isCorrect": false },
+        { "answerText": "Muscles", "isCorrect": false },
+        { "answerText": "Ligaments", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the cardiovascular system?",
+      "answerOptions": [
+        { "answerText": "Transport oxygen, nutrients, and waste", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the circulatory system?",
+      "answerOptions": [
+        { "answerText": "Transport oxygen, nutrients, and waste", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the endocrine system?",
+      "answerOptions": [
+        { "answerText": "Produce hormones", "isCorrect": true },
+        { "answerText": "Transport oxygen, nutrients, and waste", "isCorrect": false },
+        { "answerText": "Absorb nutrients", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the excretory system?",
+      "answerOptions": [
+        { "answerText": "Remove waste from the body", "isCorrect": true },
+        { "answerText": "Transport oxygen, nutrients, and waste", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the gastrointestinal tract?",
+      "answerOptions": [
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": true },
+        { "answerText": "Remove waste from the body", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the kidneys?",
+      "answerOptions": [
+        { "answerText": "Filter waste from the blood", "isCorrect": true },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the liver?",
+      "answerOptions": [
+        { "answerText": "Detoxify chemicals and metabolize drugs", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the lymph nodes?",
+      "answerOptions": [
+        { "answerText": "Filter lymph and fight infections", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the lymphatic system?",
+      "answerOptions": [
+        { "answerText": "Transport lymph and fight infections", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the muscular system?",
+      "answerOptions": [
+        { "answerText": "Enable movement", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the nervous system?",
+      "answerOptions": [
+        { "answerText": "Transmit signals between different parts of the body", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the peripheral nervous system?",
+      "answerOptions": [
+        { "answerText": "Connect the central nervous system to limbs and organs", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the respiratory system?",
+      "answerOptions": [
+        { "answerText": "Exchange oxygen and carbon dioxide", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the respiratory tract?",
+      "answerOptions": [
+        { "answerText": "Transport air to and from the lungs", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the skeletal system?",
+      "answerOptions": [
+        { "answerText": "Provide support and protection", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the spleen?",
+      "answerOptions": [
+        { "answerText": "Filter blood and help fight infections", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary function of the urinary system?",
+      "answerOptions": [
+        { "answerText": "Remove waste from the body", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the autonomic nervous system?",
+      "answerOptions": [
+        { "answerText": "Control involuntary bodily functions", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the cardiovascular system?",
+      "answerOptions": [
+        { "answerText": "Transport oxygen, nutrients, and waste", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the central nervous system?",
+      "answerOptions": [
+        { "answerText": "Process information and control responses", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the cerebellum?",
+      "answerOptions": [
+        { "answerText": "Coordinate voluntary movements", "isCorrect": true },
+        { "answerText": "Process information", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the cerebrum?",
+      "answerOptions": [
+        { "answerText": "Process complex sensory and neural functions", "isCorrect": true },
+        { "answerText": "Coordinate voluntary movements", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the corpus callosum?",
+      "answerOptions": [
+        { "answerText": "Connect the left and right hemispheres of the brain", "isCorrect": true },
+        { "answerText": "Process information", "isCorrect": false },
+        { "answerText": "Coordinate voluntary movements", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the digestive system?",
+      "answerOptions": [
+        { "answerText": "Break down food and absorb nutrients", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the excretory system?",
+      "answerOptions": [
+        { "answerText": "Remove waste from the body", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the immune system?",
+      "answerOptions": [
+        { "answerText": "Protect the body against infections", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the integumentary system?",
+      "answerOptions": [
+        { "answerText": "Protect the body from external damage", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the limbic system?",
+      "answerOptions": [
+        { "answerText": "Regulate emotions and memory", "isCorrect": true },
+        { "answerText": "Process information", "isCorrect": false },
+        { "answerText": "Coordinate voluntary movements", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the nervous system?",
+      "answerOptions": [
+        { "answerText": "Transmit signals between different parts of the body", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the renal system?",
+      "answerOptions": [
+        { "answerText": "Remove waste from the body", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the reproductive system?",
+      "answerOptions": [
+        { "answerText": "Produce offspring", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the respiratory system?",
+      "answerOptions": [
+        { "answerText": "Exchange oxygen and carbon dioxide", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the primary role of the urinary system?",
+      "answerOptions": [
+        { "answerText": "Remove waste from the body", "isCorrect": true },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Digest food and absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of insulin in the body?",
+      "answerOptions": [
+        { "answerText": "Regulate blood sugar levels", "isCorrect": true },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Produce energy", "isCorrect": false },
+        { "answerText": "Transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of platelets in the blood?",
+      "answerOptions": [
+        { "answerText": "Help in blood clotting", "isCorrect": true },
+        { "answerText": "Transport oxygen", "isCorrect": false },
+        { "answerText": "Fight infections", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the hypothalamus?",
+      "answerOptions": [
+        { "answerText": "Regulate body temperature and hunger", "isCorrect": true },
+        { "answerText": "Control movement and coordination", "isCorrect": false },
+        { "answerText": "Filter toxins from the blood", "isCorrect": false },
+        { "answerText": "Produce digestive enzymes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the medulla oblongata?",
+      "answerOptions": [
+        { "answerText": "Control autonomic functions like breathing and heart rate", "isCorrect": true },
+        { "answerText": "Regulate body temperature and hunger", "isCorrect": false },
+        { "answerText": "Produce hormones", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the pancreas in digestion?",
+      "answerOptions": [
+        { "answerText": "Produce digestive enzymes and hormones", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Store bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the pituitary gland?",
+      "answerOptions": [
+        { "answerText": "Regulate other endocrine glands", "isCorrect": true },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false },
+        { "answerText": "Produce insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the thyroid gland?",
+      "answerOptions": [
+        { "answerText": "Regulate metabolism", "isCorrect": true },
+        { "answerText": "Produce insulin", "isCorrect": false },
+        { "answerText": "Filter waste from the blood", "isCorrect": false },
+        { "answerText": "Aid in digestion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the abnormal curvature of the spine?",
+      "answerOptions": [
+        { "answerText": "Scoliosis", "isCorrect": true },
+        { "answerText": "Kyphosis", "isCorrect": false },
+        { "answerText": "Lordosis", "isCorrect": false },
+        { "answerText": "Osteoporosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the body's ability to maintain a stable internal environment?",
+      "answerOptions": [
+        { "answerText": "Homeostasis", "isCorrect": true },
+        { "answerText": "Metabolism", "isCorrect": false },
+        { "answerText": "Hemostasis", "isCorrect": false },
+        { "answerText": "Osmosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the body's natural painkillers?",
+      "answerOptions": [
+        { "answerText": "Endorphins", "isCorrect": true },
+        { "answerText": "Adrenaline", "isCorrect": false },
+        { "answerText": "Serotonin", "isCorrect": false },
+        { "answerText": "Dopamine", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the body's response to injury or infection?",
+      "answerOptions": [
+        { "answerText": "Inflammation", "isCorrect": true },
+        { "answerText": "Infection", "isCorrect": false },
+        { "answerText": "Allergy", "isCorrect": false },
+        { "answerText": "Fever", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the body's response to stress?",
+      "answerOptions": [
+        { "answerText": "Fight or flight response", "isCorrect": true },
+        { "answerText": "Homeostasis", "isCorrect": false },
+        { "answerText": "Metabolism", "isCorrect": false },
+        { "answerText": "Hemostasis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the breakdown of food in the mouth?",
+      "answerOptions": [
+        { "answerText": "Mastication", "isCorrect": true },
+        { "answerText": "Deglutition", "isCorrect": false },
+        { "answerText": "Peristalsis", "isCorrect": false },
+        { "answerText": "Absorption", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the buildup of plaque in the arteries?",
+      "answerOptions": [
+        { "answerText": "Atherosclerosis", "isCorrect": true },
+        { "answerText": "Arteriosclerosis", "isCorrect": false },
+        { "answerText": "Hypertension", "isCorrect": false },
+        { "answerText": "Thrombosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the condition of brittle bones?",
+      "answerOptions": [
+        { "answerText": "Osteoporosis", "isCorrect": true },
+        { "answerText": "Osteoarthritis", "isCorrect": false },
+        { "answerText": "Rickets", "isCorrect": false },
+        { "answerText": "Osteomyelitis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the condition of excessive body hair?",
+      "answerOptions": [
+        { "answerText": "Hirsutism", "isCorrect": true },
+        { "answerText": "Alopecia", "isCorrect": false },
+        { "answerText": "Hypertrichosis", "isCorrect": false },
+        { "answerText": "Hypotrichosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the condition of excessive sweating?",
+      "answerOptions": [
+        { "answerText": "Hyperhidrosis", "isCorrect": true },
+        { "answerText": "Anhidrosis", "isCorrect": false },
+        { "answerText": "Hypohidrosis", "isCorrect": false },
+        { "answerText": "Diaphoresis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the condition of high blood cholesterol?",
+      "answerOptions": [
+        { "answerText": "Hypercholesterolemia", "isCorrect": true },
+        { "answerText": "Hypocholesterolemia", "isCorrect": false },
+        { "answerText": "Hyperlipidemia", "isCorrect": false },
+        { "answerText": "Hyperglycemia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the condition of high blood sugar?",
+      "answerOptions": [
+        { "answerText": "Hyperglycemia", "isCorrect": true },
+        { "answerText": "Hypoglycemia", "isCorrect": false },
+        { "answerText": "Hypercholesterolemia", "isCorrect": false },
+        { "answerText": "Hypotension", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the condition of low blood sugar?",
+      "answerOptions": [
+        { "answerText": "Hypoglycemia", "isCorrect": true },
+        { "answerText": "Hyperglycemia", "isCorrect": false },
+        { "answerText": "Hypocholesterolemia", "isCorrect": false },
+        { "answerText": "Hypotension", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the enlargement of the prostate gland?",
+      "answerOptions": [
+        { "answerText": "Benign prostatic hyperplasia", "isCorrect": true },
+        { "answerText": "Prostatitis", "isCorrect": false },
+        { "answerText": "Prostate cancer", "isCorrect": false },
+        { "answerText": "Epididymitis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the formation of blood cells?",
+      "answerOptions": [
+        { "answerText": "Hematopoiesis", "isCorrect": true },
+        { "answerText": "Hemostasis", "isCorrect": false },
+        { "answerText": "Hemolysis", "isCorrect": false },
+        { "answerText": "Thrombopoiesis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the hardening of the arteries?",
+      "answerOptions": [
+        { "answerText": "Arteriosclerosis", "isCorrect": true },
+        { "answerText": "Atherosclerosis", "isCorrect": false },
+        { "answerText": "Thrombosis", "isCorrect": false },
+        { "answerText": "Phlebitis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the hardening of the skin?",
+      "answerOptions": [
+        { "answerText": "Scleroderma", "isCorrect": true },
+        { "answerText": "Dermatitis", "isCorrect": false },
+        { "answerText": "Eczema", "isCorrect": false },
+        { "answerText": "Psoriasis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the inflammation of the bronchial tubes?",
+      "answerOptions": [
+        { "answerText": "Bronchitis", "isCorrect": true },
+        { "answerText": "Pneumonia", "isCorrect": false },
+        { "answerText": "Asthma", "isCorrect": false },
+        { "answerText": "Emphysema", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the inflammation of the gallbladder?",
+      "answerOptions": [
+        { "answerText": "Cholecystitis", "isCorrect": true },
+        { "answerText": "Hepatitis", "isCorrect": false },
+        { "answerText": "Pancreatitis", "isCorrect": false },
+        { "answerText": "Gastritis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the inflammation of the joints?",
+      "answerOptions": [
+        { "answerText": "Arthritis", "isCorrect": true },
+        { "answerText": "Bursitis", "isCorrect": false },
+        { "answerText": "Tendonitis", "isCorrect": false },
+        { "answerText": "Osteoporosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the inflammation of the liver?",
+      "answerOptions": [
+        { "answerText": "Hepatitis", "isCorrect": true },
+        { "answerText": "Cirrhosis", "isCorrect": false },
+        { "answerText": "Pancreatitis", "isCorrect": false },
+        { "answerText": "Gastritis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the inflammation of the pancreas?",
+      "answerOptions": [
+        { "answerText": "Pancreatitis", "isCorrect": true },
+        { "answerText": "Hepatitis", "isCorrect": false },
+        { "answerText": "Cholecystitis", "isCorrect": false },
+        { "answerText": "Gastritis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the inflammation of the tonsils?",
+      "answerOptions": [
+        { "answerText": "Tonsillitis", "isCorrect": true },
+        { "answerText": "Pharyngitis", "isCorrect": false },
+        { "answerText": "Laryngitis", "isCorrect": false },
+        { "answerText": "Stomatitis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the involuntary contraction of muscles?",
+      "answerOptions": [
+        { "answerText": "Spasm", "isCorrect": true },
+        { "answerText": "Twitch", "isCorrect": false },
+        { "answerText": "Cramp", "isCorrect": false },
+        { "answerText": "Tetany", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the lack of oxygen in the blood?",
+      "answerOptions": [
+        { "answerText": "Hypoxemia", "isCorrect": true },
+        { "answerText": "Hypoxia", "isCorrect": false },
+        { "answerText": "Anemia", "isCorrect": false },
+        { "answerText": "Hypercapnia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the lack of red blood cells?",
+      "answerOptions": [
+        { "answerText": "Anemia", "isCorrect": true },
+        { "answerText": "Leukopenia", "isCorrect": false },
+        { "answerText": "Thrombocytopenia", "isCorrect": false },
+        { "answerText": "Polycythemia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the lack of white blood cells?",
+      "answerOptions": [
+        { "answerText": "Leukopenia", "isCorrect": true },
+        { "answerText": "Anemia", "isCorrect": false },
+        { "answerText": "Thrombocytopenia", "isCorrect": false },
+        { "answerText": "Polycythemia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the loss of bone density?",
+      "answerOptions": [
+        { "answerText": "Osteoporosis", "isCorrect": true },
+        { "answerText": "Osteoarthritis", "isCorrect": false },
+        { "answerText": "Rickets", "isCorrect": false },
+        { "answerText": "Osteomyelitis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the loss of muscle mass?",
+      "answerOptions": [
+        { "answerText": "Sarcopenia", "isCorrect": true },
+        { "answerText": "Cachexia", "isCorrect": false },
+        { "answerText": "Atrophy", "isCorrect": false },
+        { "answerText": "Hypertrophy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the loss of vision in one eye?",
+      "answerOptions": [
+        { "answerText": "Amblyopia", "isCorrect": true },
+        { "answerText": "Diplopia", "isCorrect": false },
+        { "answerText": "Presbyopia", "isCorrect": false },
+        { "answerText": "Myopia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process of bone formation?",
+      "answerOptions": [
+        { "answerText": "Ossification", "isCorrect": true },
+        { "answerText": "Calcification", "isCorrect": false },
+        { "answerText": "Osteogenesis", "isCorrect": false },
+        { "answerText": "Osteolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process of breathing?",
+      "answerOptions": [
+        { "answerText": "Respiration", "isCorrect": true },
+        { "answerText": "Inhalation", "isCorrect": false },
+        { "answerText": "Exhalation", "isCorrect": false },
+        { "answerText": "Ventilation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the protective outer layer of the skin?",
+      "answerOptions": [
+        { "answerText": "Epidermis", "isCorrect": true },
+        { "answerText": "Dermis", "isCorrect": false },
+        { "answerText": "Hypodermis", "isCorrect": false },
+        { "answerText": "Stratum corneum", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the reduction in red blood cells?",
+      "answerOptions": [
+        { "answerText": "Anemia", "isCorrect": true },
+        { "answerText": "Leukopenia", "isCorrect": false },
+        { "answerText": "Thrombocytopenia", "isCorrect": false },
+        { "answerText": "Polycythemia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the sensation of spinning?",
+      "answerOptions": [
+        { "answerText": "Vertigo", "isCorrect": true },
+        { "answerText": "Dizziness", "isCorrect": false },
+        { "answerText": "Nystagmus", "isCorrect": false },
+        { "answerText": "Tinnitus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the surgical removal of the appendix?",
+      "answerOptions": [
+        { "answerText": "Appendectomy", "isCorrect": true },
+        { "answerText": "Cholecystectomy", "isCorrect": false },
+        { "answerText": "Hysterectomy", "isCorrect": false },
+        { "answerText": "Laparotomy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the thickening of the arterial walls?",
+      "answerOptions": [
+        { "answerText": "Arteriosclerosis", "isCorrect": true },
+        { "answerText": "Atherosclerosis", "isCorrect": false },
+        { "answerText": "Thrombosis", "isCorrect": false },
+        { "answerText": "Phlebitis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What mineral is important for strong bones and teeth?",
+      "answerOptions": [
+        { "answerText": "Calcium", "isCorrect": true },
+        { "answerText": "Iron", "isCorrect": false },
+        { "answerText": "Magnesium", "isCorrect": false },
+        { "answerText": "Potassium", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What nutrient is essential for muscle repair and growth?",
+      "answerOptions": [
+        { "answerText": "Protein", "isCorrect": true },
+        { "answerText": "Carbohydrates", "isCorrect": false },
+        { "answerText": "Fats", "isCorrect": false },
+        { "answerText": "Vitamins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What organ is affected by hepatitis?",
+      "answerOptions": [
+        { "answerText": "Liver", "isCorrect": true },
+        { "answerText": "Kidneys", "isCorrect": false },
+        { "answerText": "Pancreas", "isCorrect": false },
+        { "answerText": "Gallbladder", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What part of the brain controls balance and coordination?",
+      "answerOptions": [
+        { "answerText": "Cerebellum", "isCorrect": true },
+        { "answerText": "Cerebrum", "isCorrect": false },
+        { "answerText": "Brainstem", "isCorrect": false },
+        { "answerText": "Thalamus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What type of blood vessel carries blood away from the heart?",
+      "answerOptions": [
+        { "answerText": "Artery", "isCorrect": true },
+        { "answerText": "Vein", "isCorrect": false },
+        { "answerText": "Capillary", "isCorrect": false },
+        { "answerText": "Venule", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What type of cell is responsible for carrying oxygen in the blood?",
+      "answerOptions": [
+        { "answerText": "Red blood cell", "isCorrect": true },
+        { "answerText": "White blood cell", "isCorrect": false },
+        { "answerText": "Platelet", "isCorrect": false },
+        { "answerText": "Plasma cell", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What type of joint is found in the shoulder?",
+      "answerOptions": [
+        { "answerText": "Ball and socket joint", "isCorrect": true },
+        { "answerText": "Hinge joint", "isCorrect": false },
+        { "answerText": "Pivot joint", "isCorrect": false },
+        { "answerText": "Saddle joint", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What type of tissue connects muscles to bones?",
+      "answerOptions": [
+        { "answerText": "Tendon", "isCorrect": true },
+        { "answerText": "Ligament", "isCorrect": false },
+        { "answerText": "Cartilage", "isCorrect": false },
+        { "answerText": "Fascia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What vitamin is essential for blood clotting?",
+      "answerOptions": [
+        { "answerText": "Vitamin K", "isCorrect": true },
+        { "answerText": "Vitamin A", "isCorrect": false },
+        { "answerText": "Vitamin C", "isCorrect": false },
+        { "answerText": "Vitamin D", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What vitamin is produced when a person is exposed to sunlight?",
+      "answerOptions": [
+        { "answerText": "Vitamin D", "isCorrect": true },
+        { "answerText": "Vitamin A", "isCorrect": false },
+        { "answerText": "Vitamin C", "isCorrect": false },
+        { "answerText": "Vitamin K", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which organ is responsible for pumping blood throughout the body?",
+      "answerOptions": [
+        { "answerText": "Heart", "isCorrect": true },
+        { "answerText": "Lungs", "isCorrect": false },
+        { "answerText": "Kidneys", "isCorrect": false },
+        { "answerText": "Liver", "isCorrect": false }
+      ]
     }
+    
+    
+
+
+
   ]
   

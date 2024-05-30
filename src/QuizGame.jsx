@@ -2,10 +2,15 @@ import React, { useState, useEffect } from 'react';
 import './QuizGame.css';
 
 const topics = [
-  { name: 'Space', file: 'space_questions.json' },
-  { name: 'Biology', file: 'biology_questions.json' },
-  { name: 'Chemistry', file: 'chemistry_questions.json' },
-  { name: 'Health', file: 'health_questions.json' },
+  { "name": "General Biology", "file": "biology_questions.json" },
+  { "name": "General Chemistry", "file": "chemistry_questions.json" },
+  { "name": "Health", "file": "health_questions.json" },
+  { "name": "Space Science", "file": "space_questions.json" },
+  { "name": "General Physics", "file": "physics_questions.json" },
+  { "name": "Earth & Environment", "file": "earth_environment_questions.json" },
+  { "name": "Scientists and Inventions", "file": "scientists_inventions_questions.json" },
+  { "name": "Animals & Plants", "file": "animals_plants_question.json" },
+
 ];
 
 const fetchQuestions = async (file) => {

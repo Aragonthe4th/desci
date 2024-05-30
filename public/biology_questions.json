@@ -313,6 +313,3665 @@
         { "answerText": "Pinocytosis", "isCorrect": false },
         { "answerText": "Phagocytosis", "isCorrect": false }
       ]
+    },
+
+    {
+      "questionText": "How does the Krebs cycle contribute to the overall process of cellular respiration?",
+      "answerOptions": [
+        { "answerText": "It produces high-energy electron carriers that are used in the electron transport chain.", "isCorrect": true },
+        { "answerText": "It directly produces large amounts of ATP.", "isCorrect": false },
+        { "answerText": "It breaks down glucose into pyruvate.", "isCorrect": false },
+        { "answerText": "It converts pyruvate into glucose.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "How many ATP molecules are produced directly in one turn of the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "1", "isCorrect": true },
+        { "answerText": "2", "isCorrect": false },
+        { "answerText": "3", "isCorrect": false },
+        { "answerText": "4", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "How many FADH2 molecules are produced per acetyl-CoA molecule in the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "1", "isCorrect": true },
+        { "answerText": "2", "isCorrect": false },
+        { "answerText": "3", "isCorrect": false },
+        { "answerText": "4", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "How many NADH molecules are produced per acetyl-CoA molecule in the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "3", "isCorrect": true },
+        { "answerText": "2", "isCorrect": false },
+        { "answerText": "4", "isCorrect": false },
+        { "answerText": "1", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "How many carbon dioxide molecules are released during one turn of the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "2", "isCorrect": true },
+        { "answerText": "1", "isCorrect": false },
+        { "answerText": "3", "isCorrect": false },
+        { "answerText": "4", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which part of the cell does the Krebs cycle occur?",
+      "answerOptions": [
+        { "answerText": "Mitochondrial matrix", "isCorrect": true },
+        { "answerText": "Cytoplasm", "isCorrect": false },
+        { "answerText": "Nucleus", "isCorrect": false },
+        { "answerText": "Endoplasmic reticulum", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are organisms that break down dead organic material called?",
+      "answerOptions": [
+        { "answerText": "Decomposers", "isCorrect": true },
+        { "answerText": "Producers", "isCorrect": false },
+        { "answerText": "Consumers", "isCorrect": false },
+        { "answerText": "Herbivores", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are the bones in the human body collectively called?",
+      "answerOptions": [
+        { "answerText": "Skeleton", "isCorrect": true },
+        { "answerText": "Muscle system", "isCorrect": false },
+        { "answerText": "Nervous system", "isCorrect": false },
+        { "answerText": "Circulatory system", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are the building blocks of proteins?",
+      "answerOptions": [
+        { "answerText": "Amino acids", "isCorrect": true },
+        { "answerText": "Nucleotides", "isCorrect": false },
+        { "answerText": "Monosaccharides", "isCorrect": false },
+        { "answerText": "Fatty acids", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are the main functions of the muscles?",
+      "answerOptions": [
+        { "answerText": "Movement, posture, and heat production", "isCorrect": true },
+        { "answerText": "Transporting oxygen, fighting infections, and regulating temperature", "isCorrect": false },
+        { "answerText": "Digesting food, absorbing nutrients, and eliminating waste", "isCorrect": false },
+        { "answerText": "Sending signals, processing information, and controlling actions", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are the main parts of the central nervous system?",
+      "answerOptions": [
+        { "answerText": "Brain and spinal cord", "isCorrect": true },
+        { "answerText": "Heart and lungs", "isCorrect": false },
+        { "answerText": "Bones and muscles", "isCorrect": false },
+        { "answerText": "Stomach and intestines", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are the tiny air sacs in the lungs called?",
+      "answerOptions": [
+        { "answerText": "Alveoli", "isCorrect": true },
+        { "answerText": "Bronchi", "isCorrect": false },
+        { "answerText": "Capillaries", "isCorrect": false },
+        { "answerText": "Trachea", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are the two main products of the Krebs cycle that are used in the electron transport chain?",
+      "answerOptions": [
+        { "answerText": "NADH and FADH2", "isCorrect": true },
+        { "answerText": "ATP and CO2", "isCorrect": false },
+        { "answerText": "Glucose and oxygen", "isCorrect": false },
+        { "answerText": "Pyruvate and lactate", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What are the two main types of cells?",
+      "answerOptions": [
+        { "answerText": "Prokaryotic and eukaryotic", "isCorrect": true },
+        { "answerText": "Plant and animal", "isCorrect": false },
+        { "answerText": "Bacteria and viruses", "isCorrect": false },
+        { "answerText": "Somatic and gametes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What gas do plants release during photosynthesis?",
+      "answerOptions": [
+        { "answerText": "Oxygen", "isCorrect": true },
+        { "answerText": "Carbon dioxide", "isCorrect": false },
+        { "answerText": "Nitrogen", "isCorrect": false },
+        { "answerText": "Methane", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What happens to the carbon atoms from acetyl-CoA during the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "They are released as carbon dioxide.", "isCorrect": true },
+        { "answerText": "They are converted into glucose.", "isCorrect": false },
+        { "answerText": "They are stored as glycogen.", "isCorrect": false },
+        { "answerText": "They are used to produce ATP.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What happens to the high-energy electron carrier molecules produced in the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "They are used in the electron transport chain to produce ATP.", "isCorrect": true },
+        { "answerText": "They are converted into glucose.", "isCorrect": false },
+        { "answerText": "They are stored in the cytoplasm.", "isCorrect": false },
+        { "answerText": "They are broken down to release energy directly.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the Krebs cycle also known as?",
+      "answerOptions": [
+        { "answerText": "Citric acid cycle", "isCorrect": true },
+        { "answerText": "Glycolysis", "isCorrect": false },
+        { "answerText": "Electron transport chain", "isCorrect": false },
+        { "answerText": "Calvin cycle", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the basic unit of life?",
+      "answerOptions": [
+        { "answerText": "Cell", "isCorrect": true },
+        { "answerText": "Atom", "isCorrect": false },
+        { "answerText": "Molecule", "isCorrect": false },
+        { "answerText": "Tissue", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the four-carbon molecule that is regenerated at the end of the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "Oxaloacetate", "isCorrect": true },
+        { "answerText": "Citrate", "isCorrect": false },
+        { "answerText": "Succinate", "isCorrect": false },
+        { "answerText": "Malate", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the cell membrane?",
+      "answerOptions": [
+        { "answerText": "To regulate what enters and exits the cell", "isCorrect": true },
+        { "answerText": "To produce energy for the cell", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To provide structural support", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the digestive system?",
+      "answerOptions": [
+        { "answerText": "To break down food and absorb nutrients", "isCorrect": true },
+        { "answerText": "To circulate blood throughout the body", "isCorrect": false },
+        { "answerText": "To transmit nerve impulses", "isCorrect": false },
+        { "answerText": "To protect the body from pathogens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the nervous system?",
+      "answerOptions": [
+        { "answerText": "To transmit signals and control bodily functions", "isCorrect": true },
+        { "answerText": "To produce hormones and regulate metabolism", "isCorrect": false },
+        { "answerText": "To provide support and structure", "isCorrect": false },
+        { "answerText": "To produce blood cells and store minerals", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the function of the skeletal system?",
+      "answerOptions": [
+        { "answerText": "To provide support and protection", "isCorrect": true },
+        { "answerText": "To transport nutrients and gases", "isCorrect": false },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To filter waste from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the green pigment found in plants that is essential for photosynthesis?",
+      "answerOptions": [
+        { "answerText": "Chlorophyll", "isCorrect": true },
+        { "answerText": "Carotene", "isCorrect": false },
+        { "answerText": "Anthocyanin", "isCorrect": false },
+        { "answerText": "Xanthophyll", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the largest organ in the human body?",
+      "answerOptions": [
+        { "answerText": "Skin", "isCorrect": true },
+        { "answerText": "Liver", "isCorrect": false },
+        { "answerText": "Heart", "isCorrect": false },
+        { "answerText": "Brain", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main component of the cell membrane?",
+      "answerOptions": [
+        { "answerText": "Phospholipids", "isCorrect": true },
+        { "answerText": "Proteins", "isCorrect": false },
+        { "answerText": "Carbohydrates", "isCorrect": false },
+        { "answerText": "Nucleic acids", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main focus of psychology?",
+      "answerOptions": [
+        { "answerText": "The study of behavior and mental processes", "isCorrect": true },
+        { "answerText": "The study of cell structure and function", "isCorrect": false },
+        { "answerText": "The study of chemical reactions", "isCorrect": false },
+        { "answerText": "The study of physical laws and principles", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of cell division?",
+      "answerOptions": [
+        { "answerText": "To produce new cells for growth and repair", "isCorrect": true },
+        { "answerText": "To generate energy for the cell", "isCorrect": false },
+        { "answerText": "To transport materials within the cell", "isCorrect": false },
+        { "answerText": "To produce proteins for the cell", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of hemoglobin?",
+      "answerOptions": [
+        { "answerText": "To transport oxygen in the blood", "isCorrect": true },
+        { "answerText": "To fight infections", "isCorrect": false },
+        { "answerText": "To clot blood", "isCorrect": false },
+        { "answerText": "To break down waste products", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of homeostasis?",
+      "answerOptions": [
+        { "answerText": "To maintain a stable internal environment", "isCorrect": true },
+        { "answerText": "To provide energy for the body", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To protect against pathogens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of ligaments?",
+      "answerOptions": [
+        { "answerText": "To connect bones to other bones", "isCorrect": true },
+        { "answerText": "To connect muscles to bones", "isCorrect": false },
+        { "answerText": "To store fat", "isCorrect": false },
+        { "answerText": "To produce blood cells", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of melanin?",
+      "answerOptions": [
+        { "answerText": "To provide pigmentation to the skin", "isCorrect": true },
+        { "answerText": "To transmit nerve signals", "isCorrect": false },
+        { "answerText": "To aid in digestion", "isCorrect": false },
+        { "answerText": "To regulate blood pressure", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of platelets?",
+      "answerOptions": [
+        { "answerText": "To aid in blood clotting", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To fight infections", "isCorrect": false },
+        { "answerText": "To carry nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of red blood cells?",
+      "answerOptions": [
+        { "answerText": "To transport oxygen throughout the body", "isCorrect": true },
+        { "answerText": "To fight infections", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To store nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of sensory receptors?",
+      "answerOptions": [
+        { "answerText": "To detect changes in the environment", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of sweating?",
+      "answerOptions": [
+        { "answerText": "To regulate body temperature", "isCorrect": true },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To fight infections", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of synovial fluid?",
+      "answerOptions": [
+        { "answerText": "To lubricate joints", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To provide energy", "isCorrect": false },
+        { "answerText": "To store nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of tendons?",
+      "answerOptions": [
+        { "answerText": "To connect muscles to bones", "isCorrect": true },
+        { "answerText": "To connect bones to other bones", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To produce blood cells", "isCorrect": false }
+      ]
+    },
+
+    {
+      "questionText": "What is the main function of the Golgi apparatus in a cell?",
+      "answerOptions": [
+        { "answerText": "To modify, sort, and package proteins and lipids for storage or transport out of the cell", "isCorrect": true },
+        { "answerText": "To produce energy for the cell", "isCorrect": false },
+        { "answerText": "To break down waste materials and cellular debris", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the Golgi apparatus in sorting and shipping cellular products?",
+      "answerOptions": [
+        { "answerText": "To sort and ship proteins and lipids to their destination", "isCorrect": true },
+        { "answerText": "To produce ribosomes", "isCorrect": false },
+        { "answerText": "To generate ATP", "isCorrect": false },
+        { "answerText": "To synthesize lipids", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the Golgi apparatus in the modification and packaging of proteins?",
+      "answerOptions": [
+        { "answerText": "To modify, package, and ship proteins", "isCorrect": true },
+        { "answerText": "To store calcium", "isCorrect": false },
+        { "answerText": "To produce glucose", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the adrenal glands?",
+      "answerOptions": [
+        { "answerText": "To produce hormones that help regulate metabolism, immune system, blood pressure, and stress response", "isCorrect": true },
+        { "answerText": "To filter blood and produce urine", "isCorrect": false },
+        { "answerText": "To control voluntary movements", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the alveoli?",
+      "answerOptions": [
+        { "answerText": "To facilitate gas exchange between the air and the blood", "isCorrect": true },
+        { "answerText": "To transport blood throughout the body", "isCorrect": false },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To store oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the bone marrow?",
+      "answerOptions": [
+        { "answerText": "To produce blood cells", "isCorrect": true },
+        { "answerText": "To store minerals", "isCorrect": false },
+        { "answerText": "To provide structural support", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the brain?",
+      "answerOptions": [
+        { "answerText": "To control and coordinate body activities and processes", "isCorrect": true },
+        { "answerText": "To pump blood throughout the body", "isCorrect": false },
+        { "answerText": "To filter waste products from the blood", "isCorrect": false },
+        { "answerText": "To digest food", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the brainstem?",
+      "answerOptions": [
+        { "answerText": "To regulate vital functions such as heart rate, breathing, and blood pressure", "isCorrect": true },
+        { "answerText": "To store memories", "isCorrect": false },
+        { "answerText": "To control voluntary muscle movements", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cell wall in maintaining cell shape?",
+      "answerOptions": [
+        { "answerText": "To provide structural support and maintain cell shape", "isCorrect": true },
+        { "answerText": "To produce energy for the cell", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cell wall in plant cells?",
+      "answerOptions": [
+        { "answerText": "To provide structure and support", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize lipids", "isCorrect": false },
+        { "answerText": "To regulate nutrient uptake", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cell wall in protecting plant cells?",
+      "answerOptions": [
+        { "answerText": "To provide a protective barrier", "isCorrect": true },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cell wall in providing rigidity to plant cells?",
+      "answerOptions": [
+        { "answerText": "To maintain cell shape and prevent collapse", "isCorrect": true },
+        { "answerText": "To generate energy", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cerebellum?",
+      "answerOptions": [
+        { "answerText": "To coordinate voluntary movements and balance", "isCorrect": true },
+        { "answerText": "To regulate heart rate and breathing", "isCorrect": false },
+        { "answerText": "To process visual information", "isCorrect": false },
+        { "answerText": "To control endocrine functions", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cerebrum?",
+      "answerOptions": [
+        { "answerText": "To control sensory perception, thought, and voluntary movement", "isCorrect": true },
+        { "answerText": "To regulate digestion", "isCorrect": false },
+        { "answerText": "To produce blood cells", "isCorrect": false },
+        { "answerText": "To store calcium", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the chloroplasts in capturing light energy?",
+      "answerOptions": [
+        { "answerText": "To capture light energy and convert it into chemical energy", "isCorrect": true },
+        { "answerText": "To produce ATP directly", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the chloroplasts in plant cells?",
+      "answerOptions": [
+        { "answerText": "To conduct photosynthesis", "isCorrect": true },
+        { "answerText": "To generate ATP", "isCorrect": false },
+        { "answerText": "To store water", "isCorrect": false },
+        { "answerText": "To break down waste materials", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the chloroplasts in the production of glucose?",
+      "answerOptions": [
+        { "answerText": "To convert light energy into glucose during photosynthesis", "isCorrect": true },
+        { "answerText": "To produce proteins", "isCorrect": false },
+        { "answerText": "To store lipids", "isCorrect": false },
+        { "answerText": "To synthesize nucleic acids", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the circulatory system?",
+      "answerOptions": [
+        { "answerText": "To transport oxygen, nutrients, and waste products throughout the body", "isCorrect": true },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false },
+        { "answerText": "To control movement", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cytoskeleton in maintaining cell shape?",
+      "answerOptions": [
+        { "answerText": "To provide structural support and maintain cell shape", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cytoskeleton in providing support and structure to the cell?",
+      "answerOptions": [
+        { "answerText": "To maintain cell shape and facilitate cell movement", "isCorrect": true },
+        { "answerText": "To generate ATP", "isCorrect": false },
+        { "answerText": "To store nutrients", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the cytoskeleton?",
+      "answerOptions": [
+        { "answerText": "To provide structural support and shape to the cell", "isCorrect": true },
+        { "answerText": "To produce proteins", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To break down waste materials", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the diaphragm?",
+      "answerOptions": [
+        { "answerText": "To aid in breathing by contracting and relaxing to change the pressure in the thoracic cavity", "isCorrect": true },
+        { "answerText": "To pump blood", "isCorrect": false },
+        { "answerText": "To digest food", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the digestive enzymes?",
+      "answerOptions": [
+        { "answerText": "To break down food into smaller molecules for absorption", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To generate energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the digestive system?",
+      "answerOptions": [
+        { "answerText": "To break down food and absorb nutrients", "isCorrect": true },
+        { "answerText": "To circulate blood throughout the body", "isCorrect": false },
+        { "answerText": "To transmit nerve impulses", "isCorrect": false },
+        { "answerText": "To protect the body from pathogens", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the ears?",
+      "answerOptions": [
+        { "answerText": "To detect sound and aid in balance", "isCorrect": true },
+        { "answerText": "To regulate blood pressure", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To filter waste products from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the endocrine system?",
+      "answerOptions": [
+        { "answerText": "To produce and release hormones that regulate various bodily functions", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To generate energy", "isCorrect": false },
+        { "answerText": "To digest food", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the endoplasmic reticulum in a cell?",
+      "answerOptions": [
+        { "answerText": "To synthesize and transport proteins and lipids", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To break down waste materials", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the endoplasmic reticulum in the synthesis of lipids?",
+      "answerOptions": [
+        { "answerText": "To produce lipids for cell membranes and other cellular functions", "isCorrect": true },
+        { "answerText": "To store nutrients", "isCorrect": false },
+        { "answerText": "To generate energy", "isCorrect": false },
+        { "answerText": "To transmit nerve impulses", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the endoplasmic reticulum in the transport of proteins?",
+      "answerOptions": [
+        { "answerText": "To transport proteins to different parts of the cell", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce glucose", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the endoplasmic reticulum?",
+      "answerOptions": [
+        { "answerText": "To synthesize and transport proteins and lipids", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To break down waste materials", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the epiglottis?",
+      "answerOptions": [
+        { "answerText": "To prevent food from entering the trachea during swallowing", "isCorrect": true },
+        { "answerText": "To produce sound", "isCorrect": false },
+        { "answerText": "To filter air", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the esophagus?",
+      "answerOptions": [
+        { "answerText": "To transport food from the mouth to the stomach", "isCorrect": true },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To absorb nutrients", "isCorrect": false },
+        { "answerText": "To store bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the excretory system?",
+      "answerOptions": [
+        { "answerText": "To remove waste products from the body", "isCorrect": true },
+        { "answerText": "To produce blood cells", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the eyes?",
+      "answerOptions": [
+        { "answerText": "To detect light and enable vision", "isCorrect": true },
+        { "answerText": "To produce tears", "isCorrect": false },
+        { "answerText": "To regulate blood pressure", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the gallbladder?",
+      "answerOptions": [
+        { "answerText": "To store and concentrate bile", "isCorrect": true },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To absorb nutrients", "isCorrect": false },
+        { "answerText": "To filter waste products from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the heart valves?",
+      "answerOptions": [
+        { "answerText": "To prevent the backflow of blood", "isCorrect": true },
+        { "answerText": "To produce blood cells", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To regulate blood pressure", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the heart?",
+      "answerOptions": [
+        { "answerText": "To pump blood throughout the body", "isCorrect": true },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To store oxygen", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the hypothalamus?",
+      "answerOptions": [
+        { "answerText": "To regulate body temperature, hunger, and thirst", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the immune system?",
+      "answerOptions": [
+        { "answerText": "To protect the body against infections and diseases", "isCorrect": true },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the integumentary system?",
+      "answerOptions": [
+        { "answerText": "To protect the body from external damage and regulate temperature", "isCorrect": true },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To digest food", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the kidneys?",
+      "answerOptions": [
+        { "answerText": "To filter blood and produce urine", "isCorrect": true },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the lacrimal glands?",
+      "answerOptions": [
+        { "answerText": "To produce tears to lubricate and protect the eyes", "isCorrect": true },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To regulate blood pressure", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the large intestine?",
+      "answerOptions": [
+        { "answerText": "To absorb water and form feces", "isCorrect": true },
+        { "answerText": "To digest proteins", "isCorrect": false },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To filter waste products from the blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the liver?",
+      "answerOptions": [
+        { "answerText": "To detoxify chemicals, metabolize drugs, and produce bile", "isCorrect": true },
+        { "answerText": "To produce blood cells", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the lungs?",
+      "answerOptions": [
+        { "answerText": "To facilitate the exchange of oxygen and carbon dioxide", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To filter waste products from the blood", "isCorrect": false },
+        { "answerText": "To digest food", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the lymphatic system?",
+      "answerOptions": [
+        { "answerText": "To return excess fluid to the blood and provide immune responses", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the mitochondria in cells?",
+      "answerOptions": [
+        { "answerText": "To produce ATP through cellular respiration", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the mitochondria?",
+      "answerOptions": [
+        { "answerText": "To generate energy for the cell", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize lipids", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the muscular system?",
+      "answerOptions": [
+        { "answerText": "To enable movement and maintain posture", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the nervous system?",
+      "answerOptions": [
+        { "answerText": "To transmit signals and control bodily functions", "isCorrect": true },
+        { "answerText": "To produce hormones and regulate metabolism", "isCorrect": false },
+        { "answerText": "To provide support and structure", "isCorrect": false },
+        { "answerText": "To produce blood cells and store minerals", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the nose?",
+      "answerOptions": [
+        { "answerText": "To detect smells and filter, warm, and moisten air", "isCorrect": true },
+        { "answerText": "To produce sounds", "isCorrect": false },
+        { "answerText": "To aid in digestion", "isCorrect": false },
+        { "answerText": "To pump blood", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the nucleus in a cell?",
+      "answerOptions": [
+        { "answerText": "To store genetic information and control cell activities", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the pancreas?",
+      "answerOptions": [
+        { "answerText": "To produce digestive enzymes and insulin", "isCorrect": true },
+        { "answerText": "To store bile", "isCorrect": false },
+        { "answerText": "To filter blood", "isCorrect": false },
+        { "answerText": "To absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the pituitary gland?",
+      "answerOptions": [
+        { "answerText": "To produce hormones that regulate various bodily functions", "isCorrect": true },
+        { "answerText": "To filter waste from the blood", "isCorrect": false },
+        { "answerText": "To aid in digestion", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the plasma membrane in a cell?",
+      "answerOptions": [
+        { "answerText": "To regulate what enters and exits the cell", "isCorrect": true },
+        { "answerText": "To produce proteins", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To generate energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the plasma membrane in controlling what enters and exits the cell?",
+      "answerOptions": [
+        { "answerText": "To maintain homeostasis by controlling the movement of substances", "isCorrect": true },
+        { "answerText": "To store nutrients", "isCorrect": false },
+        { "answerText": "To synthesize lipids", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the plasma membrane?",
+      "answerOptions": [
+        { "answerText": "To regulate the movement of substances in and out of the cell", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce proteins", "isCorrect": false },
+        { "answerText": "To generate ATP", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the platelets in blood clotting?",
+      "answerOptions": [
+        { "answerText": "To help form blood clots to stop bleeding", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To fight infections", "isCorrect": false },
+        { "answerText": "To produce antibodies", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the reproductive system?",
+      "answerOptions": [
+        { "answerText": "To produce offspring", "isCorrect": true },
+        { "answerText": "To filter waste products", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the respiratory system?",
+      "answerOptions": [
+        { "answerText": "To exchange oxygen and carbon dioxide between the body and the environment", "isCorrect": true },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To digest food", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the rib cage?",
+      "answerOptions": [
+        { "answerText": "To protect the heart and lungs", "isCorrect": true },
+        { "answerText": "To produce blood cells", "isCorrect": false },
+        { "answerText": "To aid in digestion", "isCorrect": false },
+        { "answerText": "To store calcium", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the ribosomes?",
+      "answerOptions": [
+        { "answerText": "To synthesize proteins", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the roots of a plant?",
+      "answerOptions": [
+        { "answerText": "To absorb water and nutrients from the soil", "isCorrect": true },
+        { "answerText": "To produce flowers", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To conduct photosynthesis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the sensory organs?",
+      "answerOptions": [
+        { "answerText": "To detect and respond to environmental stimuli", "isCorrect": true },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To filter waste products", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the skeletal system?",
+      "answerOptions": [
+        { "answerText": "To provide structure and support to the body", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To digest food", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the skin?",
+      "answerOptions": [
+        { "answerText": "To protect the body from external damage and regulate temperature", "isCorrect": true },
+        { "answerText": "To produce blood cells", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To filter waste products", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the small intestine?",
+      "answerOptions": [
+        { "answerText": "To absorb nutrients from digested food", "isCorrect": true },
+        { "answerText": "To store bile", "isCorrect": false },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the spinal cord?",
+      "answerOptions": [
+        { "answerText": "To transmit signals between the brain and the rest of the body", "isCorrect": true },
+        { "answerText": "To filter waste products", "isCorrect": false },
+        { "answerText": "To produce blood cells", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the spleen?",
+      "answerOptions": [
+        { "answerText": "To filter blood and help fight infections", "isCorrect": true },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To regulate body temperature", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the stomach?",
+      "answerOptions": [
+        { "answerText": "To break down food using acid and enzymes", "isCorrect": true },
+        { "answerText": "To absorb nutrients", "isCorrect": false },
+        { "answerText": "To filter waste products", "isCorrect": false },
+        { "answerText": "To produce bile", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the teeth?",
+      "answerOptions": [
+        { "answerText": "To break down food into smaller pieces for digestion", "isCorrect": true },
+        { "answerText": "To produce saliva", "isCorrect": false },
+        { "answerText": "To filter waste products", "isCorrect": false },
+        { "answerText": "To absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the thymus?",
+      "answerOptions": [
+        { "answerText": "To produce and mature T-cells for the immune system", "isCorrect": true },
+        { "answerText": "To filter blood", "isCorrect": false },
+        { "answerText": "To produce hormones", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the tongue?",
+      "answerOptions": [
+        { "answerText": "To aid in tasting, chewing, and swallowing food", "isCorrect": true },
+        { "answerText": "To produce saliva", "isCorrect": false },
+        { "answerText": "To filter waste products", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the ureters?",
+      "answerOptions": [
+        { "answerText": "To transport urine from the kidneys to the bladder", "isCorrect": true },
+        { "answerText": "To filter waste products", "isCorrect": false },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the urinary bladder?",
+      "answerOptions": [
+        { "answerText": "To store urine until it is excreted", "isCorrect": true },
+        { "answerText": "To filter waste products", "isCorrect": false },
+        { "answerText": "To absorb nutrients", "isCorrect": false },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the vacuole in plant cells?",
+      "answerOptions": [
+        { "answerText": "To store nutrients, waste products, and help maintain turgor pressure", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To conduct photosynthesis", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of the villi in the small intestine?",
+      "answerOptions": [
+        { "answerText": "To increase surface area for nutrient absorption", "isCorrect": true },
+        { "answerText": "To produce digestive enzymes", "isCorrect": false },
+        { "answerText": "To store bile", "isCorrect": false },
+        { "answerText": "To filter waste products", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main function of white blood cells?",
+      "answerOptions": [
+        { "answerText": "To fight infections and protect the body from pathogens", "isCorrect": true },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To absorb nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the main purpose of the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "To produce high-energy electron carriers for the electron transport chain", "isCorrect": true },
+        { "answerText": "To directly produce large amounts of ATP", "isCorrect": false },
+        { "answerText": "To break down glucose into pyruvate", "isCorrect": false },
+        { "answerText": "To convert pyruvate into glucose", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the bone that protects the brain?",
+      "answerOptions": [
+        { "answerText": "Skull", "isCorrect": true },
+        { "answerText": "Femur", "isCorrect": false },
+        { "answerText": "Spine", "isCorrect": false },
+        { "answerText": "Rib cage", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the female reproductive organ in flowers?",
+      "answerOptions": [
+        { "answerText": "Pistil", "isCorrect": true },
+        { "answerText": "Stamen", "isCorrect": false },
+        { "answerText": "Sepal", "isCorrect": false },
+        { "answerText": "Petal", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the fluid portion of the blood?",
+      "answerOptions": [
+        { "answerText": "Plasma", "isCorrect": true },
+        { "answerText": "Serum", "isCorrect": false },
+        { "answerText": "Lymph", "isCorrect": false },
+        { "answerText": "Hemoglobin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the fluid that circulates in the lymphatic system?",
+      "answerOptions": [
+        { "answerText": "Lymph", "isCorrect": true },
+        { "answerText": "Plasma", "isCorrect": false },
+        { "answerText": "Serum", "isCorrect": false },
+        { "answerText": "Cerebrospinal fluid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the fluid that lubricates joints?",
+      "answerOptions": [
+        { "answerText": "Synovial fluid", "isCorrect": true },
+        { "answerText": "Lymph", "isCorrect": false },
+        { "answerText": "Plasma", "isCorrect": false },
+        { "answerText": "Serum", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the gland that produces insulin?",
+      "answerOptions": [
+        { "answerText": "Pancreas", "isCorrect": true },
+        { "answerText": "Thyroid", "isCorrect": false },
+        { "answerText": "Adrenal", "isCorrect": false },
+        { "answerText": "Pituitary", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the hormone that regulates blood sugar levels?",
+      "answerOptions": [
+        { "answerText": "Insulin", "isCorrect": true },
+        { "answerText": "Adrenaline", "isCorrect": false },
+        { "answerText": "Thyroxine", "isCorrect": false },
+        { "answerText": "Estrogen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the largest artery in the body?",
+      "answerOptions": [
+        { "answerText": "Aorta", "isCorrect": true },
+        { "answerText": "Carotid artery", "isCorrect": false },
+        { "answerText": "Femoral artery", "isCorrect": false },
+        { "answerText": "Pulmonary artery", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the male reproductive organ in flowers?",
+      "answerOptions": [
+        { "answerText": "Stamen", "isCorrect": true },
+        { "answerText": "Pistil", "isCorrect": false },
+        { "answerText": "Sepal", "isCorrect": false },
+        { "answerText": "Petal", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the molecule that carries oxygen in red blood cells?",
+      "answerOptions": [
+        { "answerText": "Hemoglobin", "isCorrect": true },
+        { "answerText": "Myoglobin", "isCorrect": false },
+        { "answerText": "Chlorophyll", "isCorrect": false },
+        { "answerText": "Insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the molecule that provides energy for cellular processes?",
+      "answerOptions": [
+        { "answerText": "ATP (adenosine triphosphate)", "isCorrect": true },
+        { "answerText": "DNA (deoxyribonucleic acid)", "isCorrect": false },
+        { "answerText": "RNA (ribonucleic acid)", "isCorrect": false },
+        { "answerText": "NADH (nicotinamide adenine dinucleotide)", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the muscle that separates the chest cavity from the abdominal cavity?",
+      "answerOptions": [
+        { "answerText": "Diaphragm", "isCorrect": true },
+        { "answerText": "Intercostal muscle", "isCorrect": false },
+        { "answerText": "Latissimus dorsi", "isCorrect": false },
+        { "answerText": "Pectoralis major", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the nerve cell that transmits signals throughout the body?",
+      "answerOptions": [
+        { "answerText": "Neuron", "isCorrect": true },
+        { "answerText": "Astrocyte", "isCorrect": false },
+        { "answerText": "Oligodendrocyte", "isCorrect": false },
+        { "answerText": "Microglia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the organelle that contains chlorophyll?",
+      "answerOptions": [
+        { "answerText": "Chloroplast", "isCorrect": true },
+        { "answerText": "Mitochondrion", "isCorrect": false },
+        { "answerText": "Endoplasmic reticulum", "isCorrect": false },
+        { "answerText": "Golgi apparatus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the part of the brain responsible for coordination and balance?",
+      "answerOptions": [
+        { "answerText": "Cerebellum", "isCorrect": true },
+        { "answerText": "Cerebrum", "isCorrect": false },
+        { "answerText": "Brainstem", "isCorrect": false },
+        { "answerText": "Thalamus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the pigment that gives skin its color?",
+      "answerOptions": [
+        { "answerText": "Melanin", "isCorrect": true },
+        { "answerText": "Hemoglobin", "isCorrect": false },
+        { "answerText": "Carotene", "isCorrect": false },
+        { "answerText": "Chlorophyll", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which a caterpillar transforms into a butterfly?",
+      "answerOptions": [
+        { "answerText": "Metamorphosis", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Cell division", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which animals convert food into energy?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells communicate with each other?",
+      "answerOptions": [
+        { "answerText": "Cell signaling", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells communicate with their environment?",
+      "answerOptions": [
+        { "answerText": "Cell signaling", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells eliminate waste products?",
+      "answerOptions": [
+        { "answerText": "Exocytosis", "isCorrect": true },
+        { "answerText": "Endocytosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells exchange gases with their environment?",
+      "answerOptions": [
+        { "answerText": "Diffusion", "isCorrect": true },
+        { "answerText": "Osmosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells exchange oxygen and carbon dioxide with their environment?",
+      "answerOptions": [
+        { "answerText": "Diffusion", "isCorrect": true },
+        { "answerText": "Osmosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Cell signaling", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells generate new cells for growth and repair?",
+      "answerOptions": [
+        { "answerText": "Cell division", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells get rid of waste products?",
+      "answerOptions": [
+        { "answerText": "Exocytosis", "isCorrect": true },
+        { "answerText": "Endocytosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells make proteins?",
+      "answerOptions": [
+        { "answerText": "Protein synthesis", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells produce new cells for growth and repair?",
+      "answerOptions": [
+        { "answerText": "Cell division", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells produce proteins?",
+      "answerOptions": [
+        { "answerText": "Protein synthesis", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells repair damaged tissues?",
+      "answerOptions": [
+        { "answerText": "Cell regeneration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells take in nutrients and expel waste?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells take in nutrients from their environment?",
+      "answerOptions": [
+        { "answerText": "Endocytosis", "isCorrect": true },
+        { "answerText": "Exocytosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells take in oxygen and release carbon dioxide?",
+      "answerOptions": [
+        { "answerText": "Respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which cells take in substances from their surroundings?",
+      "answerOptions": [
+        { "answerText": "Endocytosis", "isCorrect": true },
+        { "answerText": "Exocytosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants absorb carbon dioxide from the air?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants absorb minerals from the soil?",
+      "answerOptions": [
+        { "answerText": "Absorption", "isCorrect": true },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants absorb sunlight to make food?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants absorb water from the soil?",
+      "answerOptions": [
+        { "answerText": "Absorption", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants absorb water through their roots?",
+      "answerOptions": [
+        { "answerText": "Absorption", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants convert light energy into chemical energy?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants convert sunlight into chemical energy?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants grow towards a light source?",
+      "answerOptions": [
+        { "answerText": "Phototropism", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants make their own food?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants produce flowers?",
+      "answerOptions": [
+        { "answerText": "Flowering", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants produce glucose and oxygen from sunlight and carbon dioxide?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants produce oxygen during photosynthesis?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants produce seeds?",
+      "answerOptions": [
+        { "answerText": "Seed formation", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants release oxygen into the atmosphere?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants release water vapor into the air?",
+      "answerOptions": [
+        { "answerText": "Transpiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants respond to touch?",
+      "answerOptions": [
+        { "answerText": "Thigmotropism", "isCorrect": true },
+        { "answerText": "Phototropism", "isCorrect": false },
+        { "answerText": "Geotropism", "isCorrect": false },
+        { "answerText": "Hydrotropism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants take in carbon dioxide and release oxygen?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which plants take in water through their roots?",
+      "answerOptions": [
+        { "answerText": "Absorption", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body absorbs nutrients from food?",
+      "answerOptions": [
+        { "answerText": "Absorption", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body breaks down food into smaller molecules?",
+      "answerOptions": [
+        { "answerText": "Digestion", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body detects and responds to changes in the environment?",
+      "answerOptions": [
+        { "answerText": "Homeostasis", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body exchanges oxygen and carbon dioxide?",
+      "answerOptions": [
+        { "answerText": "Respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body maintains a stable internal environment?",
+      "answerOptions": [
+        { "answerText": "Homeostasis", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body produces energy from nutrients?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body produces heat?",
+      "answerOptions": [
+        { "answerText": "Thermogenesis", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body produces new cells for growth and repair?",
+      "answerOptions": [
+        { "answerText": "Cell division", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body removes excess heat?",
+      "answerOptions": [
+        { "answerText": "Sweating", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body removes waste products?",
+      "answerOptions": [
+        { "answerText": "Excretion", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process by which the body repairs damaged tissues?",
+      "answerOptions": [
+        { "answerText": "Regeneration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the process where cells take in oxygen and release carbon dioxide?",
+      "answerOptions": [
+        { "answerText": "Respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the protective membrane that covers the brain and spinal cord?",
+      "answerOptions": [
+        { "answerText": "Meninges", "isCorrect": true },
+        { "answerText": "Pericardium", "isCorrect": false },
+        { "answerText": "Pleura", "isCorrect": false },
+        { "answerText": "Peritoneum", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the protein that carries oxygen in the blood?",
+      "answerOptions": [
+        { "answerText": "Hemoglobin", "isCorrect": true },
+        { "answerText": "Myoglobin", "isCorrect": false },
+        { "answerText": "Chlorophyll", "isCorrect": false },
+        { "answerText": "Insulin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the protein that gives skin its strength and flexibility?",
+      "answerOptions": [
+        { "answerText": "Collagen", "isCorrect": true },
+        { "answerText": "Keratin", "isCorrect": false },
+        { "answerText": "Elastin", "isCorrect": false },
+        { "answerText": "Actin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the protein that makes up hair and nails?",
+      "answerOptions": [
+        { "answerText": "Keratin", "isCorrect": true },
+        { "answerText": "Collagen", "isCorrect": false },
+        { "answerText": "Elastin", "isCorrect": false },
+        { "answerText": "Actin", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the protein that speeds up chemical reactions in the body?",
+      "answerOptions": [
+        { "answerText": "Enzyme", "isCorrect": true },
+        { "answerText": "Hemoglobin", "isCorrect": false },
+        { "answerText": "Keratin", "isCorrect": false },
+        { "answerText": "Collagen", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the psychologist who developed the hierarchy of needs?",
+      "answerOptions": [
+        { "answerText": "Abraham Maslow", "isCorrect": true },
+        { "answerText": "Sigmund Freud", "isCorrect": false },
+        { "answerText": "Carl Jung", "isCorrect": false },
+        { "answerText": "B.F. Skinner", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that allows light to enter the eye?",
+      "answerOptions": [
+        { "answerText": "Pupil", "isCorrect": true },
+        { "answerText": "Iris", "isCorrect": false },
+        { "answerText": "Cornea", "isCorrect": false },
+        { "answerText": "Lens", "isCorrect": false }
+      ]
+    },
+
+    {
+      "questionText": "What is the name of the structure that allows the heart to pump blood?",
+      "answerOptions": [
+        { "answerText": "Valves", "isCorrect": true },
+        { "answerText": "Atrium", "isCorrect": false },
+        { "answerText": "Ventricle", "isCorrect": false },
+        { "answerText": "Aorta", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that connects the throat to the middle ear?",
+      "answerOptions": [
+        { "answerText": "Eustachian tube", "isCorrect": true },
+        { "answerText": "Pharynx", "isCorrect": false },
+        { "answerText": "Larynx", "isCorrect": false },
+        { "answerText": "Cochlea", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that detects sound waves?",
+      "answerOptions": [
+        { "answerText": "Cochlea", "isCorrect": true },
+        { "answerText": "Eardrum", "isCorrect": false },
+        { "answerText": "Ossicles", "isCorrect": false },
+        { "answerText": "Semicircular canals", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that prevents food from entering the windpipe?",
+      "answerOptions": [
+        { "answerText": "Epiglottis", "isCorrect": true },
+        { "answerText": "Larynx", "isCorrect": false },
+        { "answerText": "Trachea", "isCorrect": false },
+        { "answerText": "Esophagus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that produces red and white blood cells?",
+      "answerOptions": [
+        { "answerText": "Bone marrow", "isCorrect": true },
+        { "answerText": "Spleen", "isCorrect": false },
+        { "answerText": "Liver", "isCorrect": false },
+        { "answerText": "Lymph nodes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that produces tears?",
+      "answerOptions": [
+        { "answerText": "Lacrimal glands", "isCorrect": true },
+        { "answerText": "Salivary glands", "isCorrect": false },
+        { "answerText": "Pituitary gland", "isCorrect": false },
+        { "answerText": "Thyroid gland", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that protects and gives shape to plant cells?",
+      "answerOptions": [
+        { "answerText": "Cell wall", "isCorrect": true },
+        { "answerText": "Cell membrane", "isCorrect": false },
+        { "answerText": "Chloroplast", "isCorrect": false },
+        { "answerText": "Nucleus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the structure that protects the lungs and heart?",
+      "answerOptions": [
+        { "answerText": "Rib cage", "isCorrect": true },
+        { "answerText": "Skull", "isCorrect": false },
+        { "answerText": "Spine", "isCorrect": false },
+        { "answerText": "Pelvis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the sugar produced by plants during photosynthesis?",
+      "answerOptions": [
+        { "answerText": "Glucose", "isCorrect": true },
+        { "answerText": "Sucrose", "isCorrect": false },
+        { "answerText": "Fructose", "isCorrect": false },
+        { "answerText": "Lactose", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the system that includes the heart and blood vessels?",
+      "answerOptions": [
+        { "answerText": "Circulatory system", "isCorrect": true },
+        { "answerText": "Respiratory system", "isCorrect": false },
+        { "answerText": "Digestive system", "isCorrect": false },
+        { "answerText": "Nervous system", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the system that includes the mouth, esophagus, stomach, and intestines?",
+      "answerOptions": [
+        { "answerText": "Digestive system", "isCorrect": true },
+        { "answerText": "Respiratory system", "isCorrect": false },
+        { "answerText": "Circulatory system", "isCorrect": false },
+        { "answerText": "Nervous system", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the technique used to measure brain activity?",
+      "answerOptions": [
+        { "answerText": "Electroencephalography (EEG)", "isCorrect": true },
+        { "answerText": "Magnetic resonance imaging (MRI)", "isCorrect": false },
+        { "answerText": "Computed tomography (CT)", "isCorrect": false },
+        { "answerText": "Positron emission tomography (PET)", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the therapy that involves talking to a mental health professional?",
+      "answerOptions": [
+        { "answerText": "Psychotherapy", "isCorrect": true },
+        { "answerText": "Chemotherapy", "isCorrect": false },
+        { "answerText": "Radiation therapy", "isCorrect": false },
+        { "answerText": "Physical therapy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the tissue that connects bones to other bones?",
+      "answerOptions": [
+        { "answerText": "Ligaments", "isCorrect": true },
+        { "answerText": "Tendons", "isCorrect": false },
+        { "answerText": "Cartilage", "isCorrect": false },
+        { "answerText": "Muscles", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the tissue that connects muscles to bones?",
+      "answerOptions": [
+        { "answerText": "Tendons", "isCorrect": true },
+        { "answerText": "Ligaments", "isCorrect": false },
+        { "answerText": "Cartilage", "isCorrect": false },
+        { "answerText": "Muscles", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the name of the tube that connects the mouth to the stomach?",
+      "answerOptions": [
+        { "answerText": "Esophagus", "isCorrect": true },
+        { "answerText": "Trachea", "isCorrect": false },
+        { "answerText": "Pharynx", "isCorrect": false },
+        { "answerText": "Bronchus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the process by which cells divide to form new cells?",
+      "answerOptions": [
+        { "answerText": "Mitosis", "isCorrect": true },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Cytokinesis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the process by which cells release energy from glucose?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the process by which plants and animals exchange gases with their environment?",
+      "answerOptions": [
+        { "answerText": "Respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the process by which plants lose water through their leaves?",
+      "answerOptions": [
+        { "answerText": "Transpiration", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the process by which plants make their own food?",
+      "answerOptions": [
+        { "answerText": "Photosynthesis", "isCorrect": true },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of DNA in cells?",
+      "answerOptions": [
+        { "answerText": "To store genetic information", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To regulate cell division", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of FAD in the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "To carry high-energy electrons to the electron transport chain", "isCorrect": true },
+        { "answerText": "To produce ATP directly", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To release carbon dioxide", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of NAD+ in the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "To carry high-energy electrons to the electron transport chain", "isCorrect": true },
+        { "answerText": "To produce ATP directly", "isCorrect": false },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To release carbon dioxide", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of a psychologist?",
+      "answerOptions": [
+        { "answerText": "To study behavior and mental processes", "isCorrect": true },
+        { "answerText": "To diagnose and treat physical illnesses", "isCorrect": false },
+        { "answerText": "To conduct surgical procedures", "isCorrect": false },
+        { "answerText": "To prescribe medications", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of chlorophyll in photosynthesis?",
+      "answerOptions": [
+        { "answerText": "To capture light energy", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false },
+        { "answerText": "To store water", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of enzymes in the body?",
+      "answerOptions": [
+        { "answerText": "To speed up chemical reactions", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To transport oxygen", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the Golgi apparatus in protein processing?",
+      "answerOptions": [
+        { "answerText": "To modify, sort, and package proteins for transport", "isCorrect": true },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To generate ATP", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the Golgi apparatus in the cell?",
+      "answerOptions": [
+        { "answerText": "To modify, sort, and package proteins and lipids for storage or transport", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the cell membrane in regulating the passage of substances?",
+      "answerOptions": [
+        { "answerText": "To control what enters and exits the cell", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the cell membrane in regulating what enters and exits the cell?",
+      "answerOptions": [
+        { "answerText": "To maintain homeostasis by controlling the movement of substances", "isCorrect": true },
+        { "answerText": "To store nutrients", "isCorrect": false },
+        { "answerText": "To synthesize lipids", "isCorrect": false },
+        { "answerText": "To produce energy", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the cell wall in plant cells?",
+      "answerOptions": [
+        { "answerText": "To provide structure and support", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the centrioles in cell division?",
+      "answerOptions": [
+        { "answerText": "To organize the mitotic spindle", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the centrioles in the formation of the mitotic spindle?",
+      "answerOptions": [
+        { "answerText": "To help organize and anchor the spindle fibers", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the centrioles in the organization of the cytoskeleton?",
+      "answerOptions": [
+        { "answerText": "To help organize microtubules and maintain cell shape", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the chloroplasts in photosynthesis?",
+      "answerOptions": [
+        { "answerText": "To capture light energy and convert it into chemical energy", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To store water", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the chloroplasts in the cell?",
+      "answerOptions": [
+        { "answerText": "To conduct photosynthesis and produce glucose", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To store water", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the cytoplasm in cellular processes?",
+      "answerOptions": [
+        { "answerText": "To provide a medium for chemical reactions to occur", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the cytoplasm in providing a medium for chemical reactions?",
+      "answerOptions": [
+        { "answerText": "To support and suspend organelles and molecules", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the endoplasmic reticulum in the cell?",
+      "answerOptions": [
+        { "answerText": "To synthesize and transport proteins and lipids", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To break down waste materials", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the lysosomes in breaking down cellular waste?",
+      "answerOptions": [
+        { "answerText": "To digest and recycle cellular waste and debris", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the lysosomes in cellular digestion?",
+      "answerOptions": [
+        { "answerText": "To break down macromolecules and old cell parts", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the lysosomes in recycling cellular components?",
+      "answerOptions": [
+        { "answerText": "To break down and recycle damaged organelles", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the lysosomes in the breakdown of cellular debris?",
+      "answerOptions": [
+        { "answerText": "To digest and remove waste materials", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the lysosomes in the cell?",
+      "answerOptions": [
+        { "answerText": "To digest and remove cellular waste and debris", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the mitochondria in cellular respiration?",
+      "answerOptions": [
+        { "answerText": "To generate ATP through the breakdown of glucose", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the mitochondria in the cell?",
+      "answerOptions": [
+        { "answerText": "To produce energy in the form of ATP", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To break down waste materials", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the nucleolus in the assembly of ribosomes?",
+      "answerOptions": [
+        { "answerText": "To produce and assemble ribosomal RNA and proteins", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the nucleolus in the production of ribosomal RNA?",
+      "answerOptions": [
+        { "answerText": "To synthesize ribosomal RNA and combine it with proteins", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the nucleolus in the production of ribosomes?",
+      "answerOptions": [
+        { "answerText": "To produce and assemble ribosomal RNA and proteins", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the nucleus in the cell?",
+      "answerOptions": [
+        { "answerText": "To store genetic information and control cell activities", "isCorrect": true },
+        { "answerText": "To produce energy", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the ribosomes in protein synthesis?",
+      "answerOptions": [
+        { "answerText": "To translate genetic information into proteins", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the ribosomes in the cell?",
+      "answerOptions": [
+        { "answerText": "To synthesize proteins", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the ribosomes in the production of proteins?",
+      "answerOptions": [
+        { "answerText": "To translate genetic information into proteins", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the ribosomes in translating genetic information into proteins?",
+      "answerOptions": [
+        { "answerText": "To synthesize proteins based on mRNA sequences", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To transport nutrients", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the vacuole in maintaining cell structure?",
+      "answerOptions": [
+        { "answerText": "To provide structural support by maintaining turgor pressure", "isCorrect": true },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the vacuole in maintaining turgor pressure in plant cells?",
+      "answerOptions": [
+        { "answerText": "To store water and maintain turgor pressure", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the vacuole in storing nutrients and waste products?",
+      "answerOptions": [
+        { "answerText": "To store nutrients, waste products, and other substances", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of the vacuole in the cell?",
+      "answerOptions": [
+        { "answerText": "To store nutrients, waste products, and maintain turgor pressure", "isCorrect": true },
+        { "answerText": "To produce ATP", "isCorrect": false },
+        { "answerText": "To store genetic information", "isCorrect": false },
+        { "answerText": "To synthesize proteins", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the role of water in the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "To participate in the hydration reactions", "isCorrect": true },
+        { "answerText": "To store energy", "isCorrect": false },
+        { "answerText": "To transport electrons", "isCorrect": false },
+        { "answerText": "To release carbon dioxide", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the six-carbon molecule formed when acetyl-CoA combines with oxaloacetate?",
+      "answerOptions": [
+        { "answerText": "Citrate", "isCorrect": true },
+        { "answerText": "Malate", "isCorrect": false },
+        { "answerText": "Fumarate", "isCorrect": false },
+        { "answerText": "Succinate", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the study of how people think, learn, and remember?",
+      "answerOptions": [
+        { "answerText": "Cognitive psychology", "isCorrect": true },
+        { "answerText": "Behavioral psychology", "isCorrect": false },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a change in the DNA sequence of an organism?",
+      "answerOptions": [
+        { "answerText": "Mutation", "isCorrect": true },
+        { "answerText": "Adaptation", "isCorrect": false },
+        { "answerText": "Evolution", "isCorrect": false },
+        { "answerText": "Natural selection", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a group of organs that work together to perform a specific function?",
+      "answerOptions": [
+        { "answerText": "Organ system", "isCorrect": true },
+        { "answerText": "Tissue", "isCorrect": false },
+        { "answerText": "Cell", "isCorrect": false },
+        { "answerText": "Organ", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a group of similar cells that perform a specific function?",
+      "answerOptions": [
+        { "answerText": "Tissue", "isCorrect": true },
+        { "answerText": "Organ system", "isCorrect": false },
+        { "answerText": "Cell", "isCorrect": false },
+        { "answerText": "Organ", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a mental disorder characterized by delusions and hallucinations?",
+      "answerOptions": [
+        { "answerText": "Schizophrenia", "isCorrect": true },
+        { "answerText": "Bipolar disorder", "isCorrect": false },
+        { "answerText": "Depression", "isCorrect": false },
+        { "answerText": "Anxiety disorder", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a mental disorder characterized by extreme mood swings?",
+      "answerOptions": [
+        { "answerText": "Bipolar disorder", "isCorrect": true },
+        { "answerText": "Schizophrenia", "isCorrect": false },
+        { "answerText": "Depression", "isCorrect": false },
+        { "answerText": "Anxiety disorder", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a mental disorder characterized by persistent feelings of sadness and loss of interest?",
+      "answerOptions": [
+        { "answerText": "Depression", "isCorrect": true },
+        { "answerText": "Bipolar disorder", "isCorrect": false },
+        { "answerText": "Schizophrenia", "isCorrect": false },
+        { "answerText": "Anxiety disorder", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a mental disorder characterized by persistent feelings of worry and fear?",
+      "answerOptions": [
+        { "answerText": "Anxiety disorder", "isCorrect": true },
+        { "answerText": "Bipolar disorder", "isCorrect": false },
+        { "answerText": "Depression", "isCorrect": false },
+        { "answerText": "Schizophrenia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a persistent, irrational fear of a specific object, activity, or situation?",
+      "answerOptions": [
+        { "answerText": "Phobia", "isCorrect": true },
+        { "answerText": "Anxiety disorder", "isCorrect": false },
+        { "answerText": "Bipolar disorder", "isCorrect": false },
+        { "answerText": "Schizophrenia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a plant's response to light?",
+      "answerOptions": [
+        { "answerText": "Phototropism", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Thigmotropism", "isCorrect": false },
+        { "answerText": "Geotropism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a strong, irrational fear of social situations?",
+      "answerOptions": [
+        { "answerText": "Social anxiety disorder", "isCorrect": true },
+        { "answerText": "Phobia", "isCorrect": false },
+        { "answerText": "Bipolar disorder", "isCorrect": false },
+        { "answerText": "Schizophrenia", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a trait that helps an organism survive and reproduce in its environment?",
+      "answerOptions": [
+        { "answerText": "Adaptation", "isCorrect": true },
+        { "answerText": "Mutation", "isCorrect": false },
+        { "answerText": "Evolution", "isCorrect": false },
+        { "answerText": "Natural selection", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for a type of learning in which behavior is strengthened if followed by a reinforcer or diminished if followed by a punisher?",
+      "answerOptions": [
+        { "answerText": "Operant conditioning", "isCorrect": true },
+        { "answerText": "Classical conditioning", "isCorrect": false },
+        { "answerText": "Observational learning", "isCorrect": false },
+        { "answerText": "Cognitive learning", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for an organism that feeds on dead or decaying matter?",
+      "answerOptions": [
+        { "answerText": "Detritivore", "isCorrect": true },
+        { "answerText": "Herbivore", "isCorrect": false },
+        { "answerText": "Carnivore", "isCorrect": false },
+        { "answerText": "Omnivore", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the ability to perceive, understand, and manage emotions?",
+      "answerOptions": [
+        { "answerText": "Emotional intelligence", "isCorrect": true },
+        { "answerText": "Social intelligence", "isCorrect": false },
+        { "answerText": "Cognitive intelligence", "isCorrect": false },
+        { "answerText": "Practical intelligence", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the ability to recover from or adapt to difficult life events?",
+      "answerOptions": [
+        { "answerText": "Resilience", "isCorrect": true },
+        { "answerText": "Adaptation", "isCorrect": false },
+        { "answerText": "Coping", "isCorrect": false },
+        { "answerText": "Perseverance", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the ability to think about and understand one's own mental processes?",
+      "answerOptions": [
+        { "answerText": "Metacognition", "isCorrect": true },
+        { "answerText": "Cognition", "isCorrect": false },
+        { "answerText": "Perception", "isCorrect": false },
+        { "answerText": "Introspection", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the ability to understand and manage your own emotions?",
+      "answerOptions": [
+        { "answerText": "Emotional intelligence", "isCorrect": true },
+        { "answerText": "Social intelligence", "isCorrect": false },
+        { "answerText": "Cognitive intelligence", "isCorrect": false },
+        { "answerText": "Practical intelligence", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the genetic makeup of an organism?",
+      "answerOptions": [
+        { "answerText": "Genotype", "isCorrect": true },
+        { "answerText": "Phenotype", "isCorrect": false },
+        { "answerText": "Allele", "isCorrect": false },
+        { "answerText": "Gene", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the group of organisms that can interbreed and produce fertile offspring?",
+      "answerOptions": [
+        { "answerText": "Species", "isCorrect": true },
+        { "answerText": "Genus", "isCorrect": false },
+        { "answerText": "Family", "isCorrect": false },
+        { "answerText": "Order", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the hereditary material found in all living organisms?",
+      "answerOptions": [
+        { "answerText": "DNA", "isCorrect": true },
+        { "answerText": "RNA", "isCorrect": false },
+        { "answerText": "Protein", "isCorrect": false },
+        { "answerText": "Lipid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the internal process that activates, guides, and maintains behavior?",
+      "answerOptions": [
+        { "answerText": "Motivation", "isCorrect": true },
+        { "answerText": "Emotion", "isCorrect": false },
+        { "answerText": "Cognition", "isCorrect": false },
+        { "answerText": "Perception", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the mental process of acquiring knowledge and understanding through thought, experience, and the senses?",
+      "answerOptions": [
+        { "answerText": "Cognition", "isCorrect": true },
+        { "answerText": "Perception", "isCorrect": false },
+        { "answerText": "Motivation", "isCorrect": false },
+        { "answerText": "Emotion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the mental process of focusing attention on a specific object, event, or thought?",
+      "answerOptions": [
+        { "answerText": "Attention", "isCorrect": true },
+        { "answerText": "Perception", "isCorrect": false },
+        { "answerText": "Motivation", "isCorrect": false },
+        { "answerText": "Emotion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the mental process of making sense of sensory information?",
+      "answerOptions": [
+        { "answerText": "Perception", "isCorrect": true },
+        { "answerText": "Cognition", "isCorrect": false },
+        { "answerText": "Motivation", "isCorrect": false },
+        { "answerText": "Emotion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of air into and out of the lungs?",
+      "answerOptions": [
+        { "answerText": "Breathing", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of molecules from an area of high concentration to an area of low concentration?",
+      "answerOptions": [
+        { "answerText": "Diffusion", "isCorrect": true },
+        { "answerText": "Osmosis", "isCorrect": false },
+        { "answerText": "Active transport", "isCorrect": false },
+        { "answerText": "Facilitated diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of substances across a cell membrane without the use of energy?",
+      "answerOptions": [
+        { "answerText": "Passive transport", "isCorrect": true },
+        { "answerText": "Active transport", "isCorrect": false },
+        { "answerText": "Facilitated diffusion", "isCorrect": false },
+        { "answerText": "Osmosis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of substances across a cell membrane?",
+      "answerOptions": [
+        { "answerText": "Transport", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Osmosis", "isCorrect": false },
+        { "answerText": "Active transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of substances against a concentration gradient?",
+      "answerOptions": [
+        { "answerText": "Active transport", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Osmosis", "isCorrect": false },
+        { "answerText": "Passive transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of substances from an area of low concentration to an area of high concentration?",
+      "answerOptions": [
+        { "answerText": "Active transport", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Osmosis", "isCorrect": false },
+        { "answerText": "Passive transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of substances into and out of a cell?",
+      "answerOptions": [
+        { "answerText": "Cell transport", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Osmosis", "isCorrect": false },
+        { "answerText": "Active transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of water across a selectively permeable membrane?",
+      "answerOptions": [
+        { "answerText": "Osmosis", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Active transport", "isCorrect": false },
+        { "answerText": "Passive transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of water molecules across a selectively permeable membrane?",
+      "answerOptions": [
+        { "answerText": "Osmosis", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Active transport", "isCorrect": false },
+        { "answerText": "Passive transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of water molecules through a cell membrane?",
+      "answerOptions": [
+        { "answerText": "Osmosis", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Active transport", "isCorrect": false },
+        { "answerText": "Passive transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the movement of water molecules through a selectively permeable membrane?",
+      "answerOptions": [
+        { "answerText": "Osmosis", "isCorrect": true },
+        { "answerText": "Diffusion", "isCorrect": false },
+        { "answerText": "Active transport", "isCorrect": false },
+        { "answerText": "Passive transport", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the part of the brain responsible for decision-making and problem-solving?",
+      "answerOptions": [
+        { "answerText": "Prefrontal cortex", "isCorrect": true },
+        { "answerText": "Amygdala", "isCorrect": false },
+        { "answerText": "Hippocampus", "isCorrect": false },
+        { "answerText": "Cerebellum", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the part of the brain responsible for emotions?",
+      "answerOptions": [
+        { "answerText": "Amygdala", "isCorrect": true },
+        { "answerText": "Prefrontal cortex", "isCorrect": false },
+        { "answerText": "Hippocampus", "isCorrect": false },
+        { "answerText": "Cerebellum", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the part of the brain responsible for regulating basic bodily functions?",
+      "answerOptions": [
+        { "answerText": "Brainstem", "isCorrect": true },
+        { "answerText": "Prefrontal cortex", "isCorrect": false },
+        { "answerText": "Amygdala", "isCorrect": false },
+        { "answerText": "Hippocampus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the physical characteristics of an organism?",
+      "answerOptions": [
+        { "answerText": "Phenotype", "isCorrect": true },
+        { "answerText": "Genotype", "isCorrect": false },
+        { "answerText": "Allele", "isCorrect": false },
+        { "answerText": "Trait", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells convert energy from food into usable energy?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells convert glucose into ATP?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells convert glucose into energy?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells divide to form new cells?",
+      "answerOptions": [
+        { "answerText": "Mitosis", "isCorrect": true },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Cytokinesis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells divide to produce genetically identical cells?",
+      "answerOptions": [
+        { "answerText": "Mitosis", "isCorrect": true },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Cytokinesis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells divide to produce identical offspring?",
+      "answerOptions": [
+        { "answerText": "Mitosis", "isCorrect": true },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Cytokinesis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells divide to produce new cells for growth and repair?",
+      "answerOptions": [
+        { "answerText": "Mitosis", "isCorrect": true },
+        { "answerText": "Meiosis", "isCorrect": false },
+        { "answerText": "Cytokinesis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells eliminate excess water?",
+      "answerOptions": [
+        { "answerText": "Exocytosis", "isCorrect": true },
+        { "answerText": "Endocytosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells eliminate waste products?",
+      "answerOptions": [
+        { "answerText": "Exocytosis", "isCorrect": true },
+        { "answerText": "Endocytosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells obtain energy from food?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells produce energy from glucose in the absence of oxygen?",
+      "answerOptions": [
+        { "answerText": "Fermentation", "isCorrect": true },
+        { "answerText": "Cellular respiration", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells release energy from food molecules?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells release energy from glucose?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells release energy from nutrients?",
+      "answerOptions": [
+        { "answerText": "Cellular respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false },
+        { "answerText": "Glycolysis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which cells remove harmful substances?",
+      "answerOptions": [
+        { "answerText": "Exocytosis", "isCorrect": true },
+        { "answerText": "Endocytosis", "isCorrect": false },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Respiration", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which plants exchange gases with their environment?",
+      "answerOptions": [
+        { "answerText": "Respiration", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Transpiration", "isCorrect": false },
+        { "answerText": "Diffusion", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which plants grow towards gravity?",
+      "answerOptions": [
+        { "answerText": "Geotropism", "isCorrect": true },
+        { "answerText": "Phototropism", "isCorrect": false },
+        { "answerText": "Thigmotropism", "isCorrect": false },
+        { "answerText": "Hydrotropism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the process by which we perceive and respond to certain events that we find challenging or threatening?",
+      "answerOptions": [
+        { "answerText": "Stress", "isCorrect": true },
+        { "answerText": "Anxiety", "isCorrect": false },
+        { "answerText": "Depression", "isCorrect": false },
+        { "answerText": "Motivation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of how individuals interact and influence each other?",
+      "answerOptions": [
+        { "answerText": "Social psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of how people develop physically, emotionally, and socially throughout their lives?",
+      "answerOptions": [
+        { "answerText": "Developmental psychology", "isCorrect": true },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of how people form, store, and retrieve memories?",
+      "answerOptions": [
+        { "answerText": "Cognitive psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of aging on behavior?",
+      "answerOptions": [
+        { "answerText": "Geropsychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of alternative treatments on behavior?",
+      "answerOptions": [
+        { "answerText": "Alternative therapy psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of animals on human behavior?",
+      "answerOptions": [
+        { "answerText": "Anthrozoology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of biological factors on behavior?",
+      "answerOptions": [
+        { "answerText": "Biopsychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of brain damage on behavior?",
+      "answerOptions": [
+        { "answerText": "Neuropsychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of childhood experiences on behavior?",
+      "answerOptions": [
+        { "answerText": "Developmental psychology", "isCorrect": true },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of cognition on behavior?",
+      "answerOptions": [
+        { "answerText": "Cognitive psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of community programs on behavior?",
+      "answerOptions": [
+        { "answerText": "Community psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of counseling on behavior?",
+      "answerOptions": [
+        { "answerText": "Counseling psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of creativity on behavior?",
+      "answerOptions": [
+        { "answerText": "Creativity psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of cultural changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Cultural psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of culture on behavior?",
+      "answerOptions": [
+        { "answerText": "Cultural psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of diet and exercise on behavior?",
+      "answerOptions": [
+        { "answerText": "Health psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of drugs on behavior?",
+      "answerOptions": [
+        { "answerText": "Psychopharmacology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of economic changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Economic psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of education on behavior?",
+      "answerOptions": [
+        { "answerText": "Educational psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of emotions on behavior?",
+      "answerOptions": [
+        { "answerText": "Emotional psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of environmental changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Environmental psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of future changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Futures psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of gender on behavior?",
+      "answerOptions": [
+        { "answerText": "Gender psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of genetic factors on behavior?",
+      "answerOptions": [
+        { "answerText": "Behavioral genetics", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of historical changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Historical psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of human behavior on animals?",
+      "answerOptions": [
+        { "answerText": "Anthrozoology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of human behavior on microorganisms?",
+      "answerOptions": [
+        { "answerText": "Microbial psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of human behavior on plants?",
+      "answerOptions": [
+        { "answerText": "Plant psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of human behavior on the environment?",
+      "answerOptions": [
+        { "answerText": "Environmental psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of intelligence on behavior?",
+      "answerOptions": [
+        { "answerText": "Intelligence psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of intervention programs on behavior?",
+      "answerOptions": [
+        { "answerText": "Intervention psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of learning and experience on behavior?",
+      "answerOptions": [
+        { "answerText": "Educational psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of legal changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Legal psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of leisure activities on behavior?",
+      "answerOptions": [
+        { "answerText": "Recreational psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of medication on behavior?",
+      "answerOptions": [
+        { "answerText": "Psychopharmacology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of memory on behavior?",
+      "answerOptions": [
+        { "answerText": "Memory psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of mental disorders on behavior?",
+      "answerOptions": [
+        { "answerText": "Abnormal psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of microorganisms on human behavior?",
+      "answerOptions": [
+        { "answerText": "Microbial psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of motivation on behavior?",
+      "answerOptions": [
+        { "answerText": "Motivational psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of parenting on behavior?",
+      "answerOptions": [
+        { "answerText": "Parenting psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of perception on behavior?",
+      "answerOptions": [
+        { "answerText": "Perceptual psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of personality on behavior?",
+      "answerOptions": [
+        { "answerText": "Personality psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of plants on human behavior?",
+      "answerOptions": [
+        { "answerText": "Plant psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of policy changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Policy psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of political changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Political psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of prevention programs on behavior?",
+      "answerOptions": [
+        { "answerText": "Prevention psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of race and ethnicity on behavior?",
+      "answerOptions": [
+        { "answerText": "Ethnic psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of rehabilitation programs on behavior?",
+      "answerOptions": [
+        { "answerText": "Rehabilitation psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of relationships on behavior?",
+      "answerOptions": [
+        { "answerText": "Relationship psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of religion on behavior?",
+      "answerOptions": [
+        { "answerText": "Religious psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of self-help programs on behavior?",
+      "answerOptions": [
+        { "answerText": "Self-help psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of sleep on behavior?",
+      "answerOptions": [
+        { "answerText": "Sleep psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of social and cultural factors on behavior?",
+      "answerOptions": [
+        { "answerText": "Sociocultural psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of social changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Social psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Cultural psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of socioeconomic status on behavior?",
+      "answerOptions": [
+        { "answerText": "Socioeconomic psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of stress on behavior?",
+      "answerOptions": [
+        { "answerText": "Stress psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of support groups on behavior?",
+      "answerOptions": [
+        { "answerText": "Support group psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of technological changes on behavior?",
+      "answerOptions": [
+        { "answerText": "Technological psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of the environment on human behavior?",
+      "answerOptions": [
+        { "answerText": "Environmental psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of therapy on behavior?",
+      "answerOptions": [
+        { "answerText": "Therapeutic psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological study of the effects of work on behavior?",
+      "answerOptions": [
+        { "answerText": "Occupational psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological theory that emphasizes the importance of personal growth and self-actualization?",
+      "answerOptions": [
+        { "answerText": "Humanistic psychology", "isCorrect": true },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Behavioral psychology", "isCorrect": false },
+        { "answerText": "Psychoanalytic psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological theory that emphasizes the role of thought processes in behavior?",
+      "answerOptions": [
+        { "answerText": "Cognitive psychology", "isCorrect": true },
+        { "answerText": "Behavioral psychology", "isCorrect": false },
+        { "answerText": "Psychoanalytic psychology", "isCorrect": false },
+        { "answerText": "Humanistic psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological theory that focuses on observable behaviors and their environmental determinants?",
+      "answerOptions": [
+        { "answerText": "Behavioral psychology", "isCorrect": true },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Psychoanalytic psychology", "isCorrect": false },
+        { "answerText": "Humanistic psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological theory that focuses on the unconscious mind and its influence on behavior?",
+      "answerOptions": [
+        { "answerText": "Psychoanalytic psychology", "isCorrect": true },
+        { "answerText": "Behavioral psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Humanistic psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the psychological theory that human behavior is motivated by the desire to achieve goals?",
+      "answerOptions": [
+        { "answerText": "Goal-setting theory", "isCorrect": true },
+        { "answerText": "Psychoanalytic psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Behavioral psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the scientific study of behavior and mental processes?",
+      "answerOptions": [
+        { "answerText": "Psychology", "isCorrect": true },
+        { "answerText": "Sociology", "isCorrect": false },
+        { "answerText": "Anthropology", "isCorrect": false },
+        { "answerText": "Biology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the scientific study of how people think about, influence, and relate to one another?",
+      "answerOptions": [
+        { "answerText": "Social psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the semi-fluid substance inside a cell?",
+      "answerOptions": [
+        { "answerText": "Cytoplasm", "isCorrect": true },
+        { "answerText": "Nucleus", "isCorrect": false },
+        { "answerText": "Mitochondria", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the study of heredity and the variation of inherited characteristics?",
+      "answerOptions": [
+        { "answerText": "Genetics", "isCorrect": true },
+        { "answerText": "Biology", "isCorrect": false },
+        { "answerText": "Anthropology", "isCorrect": false },
+        { "answerText": "Psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the study of how people grow and change over the course of a lifetime?",
+      "answerOptions": [
+        { "answerText": "Developmental psychology", "isCorrect": true },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the study of how people perceive, think, and solve problems?",
+      "answerOptions": [
+        { "answerText": "Cognitive psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Social psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the study of how people's thoughts, feelings, and behaviors are influenced by the actual or imagined presence of others?",
+      "answerOptions": [
+        { "answerText": "Social psychology", "isCorrect": true },
+        { "answerText": "Developmental psychology", "isCorrect": false },
+        { "answerText": "Cognitive psychology", "isCorrect": false },
+        { "answerText": "Clinical psychology", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the sum of all chemical reactions that occur within an organism?",
+      "answerOptions": [
+        { "answerText": "Metabolism", "isCorrect": true },
+        { "answerText": "Photosynthesis", "isCorrect": false },
+        { "answerText": "Cellular respiration", "isCorrect": false },
+        { "answerText": "Fermentation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the symbiotic relationship where both organisms benefit?",
+      "answerOptions": [
+        { "answerText": "Mutualism", "isCorrect": true },
+        { "answerText": "Commensalism", "isCorrect": false },
+        { "answerText": "Parasitism", "isCorrect": false },
+        { "answerText": "Predation", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the tendency to conform to group behavior?",
+      "answerOptions": [
+        { "answerText": "Conformity", "isCorrect": true },
+        { "answerText": "Obedience", "isCorrect": false },
+        { "answerText": "Compliance", "isCorrect": false },
+        { "answerText": "Acceptance", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the type of asexual reproduction where a new organism grows from the body of the parent organism?",
+      "answerOptions": [
+        { "answerText": "Budding", "isCorrect": true },
+        { "answerText": "Binary fission", "isCorrect": false },
+        { "answerText": "Fragmentation", "isCorrect": false },
+        { "answerText": "Parthenogenesis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the type of cell division that produces sex cells?",
+      "answerOptions": [
+        { "answerText": "Meiosis", "isCorrect": true },
+        { "answerText": "Mitosis", "isCorrect": false },
+        { "answerText": "Cytokinesis", "isCorrect": false },
+        { "answerText": "Binary fission", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the type of cell that lacks a nucleus?",
+      "answerOptions": [
+        { "answerText": "Prokaryotic cell", "isCorrect": true },
+        { "answerText": "Eukaryotic cell", "isCorrect": false },
+        { "answerText": "Animal cell", "isCorrect": false },
+        { "answerText": "Plant cell", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the type of organism that can reproduce without a mate?",
+      "answerOptions": [
+        { "answerText": "Asexual organism", "isCorrect": true },
+        { "answerText": "Sexual organism", "isCorrect": false },
+        { "answerText": "Parthenogenetic organism", "isCorrect": false },
+        { "answerText": "Hermaphroditic organism", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the type of reproduction that involves a single parent?",
+      "answerOptions": [
+        { "answerText": "Asexual reproduction", "isCorrect": true },
+        { "answerText": "Sexual reproduction", "isCorrect": false },
+        { "answerText": "Parthenogenesis", "isCorrect": false },
+        { "answerText": "Hermaphroditism", "isCorrect": false }
+      ]
+    },
+
+    {
+      "questionText": "What is the term for the type of reproduction that involves two parents and produces genetically diverse offspring?",
+      "answerOptions": [
+        { "answerText": "Sexual reproduction", "isCorrect": true },
+        { "answerText": "Asexual reproduction", "isCorrect": false },
+        { "answerText": "Budding", "isCorrect": false },
+        { "answerText": "Parthenogenesis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the type of reproduction that produces identical offspring?",
+      "answerOptions": [
+        { "answerText": "Asexual reproduction", "isCorrect": true },
+        { "answerText": "Sexual reproduction", "isCorrect": false },
+        { "answerText": "Budding", "isCorrect": false },
+        { "answerText": "Parthenogenesis", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is the term for the unconscious mind, according to Freud?",
+      "answerOptions": [
+        { "answerText": "Id", "isCorrect": true },
+        { "answerText": "Ego", "isCorrect": false },
+        { "answerText": "Superego", "isCorrect": false },
+        { "answerText": "Collective unconscious", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What molecule carries genetic information in living organisms?",
+      "answerOptions": [
+        { "answerText": "DNA", "isCorrect": true },
+        { "answerText": "RNA", "isCorrect": false },
+        { "answerText": "Protein", "isCorrect": false },
+        { "answerText": "Lipid", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What molecule enters the Krebs cycle to start the process?",
+      "answerOptions": [
+        { "answerText": "Acetyl-CoA", "isCorrect": true },
+        { "answerText": "Pyruvate", "isCorrect": false },
+        { "answerText": "NADH", "isCorrect": false },
+        { "answerText": "FADH2", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What organ in the human body is responsible for filtering blood?",
+      "answerOptions": [
+        { "answerText": "Kidney", "isCorrect": true },
+        { "answerText": "Heart", "isCorrect": false },
+        { "answerText": "Liver", "isCorrect": false },
+        { "answerText": "Lung", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What organ in the human body is responsible for pumping blood?",
+      "answerOptions": [
+        { "answerText": "Heart", "isCorrect": true },
+        { "answerText": "Liver", "isCorrect": false },
+        { "answerText": "Kidney", "isCorrect": false },
+        { "answerText": "Lung", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What organ is responsible for filtering blood?",
+      "answerOptions": [
+        { "answerText": "Kidney", "isCorrect": true },
+        { "answerText": "Heart", "isCorrect": false },
+        { "answerText": "Liver", "isCorrect": false },
+        { "answerText": "Lung", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What organelle is known as the powerhouse of the cell?",
+      "answerOptions": [
+        { "answerText": "Mitochondria", "isCorrect": true },
+        { "answerText": "Nucleus", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false },
+        { "answerText": "Golgi apparatus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What part of the cell controls its activities and contains DNA?",
+      "answerOptions": [
+        { "answerText": "Nucleus", "isCorrect": true },
+        { "answerText": "Mitochondria", "isCorrect": false },
+        { "answerText": "Ribosome", "isCorrect": false },
+        { "answerText": "Golgi apparatus", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What type of blood cells are responsible for carrying oxygen?",
+      "answerOptions": [
+        { "answerText": "Red blood cells", "isCorrect": true },
+        { "answerText": "White blood cells", "isCorrect": false },
+        { "answerText": "Platelets", "isCorrect": false },
+        { "answerText": "Plasma cells", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What type of organism can make its own food using sunlight?",
+      "answerOptions": [
+        { "answerText": "Autotroph", "isCorrect": true },
+        { "answerText": "Heterotroph", "isCorrect": false },
+        { "answerText": "Saprotroph", "isCorrect": false },
+        { "answerText": "Parasite", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What type of symmetry do humans exhibit?",
+      "answerOptions": [
+        { "answerText": "Bilateral symmetry", "isCorrect": true },
+        { "answerText": "Radial symmetry", "isCorrect": false },
+        { "answerText": "Asymmetry", "isCorrect": false },
+        { "answerText": "Spherical symmetry", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which high-energy electron carrier molecules are produced in the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "NADH and FADH2", "isCorrect": true },
+        { "answerText": "ATP and GTP", "isCorrect": false },
+        { "answerText": "ADP and ATP", "isCorrect": false },
+        { "answerText": "CO2 and H2O", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Which molecule is produced in the largest amount during the Krebs cycle?",
+      "answerOptions": [
+        { "answerText": "NADH", "isCorrect": true },
+        { "answerText": "FADH2", "isCorrect": false },
+        { "answerText": "ATP", "isCorrect": false },
+        { "answerText": "CO2", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Who is considered the father of psychology?",
+      "answerOptions": [
+        { "answerText": "Wilhelm Wundt", "isCorrect": true },
+        { "answerText": "Sigmund Freud", "isCorrect": false },
+        { "answerText": "Ivan Pavlov", "isCorrect": false },
+        { "answerText": "William James", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Why is the Krebs cycle considered a cycle?",
+      "answerOptions": [
+        { "answerText": "Because it regenerates its starting molecule, oxaloacetate, with each turn", "isCorrect": true },
+        { "answerText": "Because it only occurs in cycles", "isCorrect": false },
+        { "answerText": "Because it produces energy in cycles", "isCorrect": false },
+        { "answerText": "Because it cycles between different organelles", "isCorrect": false }
+      ]
     }
+
   ]
   

@@ -1,0 +1,3614 @@
+[
+
+    {
+        "questionText": "How do African buffaloes defend themselves from predators?",
+        "answerOptions": [
+          { "answerText": "Forming large herds", "isCorrect": true },
+          { "answerText": "Climbing trees", "isCorrect": false },
+          { "answerText": "Hiding in burrows", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do African elephants communicate over long distances?",
+        "answerOptions": [
+          { "answerText": "Low-frequency sounds", "isCorrect": true },
+          { "answerText": "Flapping ears", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their trunks", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do African elephants keep cool in hot climates?",
+        "answerOptions": [
+          { "answerText": "Flapping their ears", "isCorrect": true },
+          { "answerText": "Sweating", "isCorrect": false },
+          { "answerText": "Drinking cold water", "isCorrect": false },
+          { "answerText": "Hiding in caves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do African elephants use their trunks?",
+        "answerOptions": [
+          { "answerText": "For drinking water", "isCorrect": true },
+          { "answerText": "For flying", "isCorrect": false },
+          { "answerText": "For making sounds", "isCorrect": false },
+          { "answerText": "For digging burrows", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do African penguins adapt to their cold environment?",
+        "answerOptions": [
+          { "answerText": "Thick layer of blubber", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Hibernating", "isCorrect": false },
+          { "answerText": "Flying south", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do African wild dogs hunt as a pack?",
+        "answerOptions": [
+          { "answerText": "Coordinated chases", "isCorrect": true },
+          { "answerText": "Ambush from trees", "isCorrect": false },
+          { "answerText": "Using tools", "isCorrect": false },
+          { "answerText": "Digging traps", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do Nile crocodiles capture their prey?",
+        "answerOptions": [
+          { "answerText": "Ambushing near water", "isCorrect": true },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Building traps", "isCorrect": false },
+          { "answerText": "Running after prey", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do Nile crocodiles care for their young?",
+        "answerOptions": [
+          { "answerText": "Carrying them in their mouths", "isCorrect": true },
+          { "answerText": "Building nests in trees", "isCorrect": false },
+          { "answerText": "Feeding them milk", "isCorrect": false },
+          { "answerText": "Teaching them to hunt", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do antelopes avoid predators in the savannah?",
+        "answerOptions": [
+          { "answerText": "Running fast", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Digging burrows", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do ants build their nests?",
+        "answerOptions": [
+          { "answerText": "Using soil and saliva", "isCorrect": true },
+          { "answerText": "Using leaves", "isCorrect": false },
+          { "answerText": "Using twigs", "isCorrect": false },
+          { "answerText": "Using stones", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do ants communicate with each other?",
+        "answerOptions": [
+          { "answerText": "Pheromones", "isCorrect": true },
+          { "answerText": "Using sounds", "isCorrect": false },
+          { "answerText": "Flapping wings", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do ants find their way back to the nest?",
+        "answerOptions": [
+          { "answerText": "Following scent trails", "isCorrect": true },
+          { "answerText": "Using stars", "isCorrect": false },
+          { "answerText": "Using a map", "isCorrect": false },
+          { "answerText": "Following the sun", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do bats find their food in the dark?",
+        "answerOptions": [
+          { "answerText": "Echolocation", "isCorrect": true },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Following the moon", "isCorrect": false },
+          { "answerText": "Using their sense of smell", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do bats navigate in the dark?",
+        "answerOptions": [
+          { "answerText": "Echolocation", "isCorrect": true },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Following the moon", "isCorrect": false },
+          { "answerText": "Using their sense of smell", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do bees find flowers?",
+        "answerOptions": [
+          { "answerText": "Sensing UV light", "isCorrect": true },
+          { "answerText": "Following other bees", "isCorrect": false },
+          { "answerText": "Smelling them from afar", "isCorrect": false },
+          { "answerText": "Following the sun", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do bees produce honey?",
+        "answerOptions": [
+          { "answerText": "Transforming nectar", "isCorrect": true },
+          { "answerText": "Collecting pollen", "isCorrect": false },
+          { "answerText": "Using their wings", "isCorrect": false },
+          { "answerText": "Fermenting flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do birds migrate long distances?",
+        "answerOptions": [
+          { "answerText": "Using internal compasses", "isCorrect": true },
+          { "answerText": "Following rivers", "isCorrect": false },
+          { "answerText": "Using wind currents", "isCorrect": false },
+          { "answerText": "Following the sun", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do birds navigate during migration?",
+        "answerOptions": [
+          { "answerText": "Using Earth's magnetic field", "isCorrect": true },
+          { "answerText": "Using the stars", "isCorrect": false },
+          { "answerText": "Using landmarks", "isCorrect": false },
+          { "answerText": "Using weather patterns", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do butterflies find their food?",
+        "answerOptions": [
+          { "answerText": "Using their sense of smell", "isCorrect": true },
+          { "answerText": "Following other insects", "isCorrect": false },
+          { "answerText": "Using UV light", "isCorrect": false },
+          { "answerText": "Following the wind", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do butterflies navigate during migration?",
+        "answerOptions": [
+          { "answerText": "Using the sun", "isCorrect": true },
+          { "answerText": "Using the moon", "isCorrect": false },
+          { "answerText": "Following rivers", "isCorrect": false },
+          { "answerText": "Using wind currents", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do camels survive in the desert?",
+        "answerOptions": [
+          { "answerText": "Storing fat in their humps", "isCorrect": true },
+          { "answerText": "Eating cacti", "isCorrect": false },
+          { "answerText": "Drinking a lot of water", "isCorrect": false },
+          { "answerText": "Sleeping during the day", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do chameleons blend into their surroundings?",
+        "answerOptions": [
+          { "answerText": "Changing color", "isCorrect": true },
+          { "answerText": "Hiding in burrows", "isCorrect": false },
+          { "answerText": "Using camouflage", "isCorrect": false },
+          { "answerText": "Staying still", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do chameleons catch their prey?",
+        "answerOptions": [
+          { "answerText": "Using their long tongues", "isCorrect": true },
+          { "answerText": "Running fast", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Building traps", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do cheetah cubs learn to hunt?",
+        "answerOptions": [
+          { "answerText": "Watching their mothers", "isCorrect": true },
+          { "answerText": "Playing with other cubs", "isCorrect": false },
+          { "answerText": "Hunting small prey", "isCorrect": false },
+          { "answerText": "Practicing on their own", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do cheetahs avoid overheating while running?",
+        "answerOptions": [
+          { "answerText": "Panting", "isCorrect": true },
+          { "answerText": "Sweating", "isCorrect": false },
+          { "answerText": "Running in the shade", "isCorrect": false },
+          { "answerText": "Drinking water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do cheetahs care for their young?",
+        "answerOptions": [
+          { "answerText": "Staying with them for months", "isCorrect": true },
+          { "answerText": "Building dens", "isCorrect": false },
+          { "answerText": "Feeding them milk", "isCorrect": false },
+          { "answerText": "Teaching them to hunt", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do cheetahs catch their prey?",
+        "answerOptions": [
+          { "answerText": "Chasing and pouncing", "isCorrect": true },
+          { "answerText": "Using stealth", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Setting traps", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do cheetahs maintain their speed while hunting?",
+        "answerOptions": [
+          { "answerText": "Strong leg muscles", "isCorrect": true },
+          { "answerText": "High stamina", "isCorrect": false },
+          { "answerText": "Eating well", "isCorrect": false },
+          { "answerText": "Running in short bursts", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do crabs protect themselves from predators?",
+        "answerOptions": [
+          { "answerText": "Using their claws", "isCorrect": true },
+          { "answerText": "Hiding in sand", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do crabs protect themselves?",
+        "answerOptions": [
+          { "answerText": "Using their claws", "isCorrect": true },
+          { "answerText": "Hiding in sand", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do crocodiles catch their prey?",
+        "answerOptions": [
+          { "answerText": "Ambushing near water", "isCorrect": true },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Building traps", "isCorrect": false },
+          { "answerText": "Running after prey", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do crocodiles hunt in African rivers?",
+        "answerOptions": [
+          { "answerText": "Ambushing near water", "isCorrect": true },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Building traps", "isCorrect": false },
+          { "answerText": "Running after prey", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do crocodiles regulate their body temperature?",
+        "answerOptions": [
+          { "answerText": "Basking in the sun", "isCorrect": true },
+          { "answerText": "Sweating", "isCorrect": false },
+          { "answerText": "Drinking cold water", "isCorrect": false },
+          { "answerText": "Hiding in burrows", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do crocodiles stay cool in hot climates?",
+        "answerOptions": [
+          { "answerText": "Basking in the sun", "isCorrect": true },
+          { "answerText": "Sweating", "isCorrect": false },
+          { "answerText": "Drinking cold water", "isCorrect": false },
+          { "answerText": "Hiding in burrows", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do dolphins communicate with each other?",
+        "answerOptions": [
+          { "answerText": "Using clicks and whistles", "isCorrect": true },
+          { "answerText": "Using body language", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using light signals", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do dolphins find their food?",
+        "answerOptions": [
+          { "answerText": "Using echolocation", "isCorrect": true },
+          { "answerText": "Following fish", "isCorrect": false },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Using their sense of smell", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do dolphins sleep?",
+        "answerOptions": [
+          { "answerText": "One hemisphere of their brain at a time", "isCorrect": true },
+          { "answerText": "Fully asleep underwater", "isCorrect": false },
+          { "answerText": "Hanging on the surface", "isCorrect": false },
+          { "answerText": "On the ocean floor", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do dung beetles contribute to the ecosystem in Africa?",
+        "answerOptions": [
+          { "answerText": "Recycling nutrients", "isCorrect": true },
+          { "answerText": "Pollinating flowers", "isCorrect": false },
+          { "answerText": "Killing pests", "isCorrect": false },
+          { "answerText": "Building nests", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do eagles hunt their prey?",
+        "answerOptions": [
+          { "answerText": "By swooping down with sharp talons", "isCorrect": true },
+          { "answerText": "By chasing on foot", "isCorrect": false },
+          { "answerText": "By setting traps", "isCorrect": false },
+          { "answerText": "By using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants care for their young?",
+        "answerOptions": [
+          { "answerText": "By nursing them and teaching survival skills", "isCorrect": true },
+          { "answerText": "By leaving them to fend for themselves", "isCorrect": false },
+          { "answerText": "By building nests", "isCorrect": false },
+          { "answerText": "By feeding them insects", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants communicate over long distances?",
+        "answerOptions": [
+          { "answerText": "Using low-frequency sounds", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By flapping their ears", "isCorrect": false },
+          { "answerText": "By using their trunks", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants communicate through vibrations?",
+        "answerOptions": [
+          { "answerText": "By producing seismic waves with their feet", "isCorrect": true },
+          { "answerText": "By flapping their ears", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By making loud noises", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants create watering holes?",
+        "answerOptions": [
+          { "answerText": "By digging with their tusks", "isCorrect": true },
+          { "answerText": "By using their trunks", "isCorrect": false },
+          { "answerText": "By stomping on the ground", "isCorrect": false },
+          { "answerText": "By rolling in mud", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants find water in dry seasons?",
+        "answerOptions": [
+          { "answerText": "Using their memory and sense of smell", "isCorrect": true },
+          { "answerText": "Following other animals", "isCorrect": false },
+          { "answerText": "Digging randomly", "isCorrect": false },
+          { "answerText": "By flapping their ears", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants keep cool in hot climates?",
+        "answerOptions": [
+          { "answerText": "By flapping their ears", "isCorrect": true },
+          { "answerText": "By drinking cold water", "isCorrect": false },
+          { "answerText": "By hiding in caves", "isCorrect": false },
+          { "answerText": "By sweating", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants use their trunks?",
+        "answerOptions": [
+          { "answerText": "For drinking water and grabbing objects", "isCorrect": true },
+          { "answerText": "For flying", "isCorrect": false },
+          { "answerText": "For making sounds", "isCorrect": false },
+          { "answerText": "For digging burrows", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants use their tusks in the wild?",
+        "answerOptions": [
+          { "answerText": "For digging and defense", "isCorrect": true },
+          { "answerText": "For attracting mates", "isCorrect": false },
+          { "answerText": "For climbing trees", "isCorrect": false },
+          { "answerText": "For swimming", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do elephants use their tusks?",
+        "answerOptions": [
+          { "answerText": "For digging and fighting", "isCorrect": true },
+          { "answerText": "For attracting mates", "isCorrect": false },
+          { "answerText": "For climbing trees", "isCorrect": false },
+          { "answerText": "For swimming", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do flamingos find their food?",
+        "answerOptions": [
+          { "answerText": "By filtering water through their beaks", "isCorrect": true },
+          { "answerText": "By diving", "isCorrect": false },
+          { "answerText": "By hunting insects", "isCorrect": false },
+          { "answerText": "By following other birds", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do flamingos get their pink color?",
+        "answerOptions": [
+          { "answerText": "From the pigments in their diet", "isCorrect": true },
+          { "answerText": "From sunlight", "isCorrect": false },
+          { "answerText": "From genetic mutations", "isCorrect": false },
+          { "answerText": "From water minerals", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do frogs breathe underwater?",
+        "answerOptions": [
+          { "answerText": "Through their skin", "isCorrect": true },
+          { "answerText": "Using gills", "isCorrect": false },
+          { "answerText": "Using lungs", "isCorrect": false },
+          { "answerText": "Using their mouth", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do frogs catch their prey?",
+        "answerOptions": [
+          { "answerText": "Using their long, sticky tongues", "isCorrect": true },
+          { "answerText": "By jumping on it", "isCorrect": false },
+          { "answerText": "By setting traps", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do giraffes communicate with each other?",
+        "answerOptions": [
+          { "answerText": "Using low-frequency sounds", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By flapping their ears", "isCorrect": false },
+          { "answerText": "By using their tongues", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do giraffes maintain their long necks?",
+        "answerOptions": [
+          { "answerText": "Strong vertebrae and muscles", "isCorrect": true },
+          { "answerText": "By stretching daily", "isCorrect": false },
+          { "answerText": "By eating leaves", "isCorrect": false },
+          { "answerText": "By drinking a lot of water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do giraffes protect themselves from predators?",
+        "answerOptions": [
+          { "answerText": "Using their strong legs to kick", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "By hiding in trees", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do gorillas find their food in the forest?",
+        "answerOptions": [
+          { "answerText": "Foraging for plants and fruits", "isCorrect": true },
+          { "answerText": "Hunting small animals", "isCorrect": false },
+          { "answerText": "Following other animals", "isCorrect": false },
+          { "answerText": "Digging for roots", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do honeybees communicate with each other?",
+        "answerOptions": [
+          { "answerText": "Through dance movements", "isCorrect": true },
+          { "answerText": "Using pheromones", "isCorrect": false },
+          { "answerText": "Using sounds", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do honeybees make wax?",
+        "answerOptions": [
+          { "answerText": "By secreting it from their abdominal glands", "isCorrect": true },
+          { "answerText": "By collecting it from plants", "isCorrect": false },
+          { "answerText": "By chewing leaves", "isCorrect": false },
+          { "answerText": "By transforming nectar", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do hyenas communicate within their clans?",
+        "answerOptions": [
+          { "answerText": "Through vocalizations and scent marking", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By using body language", "isCorrect": false },
+          { "answerText": "By making nests", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do hyenas hunt and scavenge for food?",
+        "answerOptions": [
+          { "answerText": "Using their strong jaws and teamwork", "isCorrect": true },
+          { "answerText": "By setting traps", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "By following lions", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do hyenas hunt in packs?",
+        "answerOptions": [
+          { "answerText": "Coordinated chases and teamwork", "isCorrect": true },
+          { "answerText": "Ambushing from trees", "isCorrect": false },
+          { "answerText": "Using tools", "isCorrect": false },
+          { "answerText": "Digging traps", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do jellyfish catch their prey?",
+        "answerOptions": [
+          { "answerText": "Using their stinging tentacles", "isCorrect": true },
+          { "answerText": "By swimming fast", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "Using venomous teeth", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do jellyfish move in the water?",
+        "answerOptions": [
+          { "answerText": "By pulsating their bell-shaped bodies", "isCorrect": true },
+          { "answerText": "Using fins", "isCorrect": false },
+          { "answerText": "Using their tentacles", "isCorrect": false },
+          { "answerText": "By following currents", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do kangaroos care for their young?",
+        "answerOptions": [
+          { "answerText": "By carrying them in pouches", "isCorrect": true },
+          { "answerText": "By building nests", "isCorrect": false },
+          { "answerText": "By feeding them milk", "isCorrect": false },
+          { "answerText": "By teaching them to hunt", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do lions care for their cubs?",
+        "answerOptions": [
+          { "answerText": "By nursing and protecting them", "isCorrect": true },
+          { "answerText": "By building dens", "isCorrect": false },
+          { "answerText": "By feeding them insects", "isCorrect": false },
+          { "answerText": "By teaching them to hunt", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do lions establish dominance within their prides?",
+        "answerOptions": [
+          { "answerText": "Through fights and displays of strength", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By making loud noises", "isCorrect": false },
+          { "answerText": "By marking territory", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do lions hunt in prides?",
+        "answerOptions": [
+          { "answerText": "Coordinated ambushes", "isCorrect": true },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Building traps", "isCorrect": false },
+          { "answerText": "Running after prey", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do lions maintain their territory?",
+        "answerOptions": [
+          { "answerText": "By marking it with scent", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By making loud noises", "isCorrect": false },
+          { "answerText": "By building fences", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do meerkats keep watch for predators?",
+        "answerOptions": [
+          { "answerText": "By taking turns standing guard", "isCorrect": true },
+          { "answerText": "By hiding in burrows", "isCorrect": false },
+          { "answerText": "By using venom", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do meerkats stay safe from predators?",
+        "answerOptions": [
+          { "answerText": "By living in groups and standing guard", "isCorrect": true },
+          { "answerText": "By hiding in trees", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do octopuses escape from predators?",
+        "answerOptions": [
+          { "answerText": "By releasing ink", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By swimming fast", "isCorrect": false },
+          { "answerText": "By using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do ostrich chicks stay safe from predators?",
+        "answerOptions": [
+          { "answerText": "By staying close to their parents", "isCorrect": true },
+          { "answerText": "By hiding in burrows", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By flying away", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do ostriches protect themselves from predators?",
+        "answerOptions": [
+          { "answerText": "Using their strong legs to kick", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Hiding in trees", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do otters find their food?",
+        "answerOptions": [
+          { "answerText": "By diving and using their sense of touch", "isCorrect": true },
+          { "answerText": "By following other animals", "isCorrect": false },
+          { "answerText": "By setting traps", "isCorrect": false },
+          { "answerText": "By using their sense of smell", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do otters keep warm in cold water?",
+        "answerOptions": [
+          { "answerText": "Thick fur and high metabolism", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By swimming fast", "isCorrect": false },
+          { "answerText": "By using fat layers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do owls hunt in the dark?",
+        "answerOptions": [
+          { "answerText": "Using their keen sense of hearing", "isCorrect": true },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Following the moon", "isCorrect": false },
+          { "answerText": "Using their sense of smell", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do penguins keep warm in Antarctica?",
+        "answerOptions": [
+          { "answerText": "Thick layer of blubber and feathers", "isCorrect": true },
+          { "answerText": "Hibernating", "isCorrect": false },
+          { "answerText": "Flying south", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do penguins stay warm in cold climates?",
+        "answerOptions": [
+          { "answerText": "Thick layer of blubber and feathers", "isCorrect": true },
+          { "answerText": "Hibernating", "isCorrect": false },
+          { "answerText": "Flying south", "isCorrect": false },
+          { "answerText": "Changing color", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants absorb nutrients from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants absorb water from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in acidic environments?",
+        "answerOptions": [
+          { "answerText": "Developing tolerance to low pH", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in alkaline environments?",
+        "answerOptions": [
+          { "answerText": "Developing tolerance to high pH", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in aquatic environments?",
+        "answerOptions": [
+          { "answerText": "Developing floating leaves", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in arid environments?",
+        "answerOptions": [
+          { "answerText": "Storing water in their tissues", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in clayey soils?",
+        "answerOptions": [
+          { "answerText": "Developing shallow root systems", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in cold environments?",
+        "answerOptions": [
+          { "answerText": "Developing antifreeze proteins", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in compacted soils?",
+        "answerOptions": [
+          { "answerText": "Developing strong, deep roots", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in desert environments?",
+        "answerOptions": [
+          { "answerText": "Storing water in their tissues", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in flooded environments?",
+        "answerOptions": [
+          { "answerText": "Developing air-filled tissues", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in high-altitude environments?",
+        "answerOptions": [
+          { "answerText": "Developing shorter growth forms", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in nutrient-poor environments?",
+        "answerOptions": [
+          { "answerText": "Developing efficient nutrient uptake systems", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in poor soil conditions?",
+        "answerOptions": [
+          { "answerText": "Developing efficient nutrient uptake systems", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in saline environments?",
+        "answerOptions": [
+          { "answerText": "Developing salt-excreting glands", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in saline soils?",
+        "answerOptions": [
+          { "answerText": "Developing salt-excreting glands", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in shaded environments?",
+        "answerOptions": [
+          { "answerText": "Developing large leaves", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in shady environments?",
+        "answerOptions": [
+          { "answerText": "Developing large leaves", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in tropical environments?",
+        "answerOptions": [
+          { "answerText": "Developing large leaves", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in waterlogged soils?",
+        "answerOptions": [
+          { "answerText": "Developing air-filled tissues", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in wet environments?",
+        "answerOptions": [
+          { "answerText": "Developing water-resistant tissues", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their stems", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants adapt to survive in windy environments?",
+        "answerOptions": [
+          { "answerText": "Developing flexible stems", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their roots", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants defend themselves against herbivores?",
+        "answerOptions": [
+          { "answerText": "Developing thorns and toxins", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their roots", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants disperse their seeds through wind?",
+        "answerOptions": [
+          { "answerText": "Developing lightweight seeds", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their roots", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants disperse their seeds?",
+        "answerOptions": [
+          { "answerText": "Through wind, water, and animals", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using their roots", "isCorrect": false },
+          { "answerText": "Developing thick leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain boron from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain calcium from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain carbon dioxide from the air?",
+        "answerOptions": [
+          { "answerText": "Through their leaves", "isCorrect": true },
+          { "answerText": "Through their roots", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain chlorine from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain cobalt from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain copper from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain iron from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain magnesium from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain manganese from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain molybdenum from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain nickel from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain nitrogen from the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Through symbiotic bacteria in their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain nitrogen from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain nutrients from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain phosphorus from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain potassium from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain silicon from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain sulfur from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants obtain zinc from the soil?",
+        "answerOptions": [
+          { "answerText": "Through their roots", "isCorrect": true },
+          { "answerText": "Through their leaves", "isCorrect": false },
+          { "answerText": "Through their stems", "isCorrect": false },
+          { "answerText": "Through their flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce asexually?",
+        "answerOptions": [
+          { "answerText": "Through cuttings and runners", "isCorrect": true },
+          { "answerText": "Through seeds", "isCorrect": false },
+          { "answerText": "Through spores", "isCorrect": false },
+          { "answerText": "Through grafting", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce sexually?",
+        "answerOptions": [
+          { "answerText": "Through the production of seeds", "isCorrect": true },
+          { "answerText": "Through cuttings", "isCorrect": false },
+          { "answerText": "Through grafting", "isCorrect": false },
+          { "answerText": "Through runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through bulbs?",
+        "answerOptions": [
+          { "answerText": "By growing new plants from underground storage organs", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through cuttings?",
+        "answerOptions": [
+          { "answerText": "By growing new plants from parts of the parent plant", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through grafting?",
+        "answerOptions": [
+          { "answerText": "By joining parts of two plants together", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through layering?",
+        "answerOptions": [
+          { "answerText": "By forming new plants from stems that touch the ground", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through rhizomes?",
+        "answerOptions": [
+          { "answerText": "By growing new plants from underground stems", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through seeds?",
+        "answerOptions": [
+          { "answerText": "By sexual reproduction involving pollination", "isCorrect": true },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false },
+          { "answerText": "By producing bulbs", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through spores?",
+        "answerOptions": [
+          { "answerText": "By releasing microscopic reproductive units", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false },
+          { "answerText": "By producing bulbs", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through tissue culture?",
+        "answerOptions": [
+          { "answerText": "By growing new plants from cells in a lab", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants reproduce through tubers?",
+        "answerOptions": [
+          { "answerText": "By growing new plants from underground storage stems", "isCorrect": true },
+          { "answerText": "By producing seeds", "isCorrect": false },
+          { "answerText": "By spreading spores", "isCorrect": false },
+          { "answerText": "By developing runners", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to changes in temperature?",
+        "answerOptions": [
+          { "answerText": "By adjusting their metabolic processes", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to competition from other plants?",
+        "answerOptions": [
+          { "answerText": "By growing taller or spreading wider", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to drought conditions?",
+        "answerOptions": [
+          { "answerText": "By reducing water loss through smaller leaves", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker stems", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to fire?",
+        "answerOptions": [
+          { "answerText": "By regenerating from underground structures", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to flooding conditions?",
+        "answerOptions": [
+          { "answerText": "By developing air-filled tissues", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to gravity?",
+        "answerOptions": [
+          { "answerText": "By growing roots downward and stems upward", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to herbivory?",
+        "answerOptions": [
+          { "answerText": "By producing defensive chemicals", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to light?",
+        "answerOptions": [
+          { "answerText": "By growing towards it (phototropism)", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to mechanical damage?",
+        "answerOptions": [
+          { "answerText": "By producing healing chemicals", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to nutrient deficiency?",
+        "answerOptions": [
+          { "answerText": "By increasing root growth", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to pathogens?",
+        "answerOptions": [
+          { "answerText": "By producing antimicrobial compounds", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to pollution?",
+        "answerOptions": [
+          { "answerText": "By producing stress-related chemicals", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to soil compaction?",
+        "answerOptions": [
+          { "answerText": "By developing stronger root systems", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants respond to touch?",
+        "answerOptions": [
+          { "answerText": "By closing leaves or moving away", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By moving to a different location", "isCorrect": false },
+          { "answerText": "By developing thicker leaves", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do plants store energy?",
+        "answerOptions": [
+          { "answerText": "As starch in their tissues", "isCorrect": true },
+          { "answerText": "As sugar in their leaves", "isCorrect": false },
+          { "answerText": "As fat in their roots", "isCorrect": false },
+          { "answerText": "As protein in their stems", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do rhinoceroses mark their territory?",
+        "answerOptions": [
+          { "answerText": "By spraying urine", "isCorrect": true },
+          { "answerText": "By making loud noises", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By building nests", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do sea turtles navigate back to their birthplace?",
+        "answerOptions": [
+          { "answerText": "Using Earth's magnetic field", "isCorrect": true },
+          { "answerText": "Following the stars", "isCorrect": false },
+          { "answerText": "Using sonar", "isCorrect": false },
+          { "answerText": "Following currents", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do sharks detect movement in the water?",
+        "answerOptions": [
+          { "answerText": "Using their lateral line system", "isCorrect": true },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Following the moon", "isCorrect": false },
+          { "answerText": "Using their sense of smell", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do sharks detect their prey?",
+        "answerOptions": [
+          { "answerText": "Using their sense of smell and electroreception", "isCorrect": true },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Following the moon", "isCorrect": false },
+          { "answerText": "Using their lateral line system", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do snakes digest their food?",
+        "answerOptions": [
+          { "answerText": "Using strong stomach acids", "isCorrect": true },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "By chewing thoroughly", "isCorrect": false },
+          { "answerText": "By regurgitating", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do snakes sense their environment?",
+        "answerOptions": [
+          { "answerText": "Using their forked tongues and Jacobson's organ", "isCorrect": true },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Following the moon", "isCorrect": false },
+          { "answerText": "Using their lateral line system", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do snakes sense their prey?",
+        "answerOptions": [
+          { "answerText": "Using heat-sensing pits and Jacobson's organ", "isCorrect": true },
+          { "answerText": "Using night vision", "isCorrect": false },
+          { "answerText": "Following the moon", "isCorrect": false },
+          { "answerText": "Using their lateral line system", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do snakes shed their skin?",
+        "answerOptions": [
+          { "answerText": "By rubbing against rough surfaces", "isCorrect": true },
+          { "answerText": "Using their teeth", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By biting it off", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do spiders catch their prey?",
+        "answerOptions": [
+          { "answerText": "Using silk webs to trap them", "isCorrect": true },
+          { "answerText": "By jumping on them", "isCorrect": false },
+          { "answerText": "By using venomous bites", "isCorrect": false },
+          { "answerText": "By chasing them", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do spiders spin their webs?",
+        "answerOptions": [
+          { "answerText": "Using silk produced by their spinnerets", "isCorrect": true },
+          { "answerText": "By collecting silk from plants", "isCorrect": false },
+          { "answerText": "By chewing leaves", "isCorrect": false },
+          { "answerText": "By using their legs", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do starfish regenerate lost arms?",
+        "answerOptions": [
+          { "answerText": "By regenerating from central disk cells", "isCorrect": true },
+          { "answerText": "By growing new ones overnight", "isCorrect": false },
+          { "answerText": "By using their legs", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do turtles protect themselves from predators?",
+        "answerOptions": [
+          { "answerText": "Using their hard shells", "isCorrect": true },
+          { "answerText": "By hiding in sand", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do vervet monkeys communicate with each other?",
+        "answerOptions": [
+          { "answerText": "Through vocalizations and body language", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By using pheromones", "isCorrect": false },
+          { "answerText": "By making nests", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do whales communicate with each other?",
+        "answerOptions": [
+          { "answerText": "Using complex vocalizations", "isCorrect": true },
+          { "answerText": "Using body language", "isCorrect": false },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By using light signals", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do wildebeests survive their annual migration?",
+        "answerOptions": [
+          { "answerText": "By traveling in large herds", "isCorrect": true },
+          { "answerText": "By changing color", "isCorrect": false },
+          { "answerText": "By using tools", "isCorrect": false },
+          { "answerText": "By hibernating", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do wolves hunt in packs?",
+        "answerOptions": [
+          { "answerText": "Coordinated chases and teamwork", "isCorrect": true },
+          { "answerText": "Ambushing from trees", "isCorrect": false },
+          { "answerText": "Using tools", "isCorrect": false },
+          { "answerText": "Digging traps", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do zebras communicate with each other?",
+        "answerOptions": [
+          { "answerText": "Using vocalizations and body language", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using pheromones", "isCorrect": false },
+          { "answerText": "Making nests", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How do zebras protect themselves from predators?",
+        "answerOptions": [
+          { "answerText": "By using their strong legs to kick and running in zigzags", "isCorrect": true },
+          { "answerText": "Changing color", "isCorrect": false },
+          { "answerText": "Using venom", "isCorrect": false },
+          { "answerText": "Hiding in trees", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many bones does a cat have?",
+        "answerOptions": [
+          { "answerText": "230", "isCorrect": true },
+          { "answerText": "200", "isCorrect": false },
+          { "answerText": "210", "isCorrect": false },
+          { "answerText": "220", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many chambers does a cow's stomach have?",
+        "answerOptions": [
+          { "answerText": "Four", "isCorrect": true },
+          { "answerText": "Two", "isCorrect": false },
+          { "answerText": "Three", "isCorrect": false },
+          { "answerText": "Five", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many hearts does an octopus have?",
+        "answerOptions": [
+          { "answerText": "Three", "isCorrect": true },
+          { "answerText": "One", "isCorrect": false },
+          { "answerText": "Two", "isCorrect": false },
+          { "answerText": "Four", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many legs does an insect have?",
+        "answerOptions": [
+          { "answerText": "Six", "isCorrect": true },
+          { "answerText": "Eight", "isCorrect": false },
+          { "answerText": "Ten", "isCorrect": false },
+          { "answerText": "Four", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of bats are there?",
+        "answerOptions": [
+          { "answerText": "Over 1,400", "isCorrect": true },
+          { "answerText": "500", "isCorrect": false },
+          { "answerText": "1,000", "isCorrect": false },
+          { "answerText": "2,000", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of bears are there?",
+        "answerOptions": [
+          { "answerText": "Eight", "isCorrect": true },
+          { "answerText": "Five", "isCorrect": false },
+          { "answerText": "Ten", "isCorrect": false },
+          { "answerText": "Twelve", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of deer are there?",
+        "answerOptions": [
+          { "answerText": "About 90", "isCorrect": true },
+          { "answerText": "50", "isCorrect": false },
+          { "answerText": "100", "isCorrect": false },
+          { "answerText": "120", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of elephants are there?",
+        "answerOptions": [
+          { "answerText": "Three", "isCorrect": true },
+          { "answerText": "Two", "isCorrect": false },
+          { "answerText": "Four", "isCorrect": false },
+          { "answerText": "Five", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of foxes are there?",
+        "answerOptions": [
+          { "answerText": "About 37", "isCorrect": true },
+          { "answerText": "20", "isCorrect": false },
+          { "answerText": "50", "isCorrect": false },
+          { "answerText": "70", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of penguins are there?",
+        "answerOptions": [
+          { "answerText": "18", "isCorrect": true },
+          { "answerText": "12", "isCorrect": false },
+          { "answerText": "20", "isCorrect": false },
+          { "answerText": "25", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of tigers are there?",
+        "answerOptions": [
+          { "answerText": "Six", "isCorrect": true },
+          { "answerText": "Three", "isCorrect": false },
+          { "answerText": "Four", "isCorrect": false },
+          { "answerText": "Eight", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of whales are there?",
+        "answerOptions": [
+          { "answerText": "About 90", "isCorrect": true },
+          { "answerText": "50", "isCorrect": false },
+          { "answerText": "100", "isCorrect": false },
+          { "answerText": "120", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "How many species of wolves are there?",
+        "answerOptions": [
+          { "answerText": "Three", "isCorrect": true },
+          { "answerText": "Two", "isCorrect": false },
+          { "answerText": "Four", "isCorrect": false },
+          { "answerText": "Five", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is a baby kangaroo called?",
+        "answerOptions": [
+          { "answerText": "Joey", "isCorrect": true },
+          { "answerText": "Cub", "isCorrect": false },
+          { "answerText": "Pup", "isCorrect": false },
+          { "answerText": "Kit", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the fastest land animal in Africa?",
+        "answerOptions": [
+          { "answerText": "Cheetah", "isCorrect": true },
+          { "answerText": "Lion", "isCorrect": false },
+          { "answerText": "Gazelle", "isCorrect": false },
+          { "answerText": "Elephant", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the fastest land animal?",
+        "answerOptions": [
+          { "answerText": "Cheetah", "isCorrect": true },
+          { "answerText": "Lion", "isCorrect": false },
+          { "answerText": "Gazelle", "isCorrect": false },
+          { "answerText": "Elephant", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest land animal found in Africa?",
+        "answerOptions": [
+          { "answerText": "African Elephant", "isCorrect": true },
+          { "answerText": "Lion", "isCorrect": false },
+          { "answerText": "Hippopotamus", "isCorrect": false },
+          { "answerText": "Giraffe", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest mammal in the world?",
+        "answerOptions": [
+          { "answerText": "Blue Whale", "isCorrect": true },
+          { "answerText": "African Elephant", "isCorrect": false },
+          { "answerText": "Hippopotamus", "isCorrect": false },
+          { "answerText": "Giraffe", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of amphibian?",
+        "answerOptions": [
+          { "answerText": "Chinese Giant Salamander", "isCorrect": true },
+          { "answerText": "Bullfrog", "isCorrect": false },
+          { "answerText": "Toad", "isCorrect": false },
+          { "answerText": "Newt", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of antelope found in Africa?",
+        "answerOptions": [
+          { "answerText": "Eland", "isCorrect": true },
+          { "answerText": "Kudu", "isCorrect": false },
+          { "answerText": "Impala", "isCorrect": false },
+          { "answerText": "Gazelle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of bear?",
+        "answerOptions": [
+          { "answerText": "Kodiak Bear", "isCorrect": true },
+          { "answerText": "Grizzly Bear", "isCorrect": false },
+          { "answerText": "Polar Bear", "isCorrect": false },
+          { "answerText": "Black Bear", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of bird of prey?",
+        "answerOptions": [
+          { "answerText": "Andean Condor", "isCorrect": true },
+          { "answerText": "Bald Eagle", "isCorrect": false },
+          { "answerText": "Golden Eagle", "isCorrect": false },
+          { "answerText": "Harpy Eagle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of bird?",
+        "answerOptions": [
+          { "answerText": "Ostrich", "isCorrect": true },
+          { "answerText": "Emu", "isCorrect": false },
+          { "answerText": "Cassowary", "isCorrect": false },
+          { "answerText": "Albatross", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of cat?",
+        "answerOptions": [
+          { "answerText": "Siberian Tiger", "isCorrect": true },
+          { "answerText": "Lion", "isCorrect": false },
+          { "answerText": "Jaguar", "isCorrect": false },
+          { "answerText": "Leopard", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of fish?",
+        "answerOptions": [
+          { "answerText": "Whale Shark", "isCorrect": true },
+          { "answerText": "Great White Shark", "isCorrect": false },
+          { "answerText": "Manta Ray", "isCorrect": false },
+          { "answerText": "Bluefin Tuna", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of lizard?",
+        "answerOptions": [
+          { "answerText": "Komodo Dragon", "isCorrect": true },
+          { "answerText": "Monitor Lizard", "isCorrect": false },
+          { "answerText": "Iguana", "isCorrect": false },
+          { "answerText": "Gila Monster", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of owl?",
+        "answerOptions": [
+          { "answerText": "Blakiston's Fish Owl", "isCorrect": true },
+          { "answerText": "Great Horned Owl", "isCorrect": false },
+          { "answerText": "Snowy Owl", "isCorrect": false },
+          { "answerText": "Eurasian Eagle Owl", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of primate?",
+        "answerOptions": [
+          { "answerText": "Eastern Gorilla", "isCorrect": true },
+          { "answerText": "Chimpanzee", "isCorrect": false },
+          { "answerText": "Orangutan", "isCorrect": false },
+          { "answerText": "Bonobo", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of rodent?",
+        "answerOptions": [
+          { "answerText": "Capybara", "isCorrect": true },
+          { "answerText": "Beaver", "isCorrect": false },
+          { "answerText": "Guinea Pig", "isCorrect": false },
+          { "answerText": "Porcupine", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of shark?",
+        "answerOptions": [
+          { "answerText": "Whale Shark", "isCorrect": true },
+          { "answerText": "Great White Shark", "isCorrect": false },
+          { "answerText": "Hammerhead Shark", "isCorrect": false },
+          { "answerText": "Mako Shark", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of snake?",
+        "answerOptions": [
+          { "answerText": "Green Anaconda", "isCorrect": true },
+          { "answerText": "King Cobra", "isCorrect": false },
+          { "answerText": "Reticulated Python", "isCorrect": false },
+          { "answerText": "Boa Constrictor", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest species of turtle?",
+        "answerOptions": [
+          { "answerText": "Leatherback Turtle", "isCorrect": true },
+          { "answerText": "Green Sea Turtle", "isCorrect": false },
+          { "answerText": "Loggerhead Turtle", "isCorrect": false },
+          { "answerText": "Hawksbill Turtle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the lifespan of a common house cat?",
+        "answerOptions": [
+          { "answerText": "12-15 years", "isCorrect": true },
+          { "answerText": "5-8 years", "isCorrect": false },
+          { "answerText": "20-25 years", "isCorrect": false },
+          { "answerText": "30-35 years", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main diet of a cheetah?",
+        "answerOptions": [
+          { "answerText": "Small to medium-sized ungulates", "isCorrect": true },
+          { "answerText": "Insects", "isCorrect": false },
+          { "answerText": "Fish", "isCorrect": false },
+          { "answerText": "Fruits", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main diet of a rhinoceros?",
+        "answerOptions": [
+          { "answerText": "Grasses and leafy plants", "isCorrect": true },
+          { "answerText": "Meat", "isCorrect": false },
+          { "answerText": "Fish", "isCorrect": false },
+          { "answerText": "Insects", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main difference between amphibians and reptiles?",
+        "answerOptions": [
+          { "answerText": "Amphibians have moist skin and lay eggs in water, while reptiles have dry skin and lay eggs on land", "isCorrect": true },
+          { "answerText": "Amphibians can fly, while reptiles cannot", "isCorrect": false },
+          { "answerText": "Reptiles have scales, while amphibians do not", "isCorrect": false },
+          { "answerText": "Amphibians have backbones, while reptiles do not", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main function of a plant's fruit?",
+        "answerOptions": [
+          { "answerText": "To protect and disperse seeds", "isCorrect": true },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main function of a plant's roots?",
+        "answerOptions": [
+          { "answerText": "To absorb water and nutrients", "isCorrect": true },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce flowers", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main function of a plant's stem?",
+        "answerOptions": [
+          { "answerText": "To support the plant and transport nutrients", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce seeds", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main function of a plant's stomata?",
+        "answerOptions": [
+          { "answerText": "To allow gas exchange", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To produce seeds", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main function of a plant's xylem?",
+        "answerOptions": [
+          { "answerText": "To transport water and nutrients from roots to leaves", "isCorrect": true },
+          { "answerText": "To transport sugars throughout the plant", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce flowers", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main predator of the African buffalo?",
+        "answerOptions": [
+          { "answerText": "Lions", "isCorrect": true },
+          { "answerText": "Leopards", "isCorrect": false },
+          { "answerText": "Cheetahs", "isCorrect": false },
+          { "answerText": "Hyenas", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's anther?",
+        "answerOptions": [
+          { "answerText": "To produce pollen", "isCorrect": true },
+          { "answerText": "To produce seeds", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's bark?",
+        "answerOptions": [
+          { "answerText": "To protect the plant from damage and disease", "isCorrect": true },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce flowers", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's flowers?",
+        "answerOptions": [
+          { "answerText": "To attract pollinators and produce seeds", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To protect the plant", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's fruits?",
+        "answerOptions": [
+          { "answerText": "To protect and disperse seeds", "isCorrect": true },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's leaves?",
+        "answerOptions": [
+          { "answerText": "To perform photosynthesis", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To produce flowers", "isCorrect": false },
+          { "answerText": "To protect the plant", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's lignin?",
+        "answerOptions": [
+          { "answerText": "To provide structural support", "isCorrect": true },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's nectar?",
+        "answerOptions": [
+          { "answerText": "To attract pollinators", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce seeds", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's pistil?",
+        "answerOptions": [
+          { "answerText": "To produce and house seeds", "isCorrect": true },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's resin?",
+        "answerOptions": [
+          { "answerText": "To protect against herbivores and pathogens", "isCorrect": true },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce seeds", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's rhizome?",
+        "answerOptions": [
+          { "answerText": "To store nutrients and produce new shoots", "isCorrect": true },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's rhizomes?",
+        "answerOptions": [
+          { "answerText": "To store nutrients and produce new shoots", "isCorrect": true },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's root cap?",
+        "answerOptions": [
+          { "answerText": "To protect the growing tip of the root", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's root hairs?",
+        "answerOptions": [
+          { "answerText": "To increase surface area for water absorption", "isCorrect": true },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To protect the plant", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's root nodules?",
+        "answerOptions": [
+          { "answerText": "To house nitrogen-fixing bacteria", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's stigma?",
+        "answerOptions": [
+          { "answerText": "To receive pollen during fertilization", "isCorrect": true },
+          { "answerText": "To produce seeds", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's tendrils?",
+        "answerOptions": [
+          { "answerText": "To provide support by wrapping around objects", "isCorrect": true },
+          { "answerText": "To absorb water", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce seeds", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's thorns?",
+        "answerOptions": [
+          { "answerText": "To protect against herbivores", "isCorrect": true },
+          { "answerText": "To attract pollinators", "isCorrect": false },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To absorb water", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of a plant's vascular tissue?",
+        "answerOptions": [
+          { "answerText": "To transport water, nutrients, and sugars", "isCorrect": true },
+          { "answerText": "To perform photosynthesis", "isCorrect": false },
+          { "answerText": "To produce seeds", "isCorrect": false },
+          { "answerText": "To attract pollinators", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the most common species of deer?",
+        "answerOptions": [
+          { "answerText": "White-tailed Deer", "isCorrect": true },
+          { "answerText": "Red Deer", "isCorrect": false },
+          { "answerText": "Mule Deer", "isCorrect": false },
+          { "answerText": "Fallow Deer", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the most intelligent species of bird?",
+        "answerOptions": [
+          { "answerText": "African Grey Parrot", "isCorrect": true },
+          { "answerText": "Bald Eagle", "isCorrect": false },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the African animal known for its large ears and exceptional hearing?",
+        "answerOptions": [
+          { "answerText": "African Elephant", "isCorrect": true },
+          { "answerText": "Lion", "isCorrect": false },
+          { "answerText": "Giraffe", "isCorrect": false },
+          { "answerText": "Cheetah", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the African antelope known for its spiral horns?",
+        "answerOptions": [
+          { "answerText": "Kudu", "isCorrect": true },
+          { "answerText": "Impala", "isCorrect": false },
+          { "answerText": "Gazelle", "isCorrect": false },
+          { "answerText": "Eland", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the African bird known for its bright red bill?",
+        "answerOptions": [
+          { "answerText": "Red-billed Hornbill", "isCorrect": true },
+          { "answerText": "African Grey Parrot", "isCorrect": false },
+          { "answerText": "Crested Crane", "isCorrect": false },
+          { "answerText": "Secretary Bird", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the African bird known for its elaborate nests?",
+        "answerOptions": [
+          { "answerText": "Weaver Bird", "isCorrect": true },
+          { "answerText": "African Grey Parrot", "isCorrect": false },
+          { "answerText": "Crested Crane", "isCorrect": false },
+          { "answerText": "Secretary Bird", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the African bird known for its striking blue plumage?",
+        "answerOptions": [
+          { "answerText": "Lilac-breasted Roller", "isCorrect": true },
+          { "answerText": "African Grey Parrot", "isCorrect": false },
+          { "answerText": "Crested Crane", "isCorrect": false },
+          { "answerText": "Secretary Bird", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the African mammal known for its armored body and ability to roll into a ball?",
+        "answerOptions": [
+          { "answerText": "Pangolin", "isCorrect": true },
+          { "answerText": "Armadillo", "isCorrect": false },
+          { "answerText": "Aardvark", "isCorrect": false },
+          { "answerText": "Warthog", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the African wild dog?",
+        "answerOptions": [
+          { "answerText": "Lycaon pictus", "isCorrect": true },
+          { "answerText": "Canis lupus", "isCorrect": false },
+          { "answerText": "Vulpes vulpes", "isCorrect": false },
+          { "answerText": "Panthera leo", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its ability to mimic sounds, found in African rainforests?",
+        "answerOptions": [
+          { "answerText": "African Grey Parrot", "isCorrect": true },
+          { "answerText": "Bald Eagle", "isCorrect": false },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its beautiful singing?",
+        "answerOptions": [
+          { "answerText": "Nightingale", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its bright plumage?",
+        "answerOptions": [
+          { "answerText": "Peacock", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its colorful feathers?",
+        "answerOptions": [
+          { "answerText": "Parrot", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Pigeon", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its colorful plumage?",
+        "answerOptions": [
+          { "answerText": "Peacock", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its courtship dance?",
+        "answerOptions": [
+          { "answerText": "Bird of Paradise", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its distinctive call?",
+        "answerOptions": [
+          { "answerText": "Cuckoo", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its impressive courtship dance?",
+        "answerOptions": [
+          { "answerText": "Bird of Paradise", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its impressive courtship display?",
+        "answerOptions": [
+          { "answerText": "Bird of Paradise", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its impressive memory?",
+        "answerOptions": [
+          { "answerText": "Clark's Nutcracker", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its impressive nest-building skills?",
+        "answerOptions": [
+          { "answerText": "Weaver Bird", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its impressive singing?",
+        "answerOptions": [
+          { "answerText": "Nightingale", "isCorrect": true },
+          { "answerText": "Crow", "isCorrect": false },
+          { "answerText": "Owl", "isCorrect": false },
+          { "answerText": "Parrot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its long migration?",
+        "answerOptions": [
+          { "answerText": "Arctic Tern", "isCorrect": true },
+          { "answerText": "Swallow", "isCorrect": false },
+          { "answerText": "Cuckoo", "isCorrect": false },
+          { "answerText": "Albatross", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird known for its mimicking abilities?",
+        "answerOptions": [
+          { "answerText": "Mockingbird", "isCorrect": true },
+          { "answerText": "Parrot", "isCorrect": false },
+          { "answerText": "Myna", "isCorrect": false },
+          { "answerText": "Crow", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird that can fly backwards?",
+        "answerOptions": [
+          { "answerText": "Hummingbird", "isCorrect": true },
+          { "answerText": "Swallow", "isCorrect": false },
+          { "answerText": "Sparrow", "isCorrect": false },
+          { "answerText": "Finch", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird that can run at high speeds and is native to Africa?",
+        "answerOptions": [
+          { "answerText": "Ostrich", "isCorrect": true },
+          { "answerText": "Emu", "isCorrect": false },
+          { "answerText": "Cassowary", "isCorrect": false },
+          { "answerText": "Secretary Bird", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the bird that often rides on the backs of large mammals, eating ticks and parasites?",
+        "answerOptions": [
+          { "answerText": "Oxpecker", "isCorrect": true },
+          { "answerText": "Cattle Egret", "isCorrect": false },
+          { "answerText": "Stork", "isCorrect": false },
+          { "answerText": "Heron", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the fastest bird in the sky?",
+        "answerOptions": [
+          { "answerText": "Peregrine Falcon", "isCorrect": true },
+          { "answerText": "Golden Eagle", "isCorrect": false },
+          { "answerText": "Bald Eagle", "isCorrect": false },
+          { "answerText": "Hawk", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the fastest swimming fish?",
+        "answerOptions": [
+          { "answerText": "Sailfish", "isCorrect": true },
+          { "answerText": "Marlin", "isCorrect": false },
+          { "answerText": "Tuna", "isCorrect": false },
+          { "answerText": "Swordfish", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the large bird that cannot fly, found in the African savannah?",
+        "answerOptions": [
+          { "answerText": "Ostrich", "isCorrect": true },
+          { "answerText": "Emu", "isCorrect": false },
+          { "answerText": "Cassowary", "isCorrect": false },
+          { "answerText": "Secretary Bird", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the large cat found in the African savannah known for its mane?",
+        "answerOptions": [
+          { "answerText": "Lion", "isCorrect": true },
+          { "answerText": "Leopard", "isCorrect": false },
+          { "answerText": "Cheetah", "isCorrect": false },
+          { "answerText": "Tiger", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the large primate found in the forests of central Africa?",
+        "answerOptions": [
+          { "answerText": "Gorilla", "isCorrect": true },
+          { "answerText": "Chimpanzee", "isCorrect": false },
+          { "answerText": "Orangutan", "isCorrect": false },
+          { "answerText": "Bonobo", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the nocturnal mammal found in Africa known for its strong digging abilities?",
+        "answerOptions": [
+          { "answerText": "Aardvark", "isCorrect": true },
+          { "answerText": "Pangolin", "isCorrect": false },
+          { "answerText": "Warthog", "isCorrect": false },
+          { "answerText": "Armadillo", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the only marsupial found in North America?",
+        "answerOptions": [
+          { "answerText": "Opossum", "isCorrect": true },
+          { "answerText": "Kangaroo", "isCorrect": false },
+          { "answerText": "Koala", "isCorrect": false },
+          { "answerText": "Bandicoot", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the organ that fish use to breathe underwater?",
+        "answerOptions": [
+          { "answerText": "Gills", "isCorrect": true },
+          { "answerText": "Lungs", "isCorrect": false },
+          { "answerText": "Fins", "isCorrect": false },
+          { "answerText": "Scales", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the pigment that gives plants their green color?",
+        "answerOptions": [
+          { "answerText": "Chlorophyll", "isCorrect": true },
+          { "answerText": "Carotene", "isCorrect": false },
+          { "answerText": "Anthocyanin", "isCorrect": false },
+          { "answerText": "Xanthophyll", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert carbon dioxide into glucose?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert carbon dioxide into oxygen?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert glucose into energy?",
+        "answerOptions": [
+          { "answerText": "Cellular Respiration", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert light energy into chemical energy?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert light into chemical bonds?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert sunlight into ATP?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert sunlight into chemical energy?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert sunlight into energy?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert sunlight into glucose and oxygen?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert sunlight into glucose?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert sunlight into sugar?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants convert water into oxygen?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants lose water through their leaves?",
+        "answerOptions": [
+          { "answerText": "Transpiration", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce flowers?",
+        "answerOptions": [
+          { "answerText": "Flowering", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce fruit?",
+        "answerOptions": [
+          { "answerText": "Fruiting", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce nectar?",
+        "answerOptions": [
+          { "answerText": "Nectar Secretion", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce new branches?",
+        "answerOptions": [
+          { "answerText": "Branching", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce new flowers?",
+        "answerOptions": [
+          { "answerText": "Flowering", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce new fruits?",
+        "answerOptions": [
+          { "answerText": "Fruiting", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce new leaves?",
+        "answerOptions": [
+          { "answerText": "Leafing", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce new roots?",
+        "answerOptions": [
+          { "answerText": "Rooting", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce new seeds?",
+        "answerOptions": [
+          { "answerText": "Seeding", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce new stems?",
+        "answerOptions": [
+          { "answerText": "Stemming", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce pollen?",
+        "answerOptions": [
+          { "answerText": "Pollination", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants produce seeds?",
+        "answerOptions": [
+          { "answerText": "Seeding", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants release oxygen into the air?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants take in water through their roots?",
+        "answerOptions": [
+          { "answerText": "Absorption", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which water evaporates from a plant's leaves?",
+        "answerOptions": [
+          { "answerText": "Transpiration", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Fermentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the small primate found in African forests known for its big eyes?",
+        "answerOptions": [
+          { "answerText": "Bushbaby", "isCorrect": true },
+          { "answerText": "Lemur", "isCorrect": false },
+          { "answerText": "Tarsier", "isCorrect": false },
+          { "answerText": "Capuchin", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the small, insect-eating mammal found in African savannahs?",
+        "answerOptions": [
+          { "answerText": "Aardvark", "isCorrect": true },
+          { "answerText": "Pangolin", "isCorrect": false },
+          { "answerText": "Meerkat", "isCorrect": false },
+          { "answerText": "Armadillo", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the small, nocturnal primate found in Madagascar?",
+        "answerOptions": [
+          { "answerText": "Lemur", "isCorrect": true },
+          { "answerText": "Tarsier", "isCorrect": false },
+          { "answerText": "Bushbaby", "isCorrect": false },
+          { "answerText": "Capuchin", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the smallest species of bird?",
+        "answerOptions": [
+          { "answerText": "Bee Hummingbird", "isCorrect": true },
+          { "answerText": "Goldcrest", "isCorrect": false },
+          { "answerText": "Pardalote", "isCorrect": false },
+          { "answerText": "Sparrow", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the smallest species of fish?",
+        "answerOptions": [
+          { "answerText": "Paedocypris", "isCorrect": true },
+          { "answerText": "Guppy", "isCorrect": false },
+          { "answerText": "Tetra", "isCorrect": false },
+          { "answerText": "Minnow", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the smallest species of mammal?",
+        "answerOptions": [
+          { "answerText": "Bumblebee Bat", "isCorrect": true },
+          { "answerText": "Pygmy Shrew", "isCorrect": false },
+          { "answerText": "Mouse Lemur", "isCorrect": false },
+          { "answerText": "Dwarf Lemur", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the smallest species of reptile?",
+        "answerOptions": [
+          { "answerText": "Brookesia Micra", "isCorrect": true },
+          { "answerText": "Gecko", "isCorrect": false },
+          { "answerText": "Anole", "isCorrect": false },
+          { "answerText": "Skink", "isCorrect": false }
+        ]
+      },
+
+      {
+  "questionText": "What is the name of the social structure in which meerkats live?",
+  "answerOptions": [
+    { "answerText": "Clan", "isCorrect": true },
+    { "answerText": "Pack", "isCorrect": false },
+    { "answerText": "Herd", "isCorrect": false },
+    { "answerText": "Pod", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the name of the tall bird with long legs found in African wetlands?",
+  "answerOptions": [
+    { "answerText": "Heron", "isCorrect": true },
+    { "answerText": "Stork", "isCorrect": false },
+    { "answerText": "Flamingo", "isCorrect": false },
+    { "answerText": "Ibis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the only mammal capable of true flight?",
+  "answerOptions": [
+    { "answerText": "Bat", "isCorrect": true },
+    { "answerText": "Flying Squirrel", "isCorrect": false },
+    { "answerText": "Sugar Glider", "isCorrect": false },
+    { "answerText": "Colugo", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a baboon?",
+  "answerOptions": [
+    { "answerText": "Omnivorous", "isCorrect": true },
+    { "answerText": "Carnivorous", "isCorrect": false },
+    { "answerText": "Herbivorous", "isCorrect": false },
+    { "answerText": "Insectivorous", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a carnivorous animal?",
+  "answerOptions": [
+    { "answerText": "Meat", "isCorrect": true },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a carnivorous bird?",
+  "answerOptions": [
+    { "answerText": "Meat", "isCorrect": true },
+    { "answerText": "Seeds", "isCorrect": false },
+    { "answerText": "Nectar", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a carnivorous mammal?",
+  "answerOptions": [
+    { "answerText": "Meat", "isCorrect": true },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a flamingo?",
+  "answerOptions": [
+    { "answerText": "Algae and small invertebrates", "isCorrect": true },
+    { "answerText": "Seeds", "isCorrect": false },
+    { "answerText": "Fish", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a frugivorous animal?",
+  "answerOptions": [
+    { "answerText": "Fruits", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a frugivorous bat?",
+  "answerOptions": [
+    { "answerText": "Fruits", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Nectar", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a giraffe?",
+  "answerOptions": [
+    { "answerText": "Leaves", "isCorrect": true },
+    { "answerText": "Grass", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a granivorous animal?",
+  "answerOptions": [
+    { "answerText": "Seeds", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a granivorous bird?",
+  "answerOptions": [
+    { "answerText": "Seeds", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a herbivorous animal?",
+  "answerOptions": [
+    { "answerText": "Plants", "isCorrect": true },
+    { "answerText": "Meat", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a herbivorous fish?",
+  "answerOptions": [
+    { "answerText": "Algae", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fish", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a herbivorous mammal?",
+  "answerOptions": [
+    { "answerText": "Plants", "isCorrect": true },
+    { "answerText": "Meat", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a hippopotamus?",
+  "answerOptions": [
+    { "answerText": "Grass", "isCorrect": true },
+    { "answerText": "Fish", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a leopard?",
+  "answerOptions": [
+    { "answerText": "Meat", "isCorrect": true },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a lion?",
+  "answerOptions": [
+    { "answerText": "Meat", "isCorrect": true },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a meerkat?",
+  "answerOptions": [
+    { "answerText": "Insects", "isCorrect": true },
+    { "answerText": "Seeds", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a nectar-feeding bat?",
+  "answerOptions": [
+    { "answerText": "Nectar", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a nectar-feeding bird?",
+  "answerOptions": [
+    { "answerText": "Nectar", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Seeds", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a nectarivorous animal?",
+  "answerOptions": [
+    { "answerText": "Nectar", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a panda?",
+  "answerOptions": [
+    { "answerText": "Bamboo", "isCorrect": true },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Meat", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a piscivorous animal?",
+  "answerOptions": [
+    { "answerText": "Fish", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a piscivorous bird?",
+  "answerOptions": [
+    { "answerText": "Fish", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Seeds", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a piscivorous mammal?",
+  "answerOptions": [
+    { "answerText": "Fish", "isCorrect": true },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a scavenger animal?",
+  "answerOptions": [
+    { "answerText": "Carrion", "isCorrect": true },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a scavenger bird?",
+  "answerOptions": [
+    { "answerText": "Carrion", "isCorrect": true },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a warthog?",
+  "answerOptions": [
+    { "answerText": "Grass and roots", "isCorrect": true },
+    { "answerText": "Meat", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of a zebra?",
+  "answerOptions": [
+    { "answerText": "Grass", "isCorrect": true },
+    { "answerText": "Leaves", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of an African elephant?",
+  "answerOptions": [
+    { "answerText": "Grass, leaves, and bark", "isCorrect": true },
+    { "answerText": "Meat", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of an African wild dog?",
+  "answerOptions": [
+    { "answerText": "Meat", "isCorrect": true },
+    { "answerText": "Plants", "isCorrect": false },
+    { "answerText": "Insects", "isCorrect": false },
+    { "answerText": "Fruits", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary diet of an omnivorous animal?",
+  "answerOptions": [
+    { "answerText": "Both plants and meat", "isCorrect": true },
+    { "answerText": "Only plants", "isCorrect": false },
+    { "answerText": "Only meat", "isCorrect": false },
+    { "answerText": "Only insects", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's anther?",
+  "answerOptions": [
+    { "answerText": "To produce pollen", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's bulb?",
+  "answerOptions": [
+    { "answerText": "To store nutrients and energy", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's cambium?",
+  "answerOptions": [
+    { "answerText": "To produce new vascular tissues", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's chlorophyll?",
+  "answerOptions": [
+    { "answerText": "To absorb light for photosynthesis", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To produce seeds", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's chloroplasts?",
+  "answerOptions": [
+    { "answerText": "To perform photosynthesis", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To produce seeds", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's cotyledon?",
+  "answerOptions": [
+    { "answerText": "To provide nutrients to the seedling", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's cuticle?",
+  "answerOptions": [
+    { "answerText": "To reduce water loss", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's endosperm?",
+  "answerOptions": [
+    { "answerText": "To provide nutrients to the developing seed", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's epidermis?",
+  "answerOptions": [
+    { "answerText": "To protect the plant from damage and disease", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's flowers?",
+  "answerOptions": [
+    { "answerText": "To attract pollinators and produce seeds", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false },
+    { "answerText": "To protect the plant", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's meristem?",
+  "answerOptions": [
+    { "answerText": "To produce new cells for growth", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's ovary?",
+  "answerOptions": [
+    { "answerText": "To produce and house seeds", "isCorrect": true },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false },
+    { "answerText": "To absorb water", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's petiole?",
+  "answerOptions": [
+    { "answerText": "To connect the leaf to the stem", "isCorrect": true },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false },
+    { "answerText": "To absorb water", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's phloem?",
+  "answerOptions": [
+    { "answerText": "To transport sugars throughout the plant", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's pollen?",
+  "answerOptions": [
+    { "answerText": "To fertilize other plants", "isCorrect": true },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false },
+    { "answerText": "To absorb water", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's sepal?",
+  "answerOptions": [
+    { "answerText": "To protect the developing flower", "isCorrect": true },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false },
+    { "answerText": "To absorb water", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's stem?",
+  "answerOptions": [
+    { "answerText": "To support the plant and transport nutrients", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false },
+    { "answerText": "To produce seeds", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's stomata?",
+  "answerOptions": [
+    { "answerText": "To allow gas exchange", "isCorrect": true },
+    { "answerText": "To absorb water", "isCorrect": false },
+    { "answerText": "To attract pollinators", "isCorrect": false },
+    { "answerText": "To produce seeds", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary function of a plant's xylem?",
+  "answerOptions": [
+    { "answerText": "To transport water and nutrients from roots to leaves", "isCorrect": true },
+    { "answerText": "To transport sugars throughout the plant", "isCorrect": false },
+    { "answerText": "To perform photosynthesis", "isCorrect": false },
+    { "answerText": "To produce flowers", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a baboon?",
+  "answerOptions": [
+    { "answerText": "Savannah and woodland", "isCorrect": true },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Arctic", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a cheetah?",
+  "answerOptions": [
+    { "answerText": "Savannah", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a chimpanzee?",
+  "answerOptions": [
+    { "answerText": "Rainforest", "isCorrect": true },
+    { "answerText": "Savannah", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a giraffe?",
+  "answerOptions": [
+    { "answerText": "Savannah", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a gorilla?",
+  "answerOptions": [
+    { "answerText": "Rainforest", "isCorrect": true },
+    { "answerText": "Savannah", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a hippopotamus?",
+  "answerOptions": [
+    { "answerText": "Rivers and lakes", "isCorrect": true },
+    { "answerText": "Savannah", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a hyena?",
+  "answerOptions": [
+    { "answerText": "Savannah and grasslands", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a kangaroo?",
+  "answerOptions": [
+    { "answerText": "Grasslands and forests", "isCorrect": true },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a koala?",
+  "answerOptions": [
+    { "answerText": "Eucalyptus forests", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a lemur?",
+  "answerOptions": [
+    { "answerText": "Rainforest", "isCorrect": true },
+    { "answerText": "Savannah", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a lion?",
+  "answerOptions": [
+    { "answerText": "Savannah", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a polar bear?",
+  "answerOptions": [
+    { "answerText": "Arctic", "isCorrect": true },
+    { "answerText": "Savannah", "isCorrect": false },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a rhinoceros?",
+  "answerOptions": [
+    { "answerText": "Savannah and grasslands", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a warthog?",
+  "answerOptions": [
+    { "answerText": "Savannah and grasslands", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of a zebra?",
+  "answerOptions": [
+    { "answerText": "Savannah and grasslands", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of an African leopard?",
+  "answerOptions": [
+    { "answerText": "Savannah and forests", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false },
+    { "answerText": "Mountain", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the primary habitat of the African penguin?",
+  "answerOptions": [
+    { "answerText": "Coastal areas", "isCorrect": true },
+    { "answerText": "Rainforest", "isCorrect": false },
+    { "answerText": "Savannah", "isCorrect": false },
+    { "answerText": "Desert", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the process by which plants make their own food?",
+  "answerOptions": [
+    { "answerText": "Photosynthesis", "isCorrect": true },
+    { "answerText": "Respiration", "isCorrect": false },
+    { "answerText": "Transpiration", "isCorrect": false },
+    { "answerText": "Fermentation", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the reproductive structure of a flowering plant?",
+  "answerOptions": [
+    { "answerText": "Flower", "isCorrect": true },
+    { "answerText": "Leaf", "isCorrect": false },
+    { "answerText": "Root", "isCorrect": false },
+    { "answerText": "Stem", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the scientific name for the domestic dog?",
+  "answerOptions": [
+    { "answerText": "Canis lupus familiaris", "isCorrect": true },
+    { "answerText": "Felis catus", "isCorrect": false },
+    { "answerText": "Equus ferus caballus", "isCorrect": false },
+    { "answerText": "Bos taurus", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the smallest bird in the world?",
+  "answerOptions": [
+    { "answerText": "Bee Hummingbird", "isCorrect": true },
+    { "answerText": "Goldcrest", "isCorrect": false },
+    { "answerText": "Pardalote", "isCorrect": false },
+    { "answerText": "Sparrow", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the smallest species of bird of prey?",
+  "answerOptions": [
+    { "answerText": "Black-thighed Falconet", "isCorrect": true },
+    { "answerText": "Kestrel", "isCorrect": false },
+    { "answerText": "Osprey", "isCorrect": false },
+    { "answerText": "Hawk", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the smallest species of bird?",
+  "answerOptions": [
+    { "answerText": "Bee Hummingbird", "isCorrect": true },
+    { "answerText": "Goldcrest", "isCorrect": false },
+    { "answerText": "Pardalote", "isCorrect": false },
+    { "answerText": "Sparrow", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the smallest species of fish?",
+  "answerOptions": [
+    { "answerText": "Paedocypris", "isCorrect": true },
+    { "answerText": "Guppy", "isCorrect": false },
+    { "answerText": "Tetra", "isCorrect": false },
+    { "answerText": "Minnow", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the smallest species of mammal?",
+  "answerOptions": [
+    { "answerText": "Bumblebee Bat", "isCorrect": true },
+    { "answerText": "Pygmy Shrew", "isCorrect": false },
+    { "answerText": "Mouse Lemur", "isCorrect": false },
+    { "answerText": "Dwarf Lemur", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the smallest species of primate?",
+  "answerOptions": [
+    { "answerText": "Mouse Lemur", "isCorrect": true },
+    { "answerText": "Tarsier", "isCorrect": false },
+    { "answerText": "Capuchin", "isCorrect": false },
+    { "answerText": "Marmoset", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What is the smallest species of reptile?",
+  "answerOptions": [
+    { "answerText": "Brookesia Micra", "isCorrect": true },
+    { "answerText": "Gecko", "isCorrect": false },
+    { "answerText": "Anole", "isCorrect": false },
+    { "answerText": "Skink", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What part of the plant is responsible for photosynthesis?",
+  "answerOptions": [
+    { "answerText": "Leaf", "isCorrect": true },
+    { "answerText": "Root", "isCorrect": false },
+    { "answerText": "Stem", "isCorrect": false },
+    { "answerText": "Flower", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What type of animal is a Komodo dragon?",
+  "answerOptions": [
+    { "answerText": "Reptile", "isCorrect": true },
+    { "answerText": "Mammal", "isCorrect": false },
+    { "answerText": "Bird", "isCorrect": false },
+    { "answerText": "Amphibian", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What type of animal is a boa constrictor?",
+  "answerOptions": [
+    { "answerText": "Reptile", "isCorrect": true },
+    { "answerText": "Mammal", "isCorrect": false },
+    { "answerText": "Bird", "isCorrect": false },
+    { "answerText": "Amphibian", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What type of animal is a dolphin?",
+  "answerOptions": [
+    { "answerText": "Mammal", "isCorrect": true },
+    { "answerText": "Fish", "isCorrect": false },
+    { "answerText": "Bird", "isCorrect": false },
+    { "answerText": "Reptile", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What type of animal is a koala?",
+  "answerOptions": [
+    { "answerText": "Mammal", "isCorrect": true },
+    { "answerText": "Bird", "isCorrect": false },
+    { "answerText": "Reptile", "isCorrect": false },
+    { "answerText": "Amphibian", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "What type of animal is a tarantula?",
+  "answerOptions": [
+    { "answerText": "Arachnid", "isCorrect": true },
+    { "answerText": "Insect", "isCorrect": false },
+    { "answerText": "Reptile", "isCorrect": false },
+    { "answerText": "Mammal", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African animal has a distinctive horn on its snout?",
+  "answerOptions": [
+    { "answerText": "Rhinoceros", "isCorrect": true },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Buffalo", "isCorrect": false },
+    { "answerText": "Warthog", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African animal is known for its distinctive black and white stripes?",
+  "answerOptions": [
+    { "answerText": "Zebra", "isCorrect": true },
+    { "answerText": "Tiger", "isCorrect": false },
+    { "answerText": "Leopard", "isCorrect": false },
+    { "answerText": "Cheetah", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African animal is known for its distinctive call and nocturnal habits?",
+  "answerOptions": [
+    { "answerText": "Hyena", "isCorrect": true },
+    { "answerText": "Lion", "isCorrect": false },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Zebra", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African animal is known for its impressive migration across the Serengeti?",
+  "answerOptions": [
+    { "answerText": "Wildebeest", "isCorrect": true },
+    { "answerText": "Zebra", "isCorrect": false },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Lion", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African animal is known for its long neck?",
+  "answerOptions": [
+    { "answerText": "Giraffe", "isCorrect": true },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Zebra", "isCorrect": false },
+    { "answerText": "Ostrich", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African animal is known for its powerful jaws and aggressive nature?",
+  "answerOptions": [
+    { "answerText": "Nile Crocodile", "isCorrect": true },
+    { "answerText": "Lion", "isCorrect": false },
+    { "answerText": "Leopard", "isCorrect": false },
+    { "answerText": "Hyena", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African bird has the largest wingspan?",
+  "answerOptions": [
+    { "answerText": "Marabou Stork", "isCorrect": true },
+    { "answerText": "African Fish Eagle", "isCorrect": false },
+    { "answerText": "Secretary Bird", "isCorrect": false },
+    { "answerText": "Ostrich", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which African bird is known for its impressive courtship dance?",
+  "answerOptions": [
+    { "answerText": "Bird of Paradise", "isCorrect": true },
+    { "answerText": "Secretary Bird", "isCorrect": false },
+    { "answerText": "Marabou Stork", "isCorrect": false },
+    { "answerText": "African Fish Eagle", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal can regrow its limbs?",
+  "answerOptions": [
+    { "answerText": "Starfish", "isCorrect": true },
+    { "answerText": "Octopus", "isCorrect": false },
+    { "answerText": "Jellyfish", "isCorrect": false },
+    { "answerText": "Crab", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal has the longest lifespan?",
+  "answerOptions": [
+    { "answerText": "Galapagos Tortoise", "isCorrect": true },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Blue Whale", "isCorrect": false },
+    { "answerText": "Human", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal is known as the \"king of the jungle\"?",
+  "answerOptions": [
+    { "answerText": "Lion", "isCorrect": true },
+    { "answerText": "Tiger", "isCorrect": false },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Leopard", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal is known as the king of the jungle?",
+  "answerOptions": [
+    { "answerText": "Lion", "isCorrect": true },
+    { "answerText": "Tiger", "isCorrect": false },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Leopard", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal is known as the ship of the desert?",
+  "answerOptions": [
+    { "answerText": "Camel", "isCorrect": true },
+    { "answerText": "Horse", "isCorrect": false },
+    { "answerText": "Elephant", "isCorrect": false },
+    { "answerText": "Llama", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal is known for its ability to build dams?",
+  "answerOptions": [
+    { "answerText": "Beaver", "isCorrect": true },
+    { "answerText": "Otter", "isCorrect": false },
+    { "answerText": "Muskrat", "isCorrect": false },
+    { "answerText": "Capybara", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal is known for its ability to change color?",
+  "answerOptions": [
+    { "answerText": "Chameleon", "isCorrect": true },
+    { "answerText": "Octopus", "isCorrect": false },
+    { "answerText": "Jellyfish", "isCorrect": false },
+    { "answerText": "Squid", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal is known for its distinctive black and white stripes?",
+  "answerOptions": [
+    { "answerText": "Zebra", "isCorrect": true },
+    { "answerText": "Tiger", "isCorrect": false },
+    { "answerText": "Leopard", "isCorrect": false },
+    { "answerText": "Cheetah", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which animal is known for its impressive memory?",
+  "answerOptions": [
+    { "answerText": "Elephant", "isCorrect": true },
+    { "answerText": "Dolphin", "isCorrect": false },
+    { "answerText": "Chimpanzee", "isCorrect": false },
+    { "answerText": "Raven", "isCorrect": false }
+  ]
+},
+{
+  "questionText": "Which bird is known for its colorful feathers and ability to mimic sounds?",
+  "answerOptions": [
+    { "answerText": "Parrot", "isCorrect": true },
+    { "answerText": "Crow", "isCorrect": false },
+    { "answerText": "Owl", "isCorrect": false },
+    { "answerText": "Sparrow", "isCorrect": false }
+  ]
+}
+
+]

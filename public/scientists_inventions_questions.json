@@ -1,0 +1,3549 @@
+[
+{
+    "questionText": "Who invented the telephone?",
+    "answerOptions": [
+      { "answerText": "Alexander Graham Bell", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Guglielmo Marconi", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who is credited with inventing the light bulb?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "Alexander Graham Bell", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered penicillin?",
+    "answerOptions": [
+      { "answerText": "Alexander Fleming", "isCorrect": true },
+      { "answerText": "Louis Pasteur", "isCorrect": false },
+      { "answerText": "Joseph Lister", "isCorrect": false },
+      { "answerText": "Robert Koch", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of relativity?",
+    "answerOptions": [
+      { "answerText": "Albert Einstein", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Galileo Galilei", "isCorrect": false },
+      { "answerText": "Stephen Hawking", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the phonograph?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "Alexander Graham Bell", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical airplane?",
+    "answerOptions": [
+      { "answerText": "Wright Brothers", "isCorrect": true },
+      { "answerText": "Charles Lindbergh", "isCorrect": false },
+      { "answerText": "Amelia Earhart", "isCorrect": false },
+      { "answerText": "Howard Hughes", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the law of universal gravitation?",
+    "answerOptions": [
+      { "answerText": "Isaac Newton", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Galileo Galilei", "isCorrect": false },
+      { "answerText": "Johannes Kepler", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the World Wide Web?",
+    "answerOptions": [
+      { "answerText": "Tim Berners-Lee", "isCorrect": true },
+      { "answerText": "Bill Gates", "isCorrect": false },
+      { "answerText": "Steve Jobs", "isCorrect": false },
+      { "answerText": "Larry Page", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the polio vaccine?",
+    "answerOptions": [
+      { "answerText": "Jonas Salk", "isCorrect": true },
+      { "answerText": "Louis Pasteur", "isCorrect": false },
+      { "answerText": "Alexander Fleming", "isCorrect": false },
+      { "answerText": "Edward Jenner", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who is known as the father of modern physics?",
+    "answerOptions": [
+      { "answerText": "Albert Einstein", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Niels Bohr", "isCorrect": false },
+      { "answerText": "Galileo Galilei", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first successful steamboat?",
+    "answerOptions": [
+      { "answerText": "Robert Fulton", "isCorrect": true },
+      { "answerText": "James Watt", "isCorrect": false },
+      { "answerText": "John Fitch", "isCorrect": false },
+      { "answerText": "Thomas Newcomen", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the circulation of blood?",
+    "answerOptions": [
+      { "answerText": "William Harvey", "isCorrect": true },
+      { "answerText": "Andreas Vesalius", "isCorrect": false },
+      { "answerText": "Galen", "isCorrect": false },
+      { "answerText": "Hippocrates", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical automobile?",
+    "answerOptions": [
+      { "answerText": "Karl Benz", "isCorrect": true },
+      { "answerText": "Henry Ford", "isCorrect": false },
+      { "answerText": "Gottlieb Daimler", "isCorrect": false },
+      { "answerText": "Rudolf Diesel", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the first successful printing press?",
+    "answerOptions": [
+      { "answerText": "Johannes Gutenberg", "isCorrect": true },
+      { "answerText": "William Caxton", "isCorrect": false },
+      { "answerText": "Alois Senefelder", "isCorrect": false },
+      { "answerText": "Laurens Janszoon Coster", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the structure of DNA?",
+    "answerOptions": [
+      { "answerText": "James Watson and Francis Crick", "isCorrect": true },
+      { "answerText": "Rosalind Franklin", "isCorrect": false },
+      { "answerText": "Maurice Wilkins", "isCorrect": false },
+      { "answerText": "Erwin Chargaff", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the electric motor?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who is known as the father of microbiology?",
+    "answerOptions": [
+      { "answerText": "Antonie van Leeuwenhoek", "isCorrect": true },
+      { "answerText": "Louis Pasteur", "isCorrect": false },
+      { "answerText": "Robert Koch", "isCorrect": false },
+      { "answerText": "Joseph Lister", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical telephone?",
+    "answerOptions": [
+      { "answerText": "Alexander Graham Bell", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Elisha Gray", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the first successful submarine?",
+    "answerOptions": [
+      { "answerText": "John Philip Holland", "isCorrect": true },
+      { "answerText": "David Bushnell", "isCorrect": false },
+      { "answerText": "Cornelis Drebbel", "isCorrect": false },
+      { "answerText": "Robert Fulton", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the electron?",
+    "answerOptions": [
+      { "answerText": "J.J. Thomson", "isCorrect": true },
+      { "answerText": "Ernest Rutherford", "isCorrect": false },
+      { "answerText": "Niels Bohr", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical sewing machine?",
+    "answerOptions": [
+      { "answerText": "Elias Howe", "isCorrect": true },
+      { "answerText": "Isaac Singer", "isCorrect": false },
+      { "answerText": "Barthelemy Thimonnier", "isCorrect": false },
+      { "answerText": "Thomas Saint", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the laws of motion?",
+    "answerOptions": [
+      { "answerText": "Isaac Newton", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Galileo Galilei", "isCorrect": false },
+      { "answerText": "Johannes Kepler", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered radioactivity?",
+    "answerOptions": [
+      { "answerText": "Henri Becquerel", "isCorrect": true },
+      { "answerText": "Marie Curie", "isCorrect": false },
+      { "answerText": "Ernest Rutherford", "isCorrect": false },
+      { "answerText": "Wilhelm Roentgen", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical computer?",
+    "answerOptions": [
+      { "answerText": "Charles Babbage", "isCorrect": true },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "John Atanasoff", "isCorrect": false },
+      { "answerText": "Konrad Zuse", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who is known as the father of chemistry?",
+    "answerOptions": [
+      { "answerText": "Antoine Lavoisier", "isCorrect": true },
+      { "answerText": "Dmitri Mendeleev", "isCorrect": false },
+      { "answerText": "John Dalton", "isCorrect": false },
+      { "answerText": "Robert Boyle", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the steam engine?",
+    "answerOptions": [
+      { "answerText": "James Watt", "isCorrect": true },
+      { "answerText": "Thomas Newcomen", "isCorrect": false },
+      { "answerText": "George Stephenson", "isCorrect": false },
+      { "answerText": "Robert Fulton", "isCorrect": false }
+    ]
+  },
+  
+  {
+    "questionText": "Who invented the first practical electric hair dryer?",
+    "answerOptions": [
+      { "answerText": "Alexandre Godefroy", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of cryptography?",
+    "answerOptions": [
+      { "answerText": "Claude Shannon", "isCorrect": true },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Ada Lovelace", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of fiber optics?",
+    "answerOptions": [
+      { "answerText": "Narinder Singh Kapany", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Alexander Graham Bell", "isCorrect": false },
+      { "answerText": "Guglielmo Marconi", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric razor?",
+    "answerOptions": [
+      { "answerText": "Jacob Schick", "isCorrect": true },
+      { "answerText": "King Camp Gillette", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of neural networks?",
+    "answerOptions": [
+      { "answerText": "Frank Rosenblatt", "isCorrect": true },
+      { "answerText": "John McCarthy", "isCorrect": false },
+      { "answerText": "Marvin Minsky", "isCorrect": false },
+      { "answerText": "Geoffrey Hinton", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of GPS technology?",
+    "answerOptions": [
+      { "answerText": "Ivan Getting", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Galileo Galilei", "isCorrect": false },
+      { "answerText": "Guglielmo Marconi", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric toothbrush?",
+    "answerOptions": [
+      { "answerText": "Dr. Philippe-Guy Woog", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of machine learning?",
+    "answerOptions": [
+      { "answerText": "Arthur Samuel", "isCorrect": true },
+      { "answerText": "John McCarthy", "isCorrect": false },
+      { "answerText": "Marvin Minsky", "isCorrect": false },
+      { "answerText": "Geoffrey Hinton", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of solar cells?",
+    "answerOptions": [
+      { "answerText": "Charles Fritts", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Alexander Graham Bell", "isCorrect": false },
+      { "answerText": "Guglielmo Marconi", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric shaver?",
+    "answerOptions": [
+      { "answerText": "Jacob Schick", "isCorrect": true },
+      { "answerText": "King Camp Gillette", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of artificial intelligence?",
+    "answerOptions": [
+      { "answerText": "John McCarthy", "isCorrect": true },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Marvin Minsky", "isCorrect": false },
+      { "answerText": "Geoffrey Hinton", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of fuel cells?",
+    "answerOptions": [
+      { "answerText": "William Grove", "isCorrect": true },
+      { "answerText": "Michael Faraday", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric rice cooker?",
+    "answerOptions": [
+      { "answerText": "Toshiba Corporation", "isCorrect": true },
+      { "answerText": "Sony Corporation", "isCorrect": false },
+      { "answerText": "Panasonic Corporation", "isCorrect": false },
+      { "answerText": "Sharp Corporation", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of computer science?",
+    "answerOptions": [
+      { "answerText": "Alan Turing", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Ada Lovelace", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of wind turbines?",
+    "answerOptions": [
+      { "answerText": "Charles F. Brush", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric drill?",
+    "answerOptions": [
+      { "answerText": "Arthur James Arnot", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of computational complexity?",
+    "answerOptions": [
+      { "answerText": "Stephen Cook", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of tidal energy?",
+    "answerOptions": [
+      { "answerText": "Pierre-Simon Girard", "isCorrect": true },
+      { "answerText": "Michael Faraday", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric saw?",
+    "answerOptions": [
+      { "answerText": "Edmond Michel", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of information retrieval?",
+    "answerOptions": [
+      { "answerText": "Gerard Salton", "isCorrect": true },
+      { "answerText": "John McCarthy", "isCorrect": false },
+      { "answerText": "Marvin Minsky", "isCorrect": false },
+      { "answerText": "Geoffrey Hinton", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of geothermal energy?",
+    "answerOptions": [
+      { "answerText": "Piero Ginori Conti", "isCorrect": true },
+      { "answerText": "James Prescott Joule", "isCorrect": false },
+      { "answerText": "Lord Kelvin", "isCorrect": false },
+      { "answerText": "Rudolf Clausius", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric sander?",
+    "answerOptions": [
+      { "answerText": "Clarke Sanding Company", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of operating systems?",
+    "answerOptions": [
+      { "answerText": "Edsger Dijkstra", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of wave energy?",
+    "answerOptions": [
+      { "answerText": "Yoshio Masuda", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Alexander Graham Bell", "isCorrect": false },
+      { "answerText": "Guglielmo Marconi", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric lawnmower?",
+    "answerOptions": [
+      { "answerText": "James Sumner", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of databases?",
+    "answerOptions": [
+      { "answerText": "Edgar F. Codd", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of nuclear energy?",
+    "answerOptions": [
+      { "answerText": "Enrico Fermi", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric chainsaw?",
+    "answerOptions": [
+      { "answerText": "Andreas Stihl", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of software engineering?",
+    "answerOptions": [
+      { "answerText": "Barry W. Boehm", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of kinetic energy?",
+    "answerOptions": [
+      { "answerText": "Gaspard-Gustave Coriolis", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "James Prescott Joule", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric snow blower?",
+    "answerOptions": [
+      { "answerText": "Arthur Sicard", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of network protocols?",
+    "answerOptions": [
+      { "answerText": "Vinton Cerf", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of potential energy?",
+    "answerOptions": [
+      { "answerText": "Gaspard-Gustave Coriolis", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "James Prescott Joule", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge trimmer?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of algorithms?",
+    "answerOptions": [
+      { "answerText": "Al-Khwarizmi", "isCorrect": true },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of mechanical energy?",
+    "answerOptions": [
+      { "answerText": "Gaspard-Gustave Coriolis", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "James Prescott Joule", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric log splitter?",
+    "answerOptions": [
+      { "answerText": "John Rockwell", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of data structures?",
+    "answerOptions": [
+      { "answerText": "Niklaus Wirth", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of thermal energy?",
+    "answerOptions": [
+      { "answerText": "James Prescott Joule", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Lord Kelvin", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric weed eater?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of programming languages?",
+    "answerOptions": [
+      { "answerText": "John Backus", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of chemical energy?",
+    "answerOptions": [
+      { "answerText": "Antoine Lavoisier", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "James Prescott Joule", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric leaf blower?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of compiler design?",
+    "answerOptions": [
+      { "answerText": "John Backus", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of sound energy?",
+    "answerOptions": [
+      { "answerText": "Lord Rayleigh", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "James Prescott Joule", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric edger?",
+    "answerOptions": [
+      { "answerText": "Stanley Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of formal verification?",
+    "answerOptions": [
+      { "answerText": "Robin Milner", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of light energy?",
+    "answerOptions": [
+      { "answerText": "Albert Einstein", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric tiller?",
+    "answerOptions": [
+      { "answerText": "C.W. Kelsey", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of distributed systems?",
+    "answerOptions": [
+      { "answerText": "Leslie Lamport", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of electromagnetic energy?",
+    "answerOptions": [
+      { "answerText": "James Clerk Maxwell", "isCorrect": true },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric cultivator?",
+    "answerOptions": [
+      { "answerText": "C.W. Kelsey", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of human-computer interaction?",
+    "answerOptions": [
+      { "answerText": "Douglas Engelbart", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of nuclear fusion?",
+    "answerOptions": [
+      { "answerText": "Hans Bethe", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric log splitter?",
+    "answerOptions": [
+      { "answerText": "John Rockwell", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of computer graphics?",
+    "answerOptions": [
+      { "answerText": "Ivan Sutherland", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of nuclear fission?",
+    "answerOptions": [
+      { "answerText": "Otto Hahn", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole saw?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of software architecture?",
+    "answerOptions": [
+      { "answerText": "David Parnas", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of renewable energy?",
+    "answerOptions": [
+      { "answerText": "John Ericsson", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of systems engineering?",
+    "answerOptions": [
+      { "answerText": "Wernher von Braun", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of nonrenewable energy?",
+    "answerOptions": [
+      { "answerText": "Edwin Drake", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric mulcher?",
+    "answerOptions": [
+      { "answerText": "Troy-Bilt", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of control systems?",
+    "answerOptions": [
+      { "answerText": "Norbert Wiener", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of alternative energy?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric wood chipper?",
+    "answerOptions": [
+      { "answerText": "Pioneer Manufacturing Company", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of cybernetics?",
+    "answerOptions": [
+      { "answerText": "Norbert Wiener", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of sustainable energy?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric compost shredder?",
+    "answerOptions": [
+      { "answerText": "Troy-Bilt", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of systems dynamics?",
+    "answerOptions": [
+      { "answerText": "Jay Forrester", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of green energy?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric leaf vacuum?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of complex systems?",
+    "answerOptions": [
+      { "answerText": "Murray Gell-Mann", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of blue energy?",
+    "answerOptions": [
+      { "answerText": "Rene Lagrange", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden shredder?",
+    "answerOptions": [
+      { "answerText": "Pioneer Manufacturing Company", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of chaos theory?",
+    "answerOptions": [
+      { "answerText": "Edward Lorenz", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of gray energy?",
+    "answerOptions": [
+      { "answerText": "Rene Lagrange", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden tiller?",
+    "answerOptions": [
+      { "answerText": "C.W. Kelsey", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of emergent systems?",
+    "answerOptions": [
+      { "answerText": "Stephen Wolfram", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of brown energy?",
+    "answerOptions": [
+      { "answerText": "Rene Lagrange", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric lawn edger?",
+    "answerOptions": [
+      { "answerText": "Stanley Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of self-organization?",
+    "answerOptions": [
+      { "answerText": "Ilya Prigogine", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of black energy?",
+    "answerOptions": [
+      { "answerText": "Rene Lagrange", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge cutter?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of fractals?",
+    "answerOptions": [
+      { "answerText": "Benoit Mandelbrot", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of white energy?",
+    "answerOptions": [
+      { "answerText": "Rene Lagrange", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric tree pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of symmetry breaking?",
+    "answerOptions": [
+      { "answerText": "Yoichiro Nambu", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of zero energy?",
+    "answerOptions": [
+      { "answerText": "Paul Dirac", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden hoe?",
+    "answerOptions": [
+      { "answerText": "Hound Dog Products", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of spontaneous order?",
+    "answerOptions": [
+      { "answerText": "Friedrich Hayek", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of dark energy?",
+    "answerOptions": [
+      { "answerText": "Saul Perlmutter", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of nonlinear dynamics?",
+    "answerOptions": [
+      { "answerText": "Edward Lorenz", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of anti-energy?",
+    "answerOptions": [
+      { "answerText": "Paul Dirac", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric brush cutter?",
+    "answerOptions": [
+      { "answerText": "Husqvarna", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of bifurcation theory?",
+    "answerOptions": [
+      { "answerText": "Henri Poincaré", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of cold fusion?",
+    "answerOptions": [
+      { "answerText": "Martin Fleischmann", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Isaac Newton", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric string trimmer?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of singularity theory?",
+    "answerOptions": [
+      { "answerText": "Roger Penrose", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of hot fusion?",
+    "answerOptions": [
+      { "answerText": "Hans Bethe", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Niels Bohr", "isCorrect": false },
+      { "answerText": "Ernest Rutherford", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden sprayer?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of critical phenomena?",
+    "answerOptions": [
+      { "answerText": "Kenneth G. Wilson", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Niels Bohr", "isCorrect": false },
+      { "answerText": "Erwin Schrödinger", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of artificial photosynthesis?",
+    "answerOptions": [
+      { "answerText": "Giuseppe Nocera", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden blower?",
+    "answerOptions": [
+      { "answerText": "John W. Hammes", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of phase transitions?",
+    "answerOptions": [
+      { "answerText": "Lev Landau", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Niels Bohr", "isCorrect": false },
+      { "answerText": "Erwin Schrödinger", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of solar power satellites?",
+    "answerOptions": [
+      { "answerText": "Peter Glaser", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden vacuum?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of percolation theory?",
+    "answerOptions": [
+      { "answerText": "Stanislaw Ulam", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Niels Bohr", "isCorrect": false },
+      { "answerText": "Erwin Schrödinger", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of space-based solar power?",
+    "answerOptions": [
+      { "answerText": "Peter Glaser", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge trimmer?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of cellular automata?",
+    "answerOptions": [
+      { "answerText": "John von Neumann", "isCorrect": true },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false },
+      { "answerText": "Norbert Wiener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of ocean thermal energy conversion?",
+    "answerOptions": [
+      { "answerText": "Jacques-Arsène d'Arsonval", "isCorrect": true },
+      { "answerText": "William Thomson (Lord Kelvin)", "isCorrect": false },
+      { "answerText": "Rudolf Clausius", "isCorrect": false },
+      { "answerText": "Sadi Carnot", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole saw?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "George Westinghouse", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of lattice gas automata?",
+    "answerOptions": [
+      { "answerText": "Frisch, Hasslacher, and Pomeau", "isCorrect": true },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false },
+      { "answerText": "Norbert Wiener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of magnetohydrodynamic power generation?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Heinrich Hertz", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pruner?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of network theory?",
+    "answerOptions": [
+      { "answerText": "Paul Erdős and Alfréd Rényi", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of piezoelectric power generation?",
+    "answerOptions": [
+      { "answerText": "Pierre and Jacques Curie", "isCorrect": true },
+      { "answerText": "Albert Einstein", "isCorrect": false },
+      { "answerText": "Niels Bohr", "isCorrect": false },
+      { "answerText": "Erwin Schrödinger", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric mulcher?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of random graphs?",
+    "answerOptions": [
+      { "answerText": "Paul Erdős and Alfréd Rényi", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of thermoelectric power generation?",
+    "answerOptions": [
+      { "answerText": "Thomas Johann Seebeck", "isCorrect": true },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Heinrich Hertz", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric wood chipper?",
+    "answerOptions": [
+      { "answerText": "John W. Hammes", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of small-world networks?",
+    "answerOptions": [
+      { "answerText": "Duncan J. Watts and Steven Strogatz", "isCorrect": true },
+      { "answerText": "Paul Erdős and Alfréd Rényi", "isCorrect": false },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of bioenergy?",
+    "answerOptions": [
+      { "answerText": "Jean-Pierre Bégué", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric compost shredder?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of scale-free networks?",
+    "answerOptions": [
+      { "answerText": "Albert-László Barabási and Réka Albert", "isCorrect": true },
+      { "answerText": "Paul Erdős and Alfréd Rényi", "isCorrect": false },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of biomass energy?",
+    "answerOptions": [
+      { "answerText": "Jean-Pierre Bégué", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric leaf vacuum?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of ecological networks?",
+    "answerOptions": [
+      { "answerText": "Robert May", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of geothermal power?",
+    "answerOptions": [
+      { "answerText": "Carl von Linde", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden shredder?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of metabolic networks?",
+    "answerOptions": [
+      { "answerText": "Albert-László Barabási", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of wave power?",
+    "answerOptions": [
+      { "answerText": "Yoshio Masuda", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden tiller?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of food webs?",
+    "answerOptions": [
+      { "answerText": "Charles Elton", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of tidal power?",
+    "answerOptions": [
+      { "answerText": "Georges Claude", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric lawn edger?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of trophic cascades?",
+    "answerOptions": [
+      { "answerText": "Robert Paine", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of osmotic power?",
+    "answerOptions": [
+      { "answerText": "Ragnar Berg", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge cutter?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of community ecology?",
+    "answerOptions": [
+      { "answerText": "Robert H. MacArthur", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of run-of-river power?",
+    "answerOptions": [
+      { "answerText": "Carl von Linde", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric tree pruner?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of population ecology?",
+    "answerOptions": [
+      { "answerText": "Robert H. MacArthur", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of in-stream tidal power?",
+    "answerOptions": [
+      { "answerText": "Georges Claude", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden hoe?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of landscape ecology?",
+    "answerOptions": [
+      { "answerText": "Carl Troll", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of ocean wave power?",
+    "answerOptions": [
+      { "answerText": "Yoshio Masuda", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole pruner?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of conservation biology?",
+    "answerOptions": [
+      { "answerText": "Michael Soulé", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of marine current power?",
+    "answerOptions": [
+      { "answerText": "Georges Claude", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric brush cutter?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of restoration ecology?",
+    "answerOptions": [
+      { "answerText": "Michael Soulé", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of hydrogen power?",
+    "answerOptions": [
+      { "answerText": "Jules Verne", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric string trimmer?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of agroecology?",
+    "answerOptions": [
+      { "answerText": "Miguel Altieri", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of fuel cell power?",
+    "answerOptions": [
+      { "answerText": "William Grove", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden sprayer?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of urban ecology?",
+    "answerOptions": [
+      { "answerText": "Jane Jacobs", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of hybrid power?",
+    "answerOptions": [
+      { "answerText": "Lars Onsager", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false },
+      { "answerText": "Jean-Pierre Bégué", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden blower?",
+    "answerOptions": [
+      { "answerText": "John W. Hammes", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of industrial ecology?",
+    "answerOptions": [
+      { "answerText": "Robert Frosch and Nicholas E. Gallopoulos", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of distributed power generation?",
+    "answerOptions": [
+      { "answerText": "Amory Lovins", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden vacuum?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of environmental ethics?",
+    "answerOptions": [
+      { "answerText": "Aldo Leopold", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of smart grid technology?",
+    "answerOptions": [
+      { "answerText": "Massoud Amin", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge trimmer?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of sustainability science?",
+    "answerOptions": [
+      { "answerText": "Robert Kates", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of microgrid technology?",
+    "answerOptions": [
+      { "answerText": "Robert H. Lasseter", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole saw?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "George Westinghouse", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of earth system science?",
+    "answerOptions": [
+      { "answerText": "James Lovelock", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy storage technology?",
+    "answerOptions": [
+      { "answerText": "John B. Goodenough", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pruner?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of climate science?",
+    "answerOptions": [
+      { "answerText": "Svante Arrhenius", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of renewable energy technology?",
+    "answerOptions": [
+      { "answerText": "James Lovelock", "isCorrect": true },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false },
+      { "answerText": "Jean-Pierre Bégué", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric mulcher?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric science?",
+    "answerOptions": [
+      { "answerText": "James Van Allen", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy efficiency technology?",
+    "answerOptions": [
+      { "answerText": "Amory Lovins", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric wood chipper?",
+    "answerOptions": [
+      { "answerText": "John W. Hammes", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of oceanography?",
+    "answerOptions": [
+      { "answerText": "Matthew Fontaine Maury", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy conservation technology?",
+    "answerOptions": [
+      { "answerText": "Amory Lovins", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric compost shredder?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of hydrology?",
+    "answerOptions": [
+      { "answerText": "Robert E. Horton", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy management technology?",
+    "answerOptions": [
+      { "answerText": "Amory Lovins", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric leaf vacuum?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of geophysics?",
+    "answerOptions": [
+      { "answerText": "Sir Isaac Newton", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy harvesting technology?",
+    "answerOptions": [
+      { "answerText": "Zhong Lin Wang", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden shredder?",
+    "answerOptions": [
+      { "answerText": "Earl Gilmore", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of geology?",
+    "answerOptions": [
+      { "answerText": "James Hutton", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy conversion technology?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden tiller?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of soil science?",
+    "answerOptions": [
+      { "answerText": "Vasily Dokuchaev", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy transformation technology?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric lawn edger?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of mineralogy?",
+    "answerOptions": [
+      { "answerText": "Georgius Agricola", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy transfer technology?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge cutter?",
+    "answerOptions": [
+      { "answerText": "Nicholas Appert", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of petrology?",
+    "answerOptions": [
+      { "answerText": "Norman Bowen", "isCorrect": true },
+      { "answerText": "John von Neumann", "isCorrect": false },
+      { "answerText": "Alan Turing", "isCorrect": false },
+      { "answerText": "Claude Shannon", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy distribution technology?",
+    "answerOptions": [
+      { "answerText": "Thomas Edison", "isCorrect": true },
+      { "answerText": "James Lovelock", "isCorrect": false },
+      { "answerText": "Lars Onsager", "isCorrect": false },
+      { "answerText": "Fritz Haber", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric tree pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of paleontology?",
+    "answerOptions": [
+      { "answerText": "Georges Cuvier", "isCorrect": true },
+      { "answerText": "Charles Darwin", "isCorrect": false },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Gregor Mendel", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy transmission technology?",
+    "answerOptions": [
+      { "answerText": "Nikola Tesla", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Michael Faraday", "isCorrect": false },
+      { "answerText": "James Clerk Maxwell", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden hoe?",
+    "answerOptions": [
+      { "answerText": "Hound Dog Products", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of sedimentology?",
+    "answerOptions": [
+      { "answerText": "Johannes Walther", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy generation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of volcanology?",
+    "answerOptions": [
+      { "answerText": "Giuseppe Mercalli", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy production technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric brush cutter?",
+    "answerOptions": [
+      { "answerText": "Husqvarna", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of seismology?",
+    "answerOptions": [
+      { "answerText": "John Milne", "isCorrect": true },
+      { "answerText": "Charles Richter", "isCorrect": false },
+      { "answerText": "Harry Fielding Reid", "isCorrect": false },
+      { "answerText": "Beno Gutenberg", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy supply technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric string trimmer?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of glaciology?",
+    "answerOptions": [
+      { "answerText": "Louis Agassiz", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy demand technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden sprayer?",
+    "answerOptions": [
+      { "answerText": "Smith Performance Sprayers", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of climatology?",
+    "answerOptions": [
+      { "answerText": "Wladimir Köppen", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy consumption technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden blower?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of meteorology?",
+    "answerOptions": [
+      { "answerText": "Luke Howard", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy utilization technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden vacuum?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of hydrometeorology?",
+    "answerOptions": [
+      { "answerText": "Pierre Perrault", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy recycling technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge trimmer?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric chemistry?",
+    "answerOptions": [
+      { "answerText": "Svante Arrhenius", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy recovery technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole saw?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric physics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy regeneration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric dynamics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy renewal technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric mulcher?",
+    "answerOptions": [
+      { "answerText": "Troy-Bilt", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric circulation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retention technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric wood chipper?",
+    "answerOptions": [
+      { "answerText": "Pioneer Manufacturing Company", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric convection?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy restoration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric compost shredder?",
+    "answerOptions": [
+      { "answerText": "Troy-Bilt", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric radiation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reintegration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric leaf vacuum?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric optics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy remanufacturing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden shredder?",
+    "answerOptions": [
+      { "answerText": "Pioneer Manufacturing Company", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric acoustics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy repurposing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden tiller?",
+    "answerOptions": [
+      { "answerText": "C.W. Kelsey", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric turbulence?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reclamation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric lawn edger?",
+    "answerOptions": [
+      { "answerText": "Stanley Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric waves?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy rehabilitation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge cutter?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric boundary layer?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retrofit technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric tree pruner?",
+    "answerOptions": [
+      { "answerText": "Andreas Stihl", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric stability?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy rejuvenation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden hoe?",
+    "answerOptions": [
+      { "answerText": "Hound Dog Products", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric motion?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy repowering technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric turbulence?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy recycling technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric brush cutter?",
+    "answerOptions": [
+      { "answerText": "Husqvarna", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric boundary layer?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy regeneration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric string trimmer?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric convection?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy restoration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden sprayer?",
+    "answerOptions": [
+      { "answerText": "Smith Performance Sprayers", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric circulation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retention technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden blower?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric dynamics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reintegration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden vacuum?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric radiation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy remanufacturing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge trimmer?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric optics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy repurposing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole saw?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric acoustics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reclamation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric waves?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy rehabilitation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric mulcher?",
+    "answerOptions": [
+      { "answerText": "Troy-Bilt", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric boundary layer?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retrofit technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric compost shredder?",
+    "answerOptions": [
+      { "answerText": "Troy-Bilt", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric stability?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy rejuvenation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric leaf vacuum?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric turbulence?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy repowering technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden shredder?",
+    "answerOptions": [
+      { "answerText": "Pioneer Manufacturing Company", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric boundary layer?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy recycling technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden tiller?",
+    "answerOptions": [
+      { "answerText": "C.W. Kelsey", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric convection?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy regeneration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric lawn edger?",
+    "answerOptions": [
+      { "answerText": "Stanley Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric circulation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy restoration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge cutter?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric dynamics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retention technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric tree pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric radiation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reintegration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden hoe?",
+    "answerOptions": [
+      { "answerText": "Hound Dog Products", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric optics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy remanufacturing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric acoustics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy repurposing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric brush cutter?",
+    "answerOptions": [
+      { "answerText": "Husqvarna", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric waves?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reclamation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric string trimmer?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric boundary layer?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy rehabilitation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden sprayer?",
+    "answerOptions": [
+      { "answerText": "Smith Performance Sprayers", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric stability?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retrofit technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden blower?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric motion?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy rejuvenation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden vacuum?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric turbulence?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy repowering technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge trimmer?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric boundary layer?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy recycling technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole saw?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric convection?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy regeneration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pruner?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric circulation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy restoration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric mulcher?",
+    "answerOptions": [
+      { "answerText": "Troy-Bilt", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric dynamics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retention technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric brush cutter?",
+    "answerOptions": [
+      { "answerText": "Husqvarna", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric circulation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy restoration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric string trimmer?",
+    "answerOptions": [
+      { "answerText": "George Ballas", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric dynamics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy retention technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden sprayer?",
+    "answerOptions": [
+      { "answerText": "Smith Performance Sprayers", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric radiation?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reintegration technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden blower?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric optics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy remanufacturing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric garden vacuum?",
+    "answerOptions": [
+      { "answerText": "Echo Incorporated", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric acoustics?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy repurposing technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric hedge trimmer?",
+    "answerOptions": [
+      { "answerText": "Walter K. Morrison", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric waves?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who discovered the principle of energy reclamation technology?",
+    "answerOptions": [
+      { "answerText": "Michael Faraday", "isCorrect": true },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "James Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who invented the first practical electric pole saw?",
+    "answerOptions": [
+      { "answerText": "Black & Decker", "isCorrect": true },
+      { "answerText": "Thomas Edison", "isCorrect": false },
+      { "answerText": "Nikola Tesla", "isCorrect": false },
+      { "answerText": "James Dyson", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who developed the theory of atmospheric boundary layer?",
+    "answerOptions": [
+      { "answerText": "C.G. Rossby", "isCorrect": true },
+      { "answerText": "James Hutton", "isCorrect": false },
+      { "answerText": "Charles Lyell", "isCorrect": false },
+      { "answerText": "Alfred Wegener", "isCorrect": false }
+    ]
+  }
+]

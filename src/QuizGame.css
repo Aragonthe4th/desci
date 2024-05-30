@@ -127,3 +127,17 @@
 .quiz-footer button:hover {
   background-color: #0056b3;
 }
+
+/* Add media query for phone screens */
+@media (max-width: 600px) {
+  .topic-selection {
+    display: inline-grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 10px;
+  }
+
+  .topic-selection button {
+    padding: 10px;
+    font-size: 14px;
+  }
+}

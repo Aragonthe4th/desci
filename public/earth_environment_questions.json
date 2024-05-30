@@ -1,0 +1,3378 @@
+[
+    {
+        "questionText": "What is the effect called when a region experiences less than average rainfall?",
+        "answerOptions": [
+          { "answerText": "Drought", "isCorrect": true },
+          { "answerText": "Flood", "isCorrect": false },
+          { "answerText": "Hurricane", "isCorrect": false },
+          { "answerText": "Tornado", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest ocean on Earth?",
+        "answerOptions": [
+          { "answerText": "Pacific Ocean", "isCorrect": true },
+          { "answerText": "Atlantic Ocean", "isCorrect": false },
+          { "answerText": "Indian Ocean", "isCorrect": false },
+          { "answerText": "Southern Ocean", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the largest type of ecosystem on Earth?",
+        "answerOptions": [
+          { "answerText": "Marine Ecosystem", "isCorrect": true },
+          { "answerText": "Desert Ecosystem", "isCorrect": false },
+          { "answerText": "Forest Ecosystem", "isCorrect": false },
+          { "answerText": "Grassland Ecosystem", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of biodiversity for ecosystem resilience?",
+        "answerOptions": [
+          { "answerText": "Increases the ability to recover from disturbances", "isCorrect": true },
+          { "answerText": "Reduces the need for water", "isCorrect": false },
+          { "answerText": "Prevents climate change", "isCorrect": false },
+          { "answerText": "Eliminates invasive species", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of biodiversity for ecosystem stability?",
+        "answerOptions": [
+          { "answerText": "Enhances ecosystem productivity and health", "isCorrect": true },
+          { "answerText": "Reduces carbon emissions", "isCorrect": false },
+          { "answerText": "Increases rainfall", "isCorrect": false },
+          { "answerText": "Prevents soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of conservation for ecosystems?",
+        "answerOptions": [
+          { "answerText": "Protects species and their habitats", "isCorrect": true },
+          { "answerText": "Increases tourism", "isCorrect": false },
+          { "answerText": "Promotes urban development", "isCorrect": false },
+          { "answerText": "Enhances agricultural productivity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of green infrastructure in cities?",
+        "answerOptions": [
+          { "answerText": "Reduces urban heat island effect", "isCorrect": true },
+          { "answerText": "Increases traffic congestion", "isCorrect": false },
+          { "answerText": "Reduces water supply", "isCorrect": false },
+          { "answerText": "Increases air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of green roofs for urban environments?",
+        "answerOptions": [
+          { "answerText": "Improves energy efficiency", "isCorrect": true },
+          { "answerText": "Increases urban sprawl", "isCorrect": false },
+          { "answerText": "Decreases building costs", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of organic farming for the environment?",
+        "answerOptions": [
+          { "answerText": "Reduces chemical runoff into waterways", "isCorrect": true },
+          { "answerText": "Increases pesticide use", "isCorrect": false },
+          { "answerText": "Increases greenhouse gas emissions", "isCorrect": false },
+          { "answerText": "Decreases soil fertility", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of protecting natural areas for tourism?",
+        "answerOptions": [
+          { "answerText": "Provides economic opportunities for local communities", "isCorrect": true },
+          { "answerText": "Destroys local wildlife habitats", "isCorrect": false },
+          { "answerText": "Increases pollution", "isCorrect": false },
+          { "answerText": "Decreases visitor satisfaction", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of protecting wetlands for flood control?",
+        "answerOptions": [
+          { "answerText": "Absorbs and slows down floodwaters", "isCorrect": true },
+          { "answerText": "Increases flood risk", "isCorrect": false },
+          { "answerText": "Destroys aquatic habitats", "isCorrect": false },
+          { "answerText": "Reduces water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of reforestation for the environment?",
+        "answerOptions": [
+          { "answerText": "Increases carbon sequestration", "isCorrect": true },
+          { "answerText": "Increases soil erosion", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false },
+          { "answerText": "Decreases water availability", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of renewable energy for reducing carbon emissions?",
+        "answerOptions": [
+          { "answerText": "Produces little to no greenhouse gases", "isCorrect": true },
+          { "answerText": "Increases fossil fuel use", "isCorrect": false },
+          { "answerText": "Reduces energy efficiency", "isCorrect": false },
+          { "answerText": "Increases deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of sustainable agriculture for food security?",
+        "answerOptions": [
+          { "answerText": "Ensures long-term food production", "isCorrect": true },
+          { "answerText": "Increases food waste", "isCorrect": false },
+          { "answerText": "Reduces soil health", "isCorrect": false },
+          { "answerText": "Decreases crop diversity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of using biodegradable materials?",
+        "answerOptions": [
+          { "answerText": "Reduces environmental pollution", "isCorrect": true },
+          { "answerText": "Increases landfill waste", "isCorrect": false },
+          { "answerText": "Decreases recycling rates", "isCorrect": false },
+          { "answerText": "Increases energy consumption", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of using renewable energy sources for the environment?",
+        "answerOptions": [
+          { "answerText": "Reduces greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Increases air pollution", "isCorrect": false },
+          { "answerText": "Increases deforestation", "isCorrect": false },
+          { "answerText": "Reduces energy security", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of using renewable energy sources?",
+        "answerOptions": [
+          { "answerText": "Reduces dependence on fossil fuels", "isCorrect": true },
+          { "answerText": "Increases greenhouse gas emissions", "isCorrect": false },
+          { "answerText": "Increases environmental pollution", "isCorrect": false },
+          { "answerText": "Decreases energy security", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of wetlands for biodiversity?",
+        "answerOptions": [
+          { "answerText": "Provides habitat for a wide range of species", "isCorrect": true },
+          { "answerText": "Reduces species diversity", "isCorrect": false },
+          { "answerText": "Increases habitat destruction", "isCorrect": false },
+          { "answerText": "Decreases water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main benefit of wetlands for flood control?",
+        "answerOptions": [
+          { "answerText": "Absorbs and slows down floodwaters", "isCorrect": true },
+          { "answerText": "Increases flood risk", "isCorrect": false },
+          { "answerText": "Destroys aquatic habitats", "isCorrect": false },
+          { "answerText": "Reduces water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of algal blooms in freshwater lakes?",
+        "answerOptions": [
+          { "answerText": "Excess nutrient runoff from agriculture", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Increased water temperature", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of coral bleaching?",
+        "answerOptions": [
+          { "answerText": "Increased sea temperatures", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Plastic pollution", "isCorrect": false },
+          { "answerText": "Oil spills", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of deforestation in tropical regions?",
+        "answerOptions": [
+          { "answerText": "Agricultural expansion", "isCorrect": true },
+          { "answerText": "Urban development", "isCorrect": false },
+          { "answerText": "Mining", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of deforestation?",
+        "answerOptions": [
+          { "answerText": "Agricultural expansion", "isCorrect": true },
+          { "answerText": "Urban development", "isCorrect": false },
+          { "answerText": "Mining", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of desertification?",
+        "answerOptions": [
+          { "answerText": "Overgrazing by livestock", "isCorrect": true },
+          { "answerText": "Urbanization", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of global warming?",
+        "answerOptions": [
+          { "answerText": "Increased greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of increased greenhouse gas emissions?",
+        "answerOptions": [
+          { "answerText": "Burning of fossil fuels", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Agriculture", "isCorrect": false },
+          { "answerText": "Waste management", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of ocean acidification?",
+        "answerOptions": [
+          { "answerText": "Increased CO2 emissions", "isCorrect": true },
+          { "answerText": "Plastic pollution", "isCorrect": false },
+          { "answerText": "Oil spills", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of soil erosion?",
+        "answerOptions": [
+          { "answerText": "Deforestation", "isCorrect": true },
+          { "answerText": "Urbanization", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in amphibian populations worldwide?",
+        "answerOptions": [
+          { "answerText": "Habitat destruction", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in bee populations?",
+        "answerOptions": [
+          { "answerText": "Pesticide use", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in biodiversity in tropical rainforests?",
+        "answerOptions": [
+          { "answerText": "Deforestation", "isCorrect": true },
+          { "answerText": "Urbanization", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in fish populations in freshwater lakes?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in fish populations in the oceans?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in freshwater availability?",
+        "answerOptions": [
+          { "answerText": "Overuse of water resources", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in freshwater biodiversity?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in freshwater fish populations?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in global fish stocks?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in insect populations?",
+        "answerOptions": [
+          { "answerText": "Pesticide use", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in marine biodiversity?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in marine habitats?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in marine mammal populations?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in pollinator populations?",
+        "answerOptions": [
+          { "answerText": "Pesticide use", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the decline in terrestrial habitats?",
+        "answerOptions": [
+          { "answerText": "Deforestation", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the depletion of fish stocks in the world's oceans?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the depletion of groundwater resources?",
+        "answerOptions": [
+          { "answerText": "Overuse of water resources", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the depletion of marine fish stocks?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the loss of Arctic sea ice?",
+        "answerOptions": [
+          { "answerText": "Global warming", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the loss of biodiversity in oceans?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the loss of biodiversity in tropical rainforests?",
+        "answerOptions": [
+          { "answerText": "Deforestation", "isCorrect": true },
+          { "answerText": "Urbanization", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main cause of the loss of wetlands worldwide?",
+        "answerOptions": [
+          { "answerText": "Agricultural expansion", "isCorrect": true },
+          { "answerText": "Urban development", "isCorrect": false },
+          { "answerText": "Mining", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main component of smog?",
+        "answerOptions": [
+          { "answerText": "Ground-level ozone", "isCorrect": true },
+          { "answerText": "Carbon dioxide", "isCorrect": false },
+          { "answerText": "Methane", "isCorrect": false },
+          { "answerText": "Nitrous oxide", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of air pollution for human health?",
+        "answerOptions": [
+          { "answerText": "Respiratory diseases", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Decreased biodiversity", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of climate change for coastal areas?",
+        "answerOptions": [
+          { "answerText": "Sea level rise", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of climate change for polar regions?",
+        "answerOptions": [
+          { "answerText": "Melting of ice caps", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Decreased biodiversity", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of climate change for sea levels?",
+        "answerOptions": [
+          { "answerText": "Rising sea levels", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of climate change for weather patterns?",
+        "answerOptions": [
+          { "answerText": "More extreme weather events", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Decreased biodiversity", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of deforestation for soil health?",
+        "answerOptions": [
+          { "answerText": "Increased soil erosion", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of deforestation for the carbon cycle?",
+        "answerOptions": [
+          { "answerText": "Increased carbon emissions", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of deforestation for the global climate?",
+        "answerOptions": [
+          { "answerText": "Increased greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of deforestation on the water cycle?",
+        "answerOptions": [
+          { "answerText": "Disruption of water cycles", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of habitat destruction for wildlife?",
+        "answerOptions": [
+          { "answerText": "Loss of habitats and species", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of habitat destruction?",
+        "answerOptions": [
+          { "answerText": "Loss of biodiversity", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of habitat fragmentation for wildlife?",
+        "answerOptions": [
+          { "answerText": "Disruption of species migration and reproduction", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of habitat loss for species?",
+        "answerOptions": [
+          { "answerText": "Extinction", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of oil spills in marine environments?",
+        "answerOptions": [
+          { "answerText": "Pollution and harm to marine life", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of overfishing for marine ecosystems?",
+        "answerOptions": [
+          { "answerText": "Depletion of fish stocks", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of overgrazing by livestock?",
+        "answerOptions": [
+          { "answerText": "Soil degradation and desertification", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of plastic pollution in marine environments?",
+        "answerOptions": [
+          { "answerText": "Harm to marine life and ecosystems", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of plastic waste in the ocean?",
+        "answerOptions": [
+          { "answerText": "Harm to marine life", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of soil degradation for agriculture?",
+        "answerOptions": [
+          { "answerText": "Reduced crop yields", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of soil erosion for agriculture?",
+        "answerOptions": [
+          { "answerText": "Loss of fertile topsoil", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of soil erosion for water quality?",
+        "answerOptions": [
+          { "answerText": "Sediment pollution in water bodies", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of the introduction of invasive species on native species?",
+        "answerOptions": [
+          { "answerText": "Competition and displacement of native species", "isCorrect": true },
+          { "answerText": "Increased rainfall", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false },
+          { "answerText": "Increased soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of the melting of glaciers for sea levels?",
+        "answerOptions": [
+          { "answerText": "Rising sea levels", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main consequence of the melting of polar ice caps for global sea levels?",
+        "answerOptions": [
+          { "answerText": "Rising sea levels", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main effect of deforestation on the water cycle?",
+        "answerOptions": [
+          { "answerText": "Disruption of water cycles", "isCorrect": true },
+          { "answerText": "Decreased rainfall", "isCorrect": false },
+          { "answerText": "Increased biodiversity", "isCorrect": false },
+          { "answerText": "Reduced air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main factor contributing to the melting of polar ice caps?",
+        "answerOptions": [
+          { "answerText": "Global warming", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main function of wetlands in an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Provides habitat for a wide range of species", "isCorrect": true },
+          { "answerText": "Reduces species diversity", "isCorrect": false },
+          { "answerText": "Increases habitat destruction", "isCorrect": false },
+          { "answerText": "Decreases water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of conservation?",
+        "answerOptions": [
+          { "answerText": "Protects species and their habitats", "isCorrect": true },
+          { "answerText": "Increases tourism", "isCorrect": false },
+          { "answerText": "Promotes urban development", "isCorrect": false },
+          { "answerText": "Enhances agricultural productivity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of the Endangered Species Act?",
+        "answerOptions": [
+          { "answerText": "Protects threatened and endangered species", "isCorrect": true },
+          { "answerText": "Increases species extinction", "isCorrect": false },
+          { "answerText": "Promotes urban development", "isCorrect": false },
+          { "answerText": "Enhances agricultural productivity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main purpose of the Paris Agreement?",
+        "answerOptions": [
+          { "answerText": "To reduce global greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "To increase tourism", "isCorrect": false },
+          { "answerText": "To promote urban development", "isCorrect": false },
+          { "answerText": "To enhance agricultural productivity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the main source of plastic pollution in oceans?",
+        "answerOptions": [
+          { "answerText": "Improper waste disposal", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the agreement signed by many countries to reduce greenhouse gas emissions?",
+        "answerOptions": [
+          { "answerText": "Paris Agreement", "isCorrect": true },
+          { "answerText": "Kyoto Protocol", "isCorrect": false },
+          { "answerText": "Montreal Protocol", "isCorrect": false },
+          { "answerText": "Antarctic Treaty", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the agreement to protect the Antarctic environment?",
+        "answerOptions": [
+          { "answerText": "Antarctic Treaty", "isCorrect": true },
+          { "answerText": "Paris Agreement", "isCorrect": false },
+          { "answerText": "Kyoto Protocol", "isCorrect": false },
+          { "answerText": "Montreal Protocol", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the agreement to protect the ozone layer?",
+        "answerOptions": [
+          { "answerText": "Montreal Protocol", "isCorrect": true },
+          { "answerText": "Paris Agreement", "isCorrect": false },
+          { "answerText": "Kyoto Protocol", "isCorrect": false },
+          { "answerText": "Antarctic Treaty", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the agreement to reduce carbon emissions and combat climate change?",
+        "answerOptions": [
+          { "answerText": "Paris Agreement", "isCorrect": true },
+          { "answerText": "Kyoto Protocol", "isCorrect": false },
+          { "answerText": "Montreal Protocol", "isCorrect": false },
+          { "answerText": "Antarctic Treaty", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the current geological epoch characterized by significant human impact on the planet?",
+        "answerOptions": [
+          { "answerText": "Anthropocene", "isCorrect": true },
+          { "answerText": "Holocene", "isCorrect": false },
+          { "answerText": "Pleistocene", "isCorrect": false },
+          { "answerText": "Miocene", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the cycle that describes the movement of water on, above, and below the surface of the Earth?",
+        "answerOptions": [
+          { "answerText": "Water cycle", "isCorrect": true },
+          { "answerText": "Carbon cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the international agreement to protect endangered species?",
+        "answerOptions": [
+          { "answerText": "CITES (Convention on International Trade in Endangered Species)", "isCorrect": true },
+          { "answerText": "Paris Agreement", "isCorrect": false },
+          { "answerText": "Kyoto Protocol", "isCorrect": false },
+          { "answerText": "Montreal Protocol", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the international agreement to reduce ozone-depleting substances?",
+        "answerOptions": [
+          { "answerText": "Montreal Protocol", "isCorrect": true },
+          { "answerText": "Paris Agreement", "isCorrect": false },
+          { "answerText": "Kyoto Protocol", "isCorrect": false },
+          { "answerText": "Antarctic Treaty", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the movement of a species from one habitat to another?",
+        "answerOptions": [
+          { "answerText": "Migration", "isCorrect": true },
+          { "answerText": "Extinction", "isCorrect": false },
+          { "answerText": "Adaptation", "isCorrect": false },
+          { "answerText": "Speciation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the phenomenon where pollutants concentrate in the atmosphere and trap heat?",
+        "answerOptions": [
+          { "answerText": "Greenhouse effect", "isCorrect": true },
+          { "answerText": "Ozone depletion", "isCorrect": false },
+          { "answerText": "Acid rain", "isCorrect": false },
+          { "answerText": "Photochemical smog", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the phenomenon where the Earth's average temperature increases?",
+        "answerOptions": [
+          { "answerText": "Global warming", "isCorrect": true },
+          { "answerText": "Ozone depletion", "isCorrect": false },
+          { "answerText": "Acid rain", "isCorrect": false },
+          { "answerText": "Photochemical smog", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the practice of growing food in water-based environments?",
+        "answerOptions": [
+          { "answerText": "Aquaculture", "isCorrect": true },
+          { "answerText": "Agriculture", "isCorrect": false },
+          { "answerText": "Silviculture", "isCorrect": false },
+          { "answerText": "Mariculture", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the practice of managing fish populations for sustainable use?",
+        "answerOptions": [
+          { "answerText": "Fisheries management", "isCorrect": true },
+          { "answerText": "Aquaculture", "isCorrect": false },
+          { "answerText": "Agriculture", "isCorrect": false },
+          { "answerText": "Silviculture", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the practice of managing forests for long-term sustainability?",
+        "answerOptions": [
+          { "answerText": "Forestry", "isCorrect": true },
+          { "answerText": "Agriculture", "isCorrect": false },
+          { "answerText": "Silviculture", "isCorrect": false },
+          { "answerText": "Aquaculture", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the practice of planting trees to restore a forest?",
+        "answerOptions": [
+          { "answerText": "Reforestation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Agroforestry", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the practice of rotating crops to maintain soil fertility?",
+        "answerOptions": [
+          { "answerText": "Crop rotation", "isCorrect": true },
+          { "answerText": "Monoculture", "isCorrect": false },
+          { "answerText": "Intercropping", "isCorrect": false },
+          { "answerText": "Polyculture", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the practice of using natural predators to control pest populations?",
+        "answerOptions": [
+          { "answerText": "Biological control", "isCorrect": true },
+          { "answerText": "Chemical control", "isCorrect": false },
+          { "answerText": "Mechanical control", "isCorrect": false },
+          { "answerText": "Cultural control", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which carbon dioxide is absorbed by oceans?",
+        "answerOptions": [
+          { "answerText": "Oceanic carbon uptake", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Carbon fixation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which glaciers form and move?",
+        "answerOptions": [
+          { "answerText": "Glaciation", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Sedimentation", "isCorrect": false },
+          { "answerText": "Sublimation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants absorb water through their roots?",
+        "answerOptions": [
+          { "answerText": "Osmosis", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants release oxygen into the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Decomposition", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the process by which plants take in carbon dioxide during photosynthesis?",
+        "answerOptions": [
+          { "answerText": "Carbon fixation", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Osmosis", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the name of the region that is most affected by the loss of Arctic sea ice?",
+        "answerOptions": [
+          { "answerText": "The Arctic", "isCorrect": true },
+          { "answerText": "The Antarctic", "isCorrect": false },
+          { "answerText": "The Equator", "isCorrect": false },
+          { "answerText": "The Tropics", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of biodiversity for ecosystems?",
+        "answerOptions": [
+          { "answerText": "Increases ecosystem resilience and stability", "isCorrect": true },
+          { "answerText": "Decreases habitat availability", "isCorrect": false },
+          { "answerText": "Reduces genetic diversity", "isCorrect": false },
+          { "answerText": "Increases soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of biodiversity for human health?",
+        "answerOptions": [
+          { "answerText": "Provides medicinal resources and ecosystem services", "isCorrect": true },
+          { "answerText": "Increases disease prevalence", "isCorrect": false },
+          { "answerText": "Reduces food supply", "isCorrect": false },
+          { "answerText": "Increases air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of biodiversity in agricultural systems?",
+        "answerOptions": [
+          { "answerText": "Enhances crop productivity and resilience", "isCorrect": true },
+          { "answerText": "Reduces soil fertility", "isCorrect": false },
+          { "answerText": "Increases pesticide use", "isCorrect": false },
+          { "answerText": "Decreases water availability", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of composting for waste management?",
+        "answerOptions": [
+          { "answerText": "Reduces landfill waste and recycles nutrients", "isCorrect": true },
+          { "answerText": "Increases greenhouse gas emissions", "isCorrect": false },
+          { "answerText": "Reduces soil fertility", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of composting organic waste?",
+        "answerOptions": [
+          { "answerText": "Recycles nutrients and improves soil health", "isCorrect": true },
+          { "answerText": "Increases landfill waste", "isCorrect": false },
+          { "answerText": "Reduces soil fertility", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of conservation for future generations?",
+        "answerOptions": [
+          { "answerText": "Preserves biodiversity and natural resources", "isCorrect": true },
+          { "answerText": "Increases habitat destruction", "isCorrect": false },
+          { "answerText": "Reduces ecosystem services", "isCorrect": false },
+          { "answerText": "Increases soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of coral reefs for marine life?",
+        "answerOptions": [
+          { "answerText": "Provides habitat and food for a wide variety of species", "isCorrect": true },
+          { "answerText": "Increases water pollution", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false },
+          { "answerText": "Destroys fish populations", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of ecosystem services for humans?",
+        "answerOptions": [
+          { "answerText": "Supports human life and economic activity", "isCorrect": true },
+          { "answerText": "Increases environmental degradation", "isCorrect": false },
+          { "answerText": "Reduces water availability", "isCorrect": false },
+          { "answerText": "Destroys wildlife habitats", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of energy efficiency for the environment?",
+        "answerOptions": [
+          { "answerText": "Reduces greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Increases fossil fuel use", "isCorrect": false },
+          { "answerText": "Decreases energy security", "isCorrect": false },
+          { "answerText": "Increases air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of green building practices for energy conservation?",
+        "answerOptions": [
+          { "answerText": "Reduces energy consumption and costs", "isCorrect": true },
+          { "answerText": "Increases greenhouse gas emissions", "isCorrect": false },
+          { "answerText": "Decreases biodiversity", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of green roofs for urban environments?",
+        "answerOptions": [
+          { "answerText": "Improves energy efficiency and reduces urban heat island effect", "isCorrect": true },
+          { "answerText": "Increases air pollution", "isCorrect": false },
+          { "answerText": "Decreases biodiversity", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of green spaces in urban areas?",
+        "answerOptions": [
+          { "answerText": "Improves air quality and provides recreational areas", "isCorrect": true },
+          { "answerText": "Increases air pollution", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of marine protected areas?",
+        "answerOptions": [
+          { "answerText": "Conserves marine biodiversity and ecosystems", "isCorrect": true },
+          { "answerText": "Increases overfishing", "isCorrect": false },
+          { "answerText": "Decreases water quality", "isCorrect": false },
+          { "answerText": "Reduces habitat availability", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of organic farming for soil health?",
+        "answerOptions": [
+          { "answerText": "Improves soil structure and fertility", "isCorrect": true },
+          { "answerText": "Increases pesticide use", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false },
+          { "answerText": "Increases soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of protected areas for wildlife?",
+        "answerOptions": [
+          { "answerText": "Provides safe habitats and reduces human interference", "isCorrect": true },
+          { "answerText": "Increases habitat destruction", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false },
+          { "answerText": "Increases soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of recycling for the environment?",
+        "answerOptions": [
+          { "answerText": "Reduces waste and conserves natural resources", "isCorrect": true },
+          { "answerText": "Increases landfill waste", "isCorrect": false },
+          { "answerText": "Reduces air quality", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of reforestation for carbon sequestration?",
+        "answerOptions": [
+          { "answerText": "Absorbs carbon dioxide from the atmosphere", "isCorrect": true },
+          { "answerText": "Increases carbon emissions", "isCorrect": false },
+          { "answerText": "Reduces soil fertility", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of renewable energy sources for climate change mitigation?",
+        "answerOptions": [
+          { "answerText": "Reduces greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Increases air pollution", "isCorrect": false },
+          { "answerText": "Increases fossil fuel use", "isCorrect": false },
+          { "answerText": "Decreases energy security", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of sustainable agriculture for soil conservation?",
+        "answerOptions": [
+          { "answerText": "Prevents soil erosion and degradation", "isCorrect": true },
+          { "answerText": "Increases pesticide use", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false },
+          { "answerText": "Increases soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of sustainable agriculture for the environment?",
+        "answerOptions": [
+          { "answerText": "Reduces environmental impact and conserves resources", "isCorrect": true },
+          { "answerText": "Increases soil erosion", "isCorrect": false },
+          { "answerText": "Reduces biodiversity", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of sustainable fishing practices?",
+        "answerOptions": [
+          { "answerText": "Ensures long-term viability of fish populations", "isCorrect": true },
+          { "answerText": "Increases overfishing", "isCorrect": false },
+          { "answerText": "Reduces water quality", "isCorrect": false },
+          { "answerText": "Decreases habitat availability", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of sustainable forestry practices?",
+        "answerOptions": [
+          { "answerText": "Maintains forest ecosystems and biodiversity", "isCorrect": true },
+          { "answerText": "Increases deforestation", "isCorrect": false },
+          { "answerText": "Reduces soil fertility", "isCorrect": false },
+          { "answerText": "Increases water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of trees for the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Absorb carbon dioxide and release oxygen", "isCorrect": true },
+          { "answerText": "Increase air pollution", "isCorrect": false },
+          { "answerText": "Decrease biodiversity", "isCorrect": false },
+          { "answerText": "Reduce water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of urban green spaces for air quality?",
+        "answerOptions": [
+          { "answerText": "Reduce air pollution and improve public health", "isCorrect": true },
+          { "answerText": "Increase air pollution", "isCorrect": false },
+          { "answerText": "Decrease biodiversity", "isCorrect": false },
+          { "answerText": "Reduce water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of using biodegradable materials?",
+        "answerOptions": [
+          { "answerText": "Reduce environmental pollution", "isCorrect": true },
+          { "answerText": "Increase landfill waste", "isCorrect": false },
+          { "answerText": "Decrease recycling rates", "isCorrect": false },
+          { "answerText": "Increase energy consumption", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of using energy-efficient technologies for the environment?",
+        "answerOptions": [
+          { "answerText": "Reduce greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Increase fossil fuel use", "isCorrect": false },
+          { "answerText": "Decrease energy security", "isCorrect": false },
+          { "answerText": "Increase air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of using renewable energy sources for reducing air pollution?",
+        "answerOptions": [
+          { "answerText": "Reduce emissions of harmful pollutants", "isCorrect": true },
+          { "answerText": "Increase fossil fuel use", "isCorrect": false },
+          { "answerText": "Decrease energy security", "isCorrect": false },
+          { "answerText": "Increase air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of using renewable energy sources for the climate?",
+        "answerOptions": [
+          { "answerText": "Reduce greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Increase air pollution", "isCorrect": false },
+          { "answerText": "Increase fossil fuel use", "isCorrect": false },
+          { "answerText": "Decrease energy security", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of wetlands for biodiversity?",
+        "answerOptions": [
+          { "answerText": "Provide habitat for diverse species", "isCorrect": true },
+          { "answerText": "Reduce species diversity", "isCorrect": false },
+          { "answerText": "Increase habitat destruction", "isCorrect": false },
+          { "answerText": "Decrease water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of wetlands for flood control?",
+        "answerOptions": [
+          { "answerText": "Absorb and slow down floodwaters", "isCorrect": true },
+          { "answerText": "Increase flood risk", "isCorrect": false },
+          { "answerText": "Destroy aquatic habitats", "isCorrect": false },
+          { "answerText": "Reduce water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary benefit of wetlands for water purification?",
+        "answerOptions": [
+          { "answerText": "Filter and remove pollutants from water", "isCorrect": true },
+          { "answerText": "Increase water pollution", "isCorrect": false },
+          { "answerText": "Decrease biodiversity", "isCorrect": false },
+          { "answerText": "Increase soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of climate change?",
+        "answerOptions": [
+          { "answerText": "Increased greenhouse gas emissions", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Water pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of eutrophication in water bodies?",
+        "answerOptions": [
+          { "answerText": "Excess nutrient runoff from agriculture", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Increased water temperature", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of habitat fragmentation?",
+        "answerOptions": [
+          { "answerText": "Urban development", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Increased water temperature", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of ocean acidification?",
+        "answerOptions": [
+          { "answerText": "Increased CO2 emissions", "isCorrect": true },
+          { "answerText": "Plastic pollution", "isCorrect": false },
+          { "answerText": "Oil spills", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of species extinction today?",
+        "answerOptions": [
+          { "answerText": "Habitat destruction", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Increased water temperature", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the decline in amphibian populations worldwide?",
+        "answerOptions": [
+          { "answerText": "Habitat destruction", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Increased water temperature", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the decline in bird populations worldwide?",
+        "answerOptions": [
+          { "answerText": "Habitat destruction", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Increased water temperature", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the decline in coral reefs worldwide?",
+        "answerOptions": [
+          { "answerText": "Coral bleaching due to increased sea temperatures", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Plastic pollution", "isCorrect": false },
+          { "answerText": "Oil spills", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the decline in mammal populations?",
+        "answerOptions": [
+          { "answerText": "Habitat destruction", "isCorrect": true },
+          { "answerText": "Overfishing", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Increased water temperature", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the depletion of groundwater resources?",
+        "answerOptions": [
+          { "answerText": "Overuse of water resources", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the depletion of marine biodiversity?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the depletion of marine fish stocks?",
+        "answerOptions": [
+          { "answerText": "Overfishing", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the depletion of the Earth's freshwater resources?",
+        "answerOptions": [
+          { "answerText": "Overuse and pollution", "isCorrect": true },
+          { "answerText": "Climate change", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the loss of Arctic sea ice?",
+        "answerOptions": [
+          { "answerText": "Global warming", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Overfishing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary cause of the loss of wetlands?",
+        "answerOptions": [
+          { "answerText": "Agricultural expansion", "isCorrect": true },
+          { "answerText": "Urban development", "isCorrect": false },
+          { "answerText": "Mining", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary purpose of marine protected areas?",
+        "answerOptions": [
+          { "answerText": "Conserve marine biodiversity and ecosystems", "isCorrect": true },
+          { "answerText": "Increase overfishing", "isCorrect": false },
+          { "answerText": "Decrease water quality", "isCorrect": false },
+          { "answerText": "Reduce habitat availability", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary purpose of national parks?",
+        "answerOptions": [
+          { "answerText": "Protect natural and cultural resources", "isCorrect": true },
+          { "answerText": "Promote urban development", "isCorrect": false },
+          { "answerText": "Increase deforestation", "isCorrect": false },
+          { "answerText": "Reduce tourism", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary purpose of wildlife corridors?",
+        "answerOptions": [
+          { "answerText": "Connect fragmented habitats for wildlife movement", "isCorrect": true },
+          { "answerText": "Increase habitat destruction", "isCorrect": false },
+          { "answerText": "Decrease biodiversity", "isCorrect": false },
+          { "answerText": "Reduce water quality", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of acid rain?",
+        "answerOptions": [
+          { "answerText": "Emissions of sulfur dioxide and nitrogen oxides", "isCorrect": true },
+          { "answerText": "Carbon dioxide emissions", "isCorrect": false },
+          { "answerText": "Methane emissions", "isCorrect": false },
+          { "answerText": "Particulate matter", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of air pollution in industrial areas?",
+        "answerOptions": [
+          { "answerText": "Emissions from factories and power plants", "isCorrect": true },
+          { "answerText": "Vehicle emissions", "isCorrect": false },
+          { "answerText": "Agricultural activities", "isCorrect": false },
+          { "answerText": "Waste disposal", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of air pollution in urban areas?",
+        "answerOptions": [
+          { "answerText": "Vehicle emissions", "isCorrect": true },
+          { "answerText": "Emissions from factories and power plants", "isCorrect": false },
+          { "answerText": "Agricultural activities", "isCorrect": false },
+          { "answerText": "Waste disposal", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of carbon dioxide emissions from human activities?",
+        "answerOptions": [
+          { "answerText": "Burning of fossil fuels", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Agriculture", "isCorrect": false },
+          { "answerText": "Waste management", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of carbon emissions from human activities?",
+        "answerOptions": [
+          { "answerText": "Burning of fossil fuels", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Agriculture", "isCorrect": false },
+          { "answerText": "Waste management", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of deforestation in the Amazon rainforest?",
+        "answerOptions": [
+          { "answerText": "Agricultural expansion", "isCorrect": true },
+          { "answerText": "Urban development", "isCorrect": false },
+          { "answerText": "Mining", "isCorrect": false },
+          { "answerText": "Climate change", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of energy for Earth's climate system?",
+        "answerOptions": [
+          { "answerText": "The Sun", "isCorrect": true },
+          { "answerText": "Geothermal energy", "isCorrect": false },
+          { "answerText": "Hydropower", "isCorrect": false },
+          { "answerText": "Wind energy", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of freshwater for most of the world’s population?",
+        "answerOptions": [
+          { "answerText": "Rivers and lakes", "isCorrect": true },
+          { "answerText": "Desalination", "isCorrect": false },
+          { "answerText": "Glaciers", "isCorrect": false },
+          { "answerText": "Rainwater harvesting", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of greenhouse gas emissions from agriculture?",
+        "answerOptions": [
+          { "answerText": "Methane from livestock", "isCorrect": true },
+          { "answerText": "Nitrous oxide from fertilizers", "isCorrect": false },
+          { "answerText": "Carbon dioxide from machinery", "isCorrect": false },
+          { "answerText": "Particulate matter from plowing", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of greenhouse gas emissions from deforestation?",
+        "answerOptions": [
+          { "answerText": "Carbon dioxide from burning and decomposition of trees", "isCorrect": true },
+          { "answerText": "Methane from decaying vegetation", "isCorrect": false },
+          { "answerText": "Nitrous oxide from soil disturbance", "isCorrect": false },
+          { "answerText": "Particulate matter from soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of greenhouse gas emissions from transportation?",
+        "answerOptions": [
+          { "answerText": "Carbon dioxide from burning fossil fuels", "isCorrect": true },
+          { "answerText": "Methane from vehicle exhausts", "isCorrect": false },
+          { "answerText": "Nitrous oxide from road construction", "isCorrect": false },
+          { "answerText": "Particulate matter from tire wear", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of human-induced climate change?",
+        "answerOptions": [
+          { "answerText": "Burning of fossil fuels", "isCorrect": true },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Agriculture", "isCorrect": false },
+          { "answerText": "Waste management", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of mercury pollution in water bodies?",
+        "answerOptions": [
+          { "answerText": "Industrial discharge", "isCorrect": true },
+          { "answerText": "Agricultural runoff", "isCorrect": false },
+          { "answerText": "Urban runoff", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of methane emissions from agriculture?",
+        "answerOptions": [
+          { "answerText": "Livestock digestion", "isCorrect": true },
+          { "answerText": "Rice paddies", "isCorrect": false },
+          { "answerText": "Fertilizer application", "isCorrect": false },
+          { "answerText": "Soil tillage", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of methane emissions from livestock?",
+        "answerOptions": [
+          { "answerText": "Enteric fermentation (digestive processes)", "isCorrect": true },
+          { "answerText": "Manure management", "isCorrect": false },
+          { "answerText": "Feeding practices", "isCorrect": false },
+          { "answerText": "Housing conditions", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of methane emissions?",
+        "answerOptions": [
+          { "answerText": "Livestock digestion", "isCorrect": true },
+          { "answerText": "Rice paddies", "isCorrect": false },
+          { "answerText": "Fertilizer application", "isCorrect": false },
+          { "answerText": "Soil tillage", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of nitrogen oxides in the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Combustion of fossil fuels", "isCorrect": true },
+          { "answerText": "Fertilizer application", "isCorrect": false },
+          { "answerText": "Livestock digestion", "isCorrect": false },
+          { "answerText": "Rice paddies", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of nitrogen pollution in water bodies?",
+        "answerOptions": [
+          { "answerText": "Agricultural runoff", "isCorrect": true },
+          { "answerText": "Industrial discharge", "isCorrect": false },
+          { "answerText": "Urban runoff", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of plastic pollution in the environment?",
+        "answerOptions": [
+          { "answerText": "Improper waste disposal", "isCorrect": true },
+          { "answerText": "Agricultural activities", "isCorrect": false },
+          { "answerText": "Industrial discharge", "isCorrect": false },
+          { "answerText": "Urban runoff", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of plastic waste in the ocean?",
+        "answerOptions": [
+          { "answerText": "Improper waste disposal", "isCorrect": true },
+          { "answerText": "Agricultural activities", "isCorrect": false },
+          { "answerText": "Industrial discharge", "isCorrect": false },
+          { "answerText": "Urban runoff", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of pollution from agricultural runoff?",
+        "answerOptions": [
+          { "answerText": "Fertilizers and pesticides", "isCorrect": true },
+          { "answerText": "Manure", "isCorrect": false },
+          { "answerText": "Crop residues", "isCorrect": false },
+          { "answerText": "Erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of pollution in freshwater ecosystems?",
+        "answerOptions": [
+          { "answerText": "Agricultural runoff", "isCorrect": true },
+          { "answerText": "Urban runoff", "isCorrect": false },
+          { "answerText": "Industrial discharge", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of renewable energy from the Earth’s heat?",
+        "answerOptions": [
+          { "answerText": "Geothermal energy", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Hydropower", "isCorrect": false },
+          { "answerText": "Wind energy", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of renewable energy from the movement of water?",
+        "answerOptions": [
+          { "answerText": "Hydropower", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Geothermal energy", "isCorrect": false },
+          { "answerText": "Wind energy", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of renewable energy from the sun?",
+        "answerOptions": [
+          { "answerText": "Solar energy", "isCorrect": true },
+          { "answerText": "Wind energy", "isCorrect": false },
+          { "answerText": "Geothermal energy", "isCorrect": false },
+          { "answerText": "Hydropower", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of renewable energy from water?",
+        "answerOptions": [
+          { "answerText": "Hydropower", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Geothermal energy", "isCorrect": false },
+          { "answerText": "Wind energy", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of renewable energy from wind?",
+        "answerOptions": [
+          { "answerText": "Wind energy", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Geothermal energy", "isCorrect": false },
+          { "answerText": "Hydropower", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary source of sulfur dioxide emissions?",
+        "answerOptions": [
+          { "answerText": "Burning of fossil fuels", "isCorrect": true },
+          { "answerText": "Agricultural activities", "isCorrect": false },
+          { "answerText": "Industrial discharge", "isCorrect": false },
+          { "answerText": "Urban runoff", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the primary threat to the Amazon rainforest?",
+        "answerOptions": [
+          { "answerText": "Deforestation", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil erosion", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the process by which soil is removed by wind or water?",
+        "answerOptions": [
+          { "answerText": "Erosion", "isCorrect": true },
+          { "answerText": "Weathering", "isCorrect": false },
+          { "answerText": "Deposition", "isCorrect": false },
+          { "answerText": "Sedimentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the process by which water vapor turns into liquid water?",
+        "answerOptions": [
+          { "answerText": "Condensation", "isCorrect": true },
+          { "answerText": "Evaporation", "isCorrect": false },
+          { "answerText": "Precipitation", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the process called when pollutants are broken down by natural processes?",
+        "answerOptions": [
+          { "answerText": "Biodegradation", "isCorrect": true },
+          { "answerText": "Bioaccumulation", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Bioinformatics", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the process called where carbon dioxide is captured and stored underground?",
+        "answerOptions": [
+          { "answerText": "Carbon sequestration", "isCorrect": true },
+          { "answerText": "Carbon fixation", "isCorrect": false },
+          { "answerText": "Carbonation", "isCorrect": false },
+          { "answerText": "Carbonization", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for a species that has a significant impact on its ecosystem?",
+        "answerOptions": [
+          { "answerText": "Keystone species", "isCorrect": true },
+          { "answerText": "Invasive species", "isCorrect": false },
+          { "answerText": "Endangered species", "isCorrect": false },
+          { "answerText": "Indicator species", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for a species that no longer exists?",
+        "answerOptions": [
+          { "answerText": "Extinct", "isCorrect": true },
+          { "answerText": "Endangered", "isCorrect": false },
+          { "answerText": "Threatened", "isCorrect": false },
+          { "answerText": "Vulnerable", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for an area of land where all the water flows to a common outlet?",
+        "answerOptions": [
+          { "answerText": "Watershed", "isCorrect": true },
+          { "answerText": "Wetland", "isCorrect": false },
+          { "answerText": "Estuary", "isCorrect": false },
+          { "answerText": "Floodplain", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the absorption of carbon dioxide by plants during photosynthesis?",
+        "answerOptions": [
+          { "answerText": "Carbon fixation", "isCorrect": true },
+          { "answerText": "Carbon sequestration", "isCorrect": false },
+          { "answerText": "Carbonation", "isCorrect": false },
+          { "answerText": "Carbonization", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the accumulation of pollutants in the food chain?",
+        "answerOptions": [
+          { "answerText": "Bioaccumulation", "isCorrect": true },
+          { "answerText": "Biodegradation", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Bioinformatics", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the area of land where all precipitation drains into a single body of water?",
+        "answerOptions": [
+          { "answerText": "Watershed", "isCorrect": true },
+          { "answerText": "Wetland", "isCorrect": false },
+          { "answerText": "Estuary", "isCorrect": false },
+          { "answerText": "Floodplain", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the contamination of air by harmful substances?",
+        "answerOptions": [
+          { "answerText": "Air pollution", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the contamination of the environment with harmful substances?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the contamination of water bodies by harmful substances?",
+        "answerOptions": [
+          { "answerText": "Water pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the conversion of waste materials into reusable materials?",
+        "answerOptions": [
+          { "answerText": "Recycling", "isCorrect": true },
+          { "answerText": "Composting", "isCorrect": false },
+          { "answerText": "Landfilling", "isCorrect": false },
+          { "answerText": "Incineration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the destruction of forests for agricultural or urban use?",
+        "answerOptions": [
+          { "answerText": "Deforestation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the destruction of forests for agricultural use?",
+        "answerOptions": [
+          { "answerText": "Deforestation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the gradual increase in the Earth's temperature due to human activities?",
+        "answerOptions": [
+          { "answerText": "Global warming", "isCorrect": true },
+          { "answerText": "Ozone depletion", "isCorrect": false },
+          { "answerText": "Acid rain", "isCorrect": false },
+          { "answerText": "Photochemical smog", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the gradual loss of fertile soil due to erosion?",
+        "answerOptions": [
+          { "answerText": "Soil degradation", "isCorrect": true },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the gradual warming of the Earth's atmosphere due to human activities?",
+        "answerOptions": [
+          { "answerText": "Global warming", "isCorrect": true },
+          { "answerText": "Ozone depletion", "isCorrect": false },
+          { "answerText": "Acid rain", "isCorrect": false },
+          { "answerText": "Photochemical smog", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the increasing levels of toxins in higher levels of the food chain?",
+        "answerOptions": [
+          { "answerText": "Biomagnification", "isCorrect": true },
+          { "answerText": "Bioaccumulation", "isCorrect": false },
+          { "answerText": "Biodegradation", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of chemicals into agricultural soils?",
+        "answerOptions": [
+          { "answerText": "Soil pollution", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of harmful chemicals into the environment by human activities?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of harmful chemicals into the food chain?",
+        "answerOptions": [
+          { "answerText": "Bioaccumulation", "isCorrect": true },
+          { "answerText": "Biodegradation", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Bioinformatics", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of harmful chemicals into the soil?",
+        "answerOptions": [
+          { "answerText": "Soil pollution", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of harmful substances into the air, water, or soil?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of harmful substances into the environment by human activities?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of harmful substances into water bodies?",
+        "answerOptions": [
+          { "answerText": "Water pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of invasive species into a new environment?",
+        "answerOptions": [
+          { "answerText": "Biological invasion", "isCorrect": true },
+          { "answerText": "Migration", "isCorrect": false },
+          { "answerText": "Colonization", "isCorrect": false },
+          { "answerText": "Habitat fragmentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of invasive species into an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Biological invasion", "isCorrect": true },
+          { "answerText": "Migration", "isCorrect": false },
+          { "answerText": "Colonization", "isCorrect": false },
+          { "answerText": "Habitat fragmentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of non-native species into ecosystems that disrupt natural balance?",
+        "answerOptions": [
+          { "answerText": "Invasive species", "isCorrect": true },
+          { "answerText": "Keystone species", "isCorrect": false },
+          { "answerText": "Endangered species", "isCorrect": false },
+          { "answerText": "Indicator species", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of non-native species that cause ecological harm?",
+        "answerOptions": [
+          { "answerText": "Invasive species", "isCorrect": true },
+          { "answerText": "Keystone species", "isCorrect": false },
+          { "answerText": "Endangered species", "isCorrect": false },
+          { "answerText": "Indicator species", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of non-native species that cause harm to the environment?",
+        "answerOptions": [
+          { "answerText": "Invasive species", "isCorrect": true },
+          { "answerText": "Keystone species", "isCorrect": false },
+          { "answerText": "Endangered species", "isCorrect": false },
+          { "answerText": "Indicator species", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of non-native species that disrupt ecosystems?",
+        "answerOptions": [
+          { "answerText": "Invasive species", "isCorrect": true },
+          { "answerText": "Keystone species", "isCorrect": false },
+          { "answerText": "Endangered species", "isCorrect": false },
+          { "answerText": "Indicator species", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of non-native species to an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Invasive species", "isCorrect": true },
+          { "answerText": "Keystone species", "isCorrect": false },
+          { "answerText": "Endangered species", "isCorrect": false },
+          { "answerText": "Indicator species", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of nutrients into water bodies that cause excessive plant growth?",
+        "answerOptions": [
+          { "answerText": "Eutrophication", "isCorrect": true },
+          { "answerText": "Bioaccumulation", "isCorrect": false },
+          { "answerText": "Pollution", "isCorrect": false },
+          { "answerText": "Sedimentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into ecosystems by human activities?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into freshwater ecosystems?",
+        "answerOptions": [
+          { "answerText": "Water pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into marine ecosystems by human activities?",
+        "answerOptions": [
+          { "answerText": "Marine pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into marine environments?",
+        "answerOptions": [
+          { "answerText": "Marine pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into the air by human activities?",
+        "answerOptions": [
+          { "answerText": "Air pollution", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into the air?",
+        "answerOptions": [
+          { "answerText": "Air pollution", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Air pollution", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into the natural environment by human activities?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into the natural environment?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into the soil?",
+        "answerOptions": [
+          { "answerText": "Soil pollution", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the introduction of pollutants into water bodies?",
+        "answerOptions": [
+          { "answerText": "Water pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Noise pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the layer of gases surrounding the Earth?",
+        "answerOptions": [
+          { "answerText": "Atmosphere", "isCorrect": true },
+          { "answerText": "Hydrosphere", "isCorrect": false },
+          { "answerText": "Lithosphere", "isCorrect": false },
+          { "answerText": "Biosphere", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the layer of soil and rock that stores groundwater?",
+        "answerOptions": [
+          { "answerText": "Aquifer", "isCorrect": true },
+          { "answerText": "Watershed", "isCorrect": false },
+          { "answerText": "Wetland", "isCorrect": false },
+          { "answerText": "Estuary", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the long-term storage of carbon in forests, soils, and oceans?",
+        "answerOptions": [
+          { "answerText": "Carbon sequestration", "isCorrect": true },
+          { "answerText": "Carbon fixation", "isCorrect": false },
+          { "answerText": "Carbonation", "isCorrect": false },
+          { "answerText": "Carbonization", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the loss of nutrients from the soil due to water runoff?",
+        "answerOptions": [
+          { "answerText": "Nutrient leaching", "isCorrect": true },
+          { "answerText": "Soil degradation", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the management of forests for sustainable use?",
+        "answerOptions": [
+          { "answerText": "Sustainable forestry", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the management of natural resources for economic and ecological sustainability?",
+        "answerOptions": [
+          { "answerText": "Sustainable resource management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the management of natural resources for human benefit?",
+        "answerOptions": [
+          { "answerText": "Resource management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the management of natural resources for sustainable use?",
+        "answerOptions": [
+          { "answerText": "Sustainable resource management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the management of resources to prevent overuse and depletion?",
+        "answerOptions": [
+          { "answerText": "Sustainable resource management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the management of water resources for agriculture?",
+        "answerOptions": [
+          { "answerText": "Irrigation management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of carbon through the Earth's ecosystems?",
+        "answerOptions": [
+          { "answerText": "Carbon cycle", "isCorrect": true },
+          { "answerText": "Water cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of carbon through the Earth's systems?",
+        "answerOptions": [
+          { "answerText": "Carbon cycle", "isCorrect": true },
+          { "answerText": "Water cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of carbon through the atmosphere, oceans, and land?",
+        "answerOptions": [
+          { "answerText": "Carbon cycle", "isCorrect": true },
+          { "answerText": "Water cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of energy and nutrients through ecosystems?",
+        "answerOptions": [
+          { "answerText": "Nutrient cycling", "isCorrect": true },
+          { "answerText": "Energy flow", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of energy through an ecological community?",
+        "answerOptions": [
+          { "answerText": "Energy flow", "isCorrect": true },
+          { "answerText": "Nutrient cycling", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of energy through an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Energy flow", "isCorrect": true },
+          { "answerText": "Nutrient cycling", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of energy through the food chain?",
+        "answerOptions": [
+          { "answerText": "Energy flow", "isCorrect": true },
+          { "answerText": "Nutrient cycling", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of nutrients through ecosystems?",
+        "answerOptions": [
+          { "answerText": "Nutrient cycling", "isCorrect": true },
+          { "answerText": "Energy flow", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of species due to changes in climate?",
+        "answerOptions": [
+          { "answerText": "Climate-induced migration", "isCorrect": true },
+          { "answerText": "Invasive species", "isCorrect": false },
+          { "answerText": "Habitat fragmentation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of species to new areas due to habitat destruction?",
+        "answerOptions": [
+          { "answerText": "Habitat-induced migration", "isCorrect": true },
+          { "answerText": "Invasive species", "isCorrect": false },
+          { "answerText": "Climate-induced migration", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of water from the atmosphere to the Earth's surface?",
+        "answerOptions": [
+          { "answerText": "Precipitation", "isCorrect": true },
+          { "answerText": "Evaporation", "isCorrect": false },
+          { "answerText": "Condensation", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of water from the surface to the atmosphere and back?",
+        "answerOptions": [
+          { "answerText": "Water cycle", "isCorrect": true },
+          { "answerText": "Carbon cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the movement of water through the Earth's hydrological cycle?",
+        "answerOptions": [
+          { "answerText": "Water cycle", "isCorrect": true },
+          { "answerText": "Carbon cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural absorption of carbon dioxide by forests?",
+        "answerOptions": [
+          { "answerText": "Carbon sequestration", "isCorrect": true },
+          { "answerText": "Carbon fixation", "isCorrect": false },
+          { "answerText": "Carbonation", "isCorrect": false },
+          { "answerText": "Carbonization", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural absorption of pollutants by plants and trees?",
+        "answerOptions": [
+          { "answerText": "Phytoremediation", "isCorrect": true },
+          { "answerText": "Bioaccumulation", "isCorrect": false },
+          { "answerText": "Biodegradation", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural cycle of carbon through the Earth's systems?",
+        "answerOptions": [
+          { "answerText": "Carbon cycle", "isCorrect": true },
+          { "answerText": "Water cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural cycle of water between the Earth's surface and the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Water cycle", "isCorrect": true },
+          { "answerText": "Carbon cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural environment in which an organism lives?",
+        "answerOptions": [
+          { "answerText": "Habitat", "isCorrect": true },
+          { "answerText": "Ecosystem", "isCorrect": false },
+          { "answerText": "Biosphere", "isCorrect": false },
+          { "answerText": "Biome", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural environment where a species lives?",
+        "answerOptions": [
+          { "answerText": "Habitat", "isCorrect": true },
+          { "answerText": "Ecosystem", "isCorrect": false },
+          { "answerText": "Biosphere", "isCorrect": false },
+          { "answerText": "Biome", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural process of nutrient cycling in ecosystems?",
+        "answerOptions": [
+          { "answerText": "Nutrient cycling", "isCorrect": true },
+          { "answerText": "Energy flow", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural process of nutrient cycling in soil?",
+        "answerOptions": [
+          { "answerText": "Nutrient cycling", "isCorrect": true },
+          { "answerText": "Energy flow", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural process of soil formation and development?",
+        "answerOptions": [
+          { "answerText": "Pedogenesis", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Sedimentation", "isCorrect": false },
+          { "answerText": "Leaching", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural process of soil formation and erosion?",
+        "answerOptions": [
+          { "answerText": "Pedogenesis", "isCorrect": true },
+          { "answerText": "Weathering", "isCorrect": false },
+          { "answerText": "Deposition", "isCorrect": false },
+          { "answerText": "Sedimentation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural process of soil formation and nutrient cycling?",
+        "answerOptions": [
+          { "answerText": "Pedogenesis", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Sedimentation", "isCorrect": false },
+          { "answerText": "Leaching", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural process of soil formation?",
+        "answerOptions": [
+          { "answerText": "Pedogenesis", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Sedimentation", "isCorrect": false },
+          { "answerText": "Leaching", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural purification of air by vegetation?",
+        "answerOptions": [
+          { "answerText": "Phytoremediation", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Bioaccumulation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural recycling of nutrients in ecosystems?",
+        "answerOptions": [
+          { "answerText": "Nutrient cycling", "isCorrect": true },
+          { "answerText": "Energy flow", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural regulation of climate by ecosystems?",
+        "answerOptions": [
+          { "answerText": "Climate regulation", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Bioaccumulation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural removal of carbon dioxide from the atmosphere by oceans and forests?",
+        "answerOptions": [
+          { "answerText": "Carbon sequestration", "isCorrect": true },
+          { "answerText": "Carbon fixation", "isCorrect": false },
+          { "answerText": "Carbonation", "isCorrect": false },
+          { "answerText": "Carbonization", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural removal of carbon dioxide from the atmosphere by oceans?",
+        "answerOptions": [
+          { "answerText": "Carbon sequestration", "isCorrect": true },
+          { "answerText": "Carbon fixation", "isCorrect": false },
+          { "answerText": "Carbonation", "isCorrect": false },
+          { "answerText": "Carbonization", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural removal of carbon dioxide from the atmosphere by plants?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Decomposition", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural removal of pollutants from the air by plants?",
+        "answerOptions": [
+          { "answerText": "Phytoremediation", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Bioaccumulation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the natural removal of pollutants from the atmosphere by plants?",
+        "answerOptions": [
+          { "answerText": "Phytoremediation", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Bioaccumulation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the overuse of groundwater leading to a decline in water levels?",
+        "answerOptions": [
+          { "answerText": "Groundwater depletion", "isCorrect": true },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil erosion", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of conserving natural resources for future generations?",
+        "answerOptions": [
+          { "answerText": "Sustainability", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of conserving water resources for future use?",
+        "answerOptions": [
+          { "answerText": "Water conservation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of conserving water resources?",
+        "answerOptions": [
+          { "answerText": "Water conservation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of managing ecosystems for biodiversity conservation?",
+        "answerOptions": [
+          { "answerText": "Conservation management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of managing forests for sustainable use?",
+        "answerOptions": [
+          { "answerText": "Sustainable forestry", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of managing natural resources for sustainable use?",
+        "answerOptions": [
+          { "answerText": "Sustainable resource management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of managing water resources for sustainable use?",
+        "answerOptions": [
+          { "answerText": "Water resource management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of protecting natural habitats for wildlife?",
+        "answerOptions": [
+          { "answerText": "Habitat conservation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of protecting natural resources for future generations?",
+        "answerOptions": [
+          { "answerText": "Sustainability", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of protecting species and their habitats?",
+        "answerOptions": [
+          { "answerText": "Conservation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of restoring damaged ecosystems to their natural state?",
+        "answerOptions": [
+          { "answerText": "Ecological restoration", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of restoring damaged ecosystems?",
+        "answerOptions": [
+          { "answerText": "Ecological restoration", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of rotating crops to maintain soil health?",
+        "answerOptions": [
+          { "answerText": "Crop rotation", "isCorrect": true },
+          { "answerText": "Monoculture", "isCorrect": false },
+          { "answerText": "Intercropping", "isCorrect": false },
+          { "answerText": "Agroforestry", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of using fewer resources to meet human needs?",
+        "answerOptions": [
+          { "answerText": "Resource efficiency", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of using fewer resources to minimize waste?",
+        "answerOptions": [
+          { "answerText": "Resource efficiency", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of using fewer resources to reduce waste?",
+        "answerOptions": [
+          { "answerText": "Resource efficiency", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of using plants to remove contaminants from soil and water?",
+        "answerOptions": [
+          { "answerText": "Phytoremediation", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Bioaccumulation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of using renewable energy sources?",
+        "answerOptions": [
+          { "answerText": "Sustainable energy", "isCorrect": true },
+          { "answerText": "Fossil fuels", "isCorrect": false },
+          { "answerText": "Non-renewable energy", "isCorrect": false },
+          { "answerText": "Energy conservation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of using renewable resources?",
+        "answerOptions": [
+          { "answerText": "Sustainable resource use", "isCorrect": true },
+          { "answerText": "Fossil fuels", "isCorrect": false },
+          { "answerText": "Non-renewable resources", "isCorrect": false },
+          { "answerText": "Energy conservation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the practice of using sustainable methods to manage natural resources?",
+        "answerOptions": [
+          { "answerText": "Sustainable resource management", "isCorrect": true },
+          { "answerText": "Fossil fuels", "isCorrect": false },
+          { "answerText": "Non-renewable resources", "isCorrect": false },
+          { "answerText": "Energy conservation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which carbon dioxide is removed from the atmosphere by plants?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Decomposition", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which carbon is exchanged between the atmosphere and the biosphere?",
+        "answerOptions": [
+          { "answerText": "Carbon cycle", "isCorrect": true },
+          { "answerText": "Water cycle", "isCorrect": false },
+          { "answerText": "Nitrogen cycle", "isCorrect": false },
+          { "answerText": "Phosphorus cycle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which energy flows through an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Energy flow", "isCorrect": true },
+          { "answerText": "Nutrient cycling", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which plants and animals break down organic matter?",
+        "answerOptions": [
+          { "answerText": "Decomposition", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Nutrient cycling", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which plants and animals decompose organic matter?",
+        "answerOptions": [
+          { "answerText": "Decomposition", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Nutrient cycling", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which plants and trees absorb carbon dioxide from the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Carbon sequestration", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which plants and trees capture and store carbon dioxide?",
+        "answerOptions": [
+          { "answerText": "Carbon sequestration", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which plants and trees release water vapor into the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Transpiration", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Decomposition", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which plants convert sunlight into energy?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Decomposition", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which plants release water vapor into the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Transpiration", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Decomposition", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which pollutants are broken down by microorganisms?",
+        "answerOptions": [
+          { "answerText": "Biodegradation", "isCorrect": true },
+          { "answerText": "Bioaccumulation", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Bioinformatics", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which pollutants are removed from water bodies?",
+        "answerOptions": [
+          { "answerText": "Water purification", "isCorrect": true },
+          { "answerText": "Air purification", "isCorrect": false },
+          { "answerText": "Soil remediation", "isCorrect": false },
+          { "answerText": "Biodegradation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which soil is compacted and loses its structure?",
+        "answerOptions": [
+          { "answerText": "Soil compaction", "isCorrect": true },
+          { "answerText": "Soil erosion", "isCorrect": false },
+          { "answerText": "Soil degradation", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which water is purified as it moves through the soil?",
+        "answerOptions": [
+          { "answerText": "Filtration", "isCorrect": true },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Evaporation", "isCorrect": false },
+          { "answerText": "Condensation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process by which wetlands filter pollutants from water?",
+        "answerOptions": [
+          { "answerText": "Natural filtration", "isCorrect": true },
+          { "answerText": "Evaporation", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Condensation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of biological magnification in food chains?",
+        "answerOptions": [
+          { "answerText": "Biomagnification", "isCorrect": true },
+          { "answerText": "Bioaccumulation", "isCorrect": false },
+          { "answerText": "Biodegradation", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of converting waste materials into new materials?",
+        "answerOptions": [
+          { "answerText": "Recycling", "isCorrect": true },
+          { "answerText": "Composting", "isCorrect": false },
+          { "answerText": "Landfilling", "isCorrect": false },
+          { "answerText": "Incineration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of energy transfer in an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Energy flow", "isCorrect": true },
+          { "answerText": "Nutrient cycling", "isCorrect": false },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of natural decomposition of organic matter?",
+        "answerOptions": [
+          { "answerText": "Decomposition", "isCorrect": true },
+          { "answerText": "Photosynthesis", "isCorrect": false },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Nutrient cycling", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of natural purification of water as it passes through the soil?",
+        "answerOptions": [
+          { "answerText": "Filtration", "isCorrect": true },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Evaporation", "isCorrect": false },
+          { "answerText": "Condensation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of reintroducing species to their native habitats?",
+        "answerOptions": [
+          { "answerText": "Rewilding", "isCorrect": true },
+          { "answerText": "Restoration", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Rehabilitation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of removing salt from seawater to produce fresh water?",
+        "answerOptions": [
+          { "answerText": "Desalination", "isCorrect": true },
+          { "answerText": "Filtration", "isCorrect": false },
+          { "answerText": "Evaporation", "isCorrect": false },
+          { "answerText": "Condensation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of replanting trees in deforested areas?",
+        "answerOptions": [
+          { "answerText": "Reforestation", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Restoration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of restoring degraded ecosystems to their natural state?",
+        "answerOptions": [
+          { "answerText": "Ecological restoration", "isCorrect": true },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Rewilding", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of restoring habitats for wildlife?",
+        "answerOptions": [
+          { "answerText": "Habitat restoration", "isCorrect": true },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Rewilding", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the process of turning waste materials into new products?",
+        "answerOptions": [
+          { "answerText": "Recycling", "isCorrect": true },
+          { "answerText": "Composting", "isCorrect": false },
+          { "answerText": "Landfilling", "isCorrect": false },
+          { "answerText": "Incineration", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the reduction of a species' population to a critical level?",
+        "answerOptions": [
+          { "answerText": "Endangerment", "isCorrect": true },
+          { "answerText": "Extinction", "isCorrect": false },
+          { "answerText": "Habitat loss", "isCorrect": false },
+          { "answerText": "Overexploitation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the release of harmful substances into the environment?",
+        "answerOptions": [
+          { "answerText": "Pollution", "isCorrect": true },
+          { "answerText": "Erosion", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false },
+          { "answerText": "Desertification", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the sustainable management of water resources for human use?",
+        "answerOptions": [
+          { "answerText": "Water resource management", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the sustainable use of natural resources to meet human needs?",
+        "answerOptions": [
+          { "answerText": "Sustainable resource use", "isCorrect": true },
+          { "answerText": "Afforestation", "isCorrect": false },
+          { "answerText": "Reforestation", "isCorrect": false },
+          { "answerText": "Deforestation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the use of living organisms to clean up polluted environments?",
+        "answerOptions": [
+          { "answerText": "Bioremediation", "isCorrect": true },
+          { "answerText": "Phytoremediation", "isCorrect": false },
+          { "answerText": "Bioaccumulation", "isCorrect": false },
+          { "answerText": "Biodegradation", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the use of technology to reduce greenhouse gas emissions?",
+        "answerOptions": [
+          { "answerText": "Carbon capture", "isCorrect": true },
+          { "answerText": "Carbon sequestration", "isCorrect": false },
+          { "answerText": "Carbon fixation", "isCorrect": false },
+          { "answerText": "Carbonization", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of different species in an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Biodiversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of ecosystems and habitats on Earth?",
+        "answerOptions": [
+          { "answerText": "Ecosystem diversity", "isCorrect": true },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of ecosystems in a given area?",
+        "answerOptions": [
+          { "answerText": "Ecosystem diversity", "isCorrect": true },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of ecosystems on Earth?",
+        "answerOptions": [
+          { "answerText": "Ecosystem diversity", "isCorrect": true },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of ecosystems within a region?",
+        "answerOptions": [
+          { "answerText": "Ecosystem diversity", "isCorrect": true },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of genes within a species?",
+        "answerOptions": [
+          { "answerText": "Genetic diversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of genetic information in a population?",
+        "answerOptions": [
+          { "answerText": "Genetic diversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of genetic information within a population or species?",
+        "answerOptions": [
+          { "answerText": "Genetic diversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of genetic information within a species?",
+        "answerOptions": [
+          { "answerText": "Genetic diversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Biodiversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of habitats in a given area?",
+        "answerOptions": [
+          { "answerText": "Habitat diversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of habitats within a particular area?",
+        "answerOptions": [
+          { "answerText": "Habitat diversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of life forms within a specific habitat?",
+        "answerOptions": [
+          { "answerText": "Biodiversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of life forms within an ecological community?",
+        "answerOptions": [
+          { "answerText": "Biodiversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of life forms within an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Biodiversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of life in a particular habitat or ecosystem?",
+        "answerOptions": [
+          { "answerText": "Biodiversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the variety of species within an ecosystem?",
+        "answerOptions": [
+          { "answerText": "Biodiversity", "isCorrect": true },
+          { "answerText": "Ecosystem diversity", "isCorrect": false },
+          { "answerText": "Genetic diversity", "isCorrect": false },
+          { "answerText": "Species richness", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What is the term for the warming of the Earth's surface due to the greenhouse effect?",
+        "answerOptions": [
+          { "answerText": "Global warming", "isCorrect": true },
+          { "answerText": "Ozone depletion", "isCorrect": false },
+          { "answerText": "Acid rain", "isCorrect": false },
+          { "answerText": "Photochemical smog", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What layer of the atmosphere contains the ozone layer?",
+        "answerOptions": [
+          { "answerText": "Stratosphere", "isCorrect": true },
+          { "answerText": "Troposphere", "isCorrect": false },
+          { "answerText": "Mesosphere", "isCorrect": false },
+          { "answerText": "Thermosphere", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What phenomenon is caused by the trapping of heat by greenhouse gases in the atmosphere?",
+        "answerOptions": [
+          { "answerText": "Greenhouse effect", "isCorrect": true },
+          { "answerText": "Global warming", "isCorrect": false },
+          { "answerText": "Ozone depletion", "isCorrect": false },
+          { "answerText": "Acid rain", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What process do plants use to convert sunlight into energy?",
+        "answerOptions": [
+          { "answerText": "Photosynthesis", "isCorrect": true },
+          { "answerText": "Respiration", "isCorrect": false },
+          { "answerText": "Transpiration", "isCorrect": false },
+          { "answerText": "Decomposition", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of biome is characterized by low rainfall and sparse vegetation?",
+        "answerOptions": [
+          { "answerText": "Desert", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Grassland", "isCorrect": false },
+          { "answerText": "Forest", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of ecosystem is characterized by grasslands and scattered trees?",
+        "answerOptions": [
+          { "answerText": "Savanna", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Forest", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of ecosystem is characterized by high biodiversity and dense tree cover?",
+        "answerOptions": [
+          { "answerText": "Rainforest", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Grassland", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of ecosystem is characterized by hot, dry conditions and sparse vegetation?",
+        "answerOptions": [
+          { "answerText": "Desert", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Grassland", "isCorrect": false },
+          { "answerText": "Forest", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of ecosystem is characterized by very low temperatures and permafrost?",
+        "answerOptions": [
+          { "answerText": "Tundra", "isCorrect": true },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Grassland", "isCorrect": false },
+          { "answerText": "Forest", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of ecosystem is found in areas with frequent rainfall and rich biodiversity?",
+        "answerOptions": [
+          { "answerText": "Rainforest", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Grassland", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of ecosystem is found in areas with moderate to high rainfall and seasonal changes?",
+        "answerOptions": [
+          { "answerText": "Temperate forest", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Grassland", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of energy is derived from organic materials?",
+        "answerOptions": [
+          { "answerText": "Biomass energy", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Wind energy", "isCorrect": false },
+          { "answerText": "Geothermal energy", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of energy is harnessed from the heat within the Earth?",
+        "answerOptions": [
+          { "answerText": "Geothermal energy", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Wind energy", "isCorrect": false },
+          { "answerText": "Hydropower", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of energy is produced by harnessing the power of moving water?",
+        "answerOptions": [
+          { "answerText": "Hydropower", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Wind energy", "isCorrect": false },
+          { "answerText": "Geothermal energy", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of farming avoids the use of synthetic chemicals?",
+        "answerOptions": [
+          { "answerText": "Organic farming", "isCorrect": true },
+          { "answerText": "Conventional farming", "isCorrect": false },
+          { "answerText": "Industrial farming", "isCorrect": false },
+          { "answerText": "Hydroponic farming", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of farming practice helps in conserving soil and water?",
+        "answerOptions": [
+          { "answerText": "Sustainable farming", "isCorrect": true },
+          { "answerText": "Conventional farming", "isCorrect": false },
+          { "answerText": "Industrial farming", "isCorrect": false },
+          { "answerText": "Hydroponic farming", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of farming technique helps reduce soil erosion?",
+        "answerOptions": [
+          { "answerText": "Contour farming", "isCorrect": true },
+          { "answerText": "Conventional farming", "isCorrect": false },
+          { "answerText": "Industrial farming", "isCorrect": false },
+          { "answerText": "Hydroponic farming", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of farming uses techniques that mimic natural ecosystems?",
+        "answerOptions": [
+          { "answerText": "Permaculture", "isCorrect": true },
+          { "answerText": "Conventional farming", "isCorrect": false },
+          { "answerText": "Industrial farming", "isCorrect": false },
+          { "answerText": "Hydroponic farming", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of pollution is caused by excessive artificial light?",
+        "answerOptions": [
+          { "answerText": "Light pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of pollution is caused by excessive nutrients in water bodies?",
+        "answerOptions": [
+          { "answerText": "Eutrophication", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "What type of pollution is caused by noise from human activities?",
+        "answerOptions": [
+          { "answerText": "Noise pollution", "isCorrect": true },
+          { "answerText": "Air pollution", "isCorrect": false },
+          { "answerText": "Water pollution", "isCorrect": false },
+          { "answerText": "Soil pollution", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which gas is primarily responsible for the depletion of the ozone layer?",
+        "answerOptions": [
+          { "answerText": "Chlorofluorocarbons (CFCs)", "isCorrect": true },
+          { "answerText": "Carbon dioxide (CO2)", "isCorrect": false },
+          { "answerText": "Methane (CH4)", "isCorrect": false },
+          { "answerText": "Nitrous oxide (N2O)", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which gas is the most abundant in Earth's atmosphere?",
+        "answerOptions": [
+          { "answerText": "Nitrogen (N2)", "isCorrect": true },
+          { "answerText": "Oxygen (O2)", "isCorrect": false },
+          { "answerText": "Carbon dioxide (CO2)", "isCorrect": false },
+          { "answerText": "Methane (CH4)", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which type of renewable energy is generated by wind turbines?",
+        "answerOptions": [
+          { "answerText": "Wind energy", "isCorrect": true },
+          { "answerText": "Solar energy", "isCorrect": false },
+          { "answerText": "Geothermal energy", "isCorrect": false },
+          { "answerText": "Hydropower", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome is characterized by hot, dry summers and mild, rainy winters?",
+        "answerOptions": [
+          { "answerText": "Mediterranean", "isCorrect": true },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Temperate forest", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome is known for its dense forests and high biodiversity, typically found near the equator?",
+        "answerOptions": [
+          { "answerText": "Tropical rainforest", "isCorrect": true },
+          { "answerText": "Savanna", "isCorrect": false },
+          { "answerText": "Temperate grassland", "isCorrect": false },
+          { "answerText": "Tundra", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome has the coldest temperatures and is characterized by permafrost?",
+        "answerOptions": [
+          { "answerText": "Tundra", "isCorrect": true },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Temperate forest", "isCorrect": false },
+          { "answerText": "Savanna", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome is characterized by large herbivores and grasslands with scattered trees?",
+        "answerOptions": [
+          { "answerText": "Savanna", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Temperate forest", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome experiences all four seasons and has a mix of deciduous and coniferous trees?",
+        "answerOptions": [
+          { "answerText": "Temperate forest", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Savanna", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome is characterized by very low precipitation and extreme temperature variations between day and night?",
+        "answerOptions": [
+          { "answerText": "Desert", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Temperate forest", "isCorrect": false },
+          { "answerText": "Savanna", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome is known for its wet and dry seasons and is found in regions like Africa and Australia?",
+        "answerOptions": [
+          { "answerText": "Savanna", "isCorrect": true },
+          { "answerText": "Tropical rainforest", "isCorrect": false },
+          { "answerText": "Temperate grassland", "isCorrect": false },
+          { "answerText": "Tundra", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome is characterized by evergreen trees and is typically found in regions with cold, snowy winters and warm, humid summers?",
+        "answerOptions": [
+          { "answerText": "Temperate forest", "isCorrect": true },
+          { "answerText": "Tundra", "isCorrect": false },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Savanna", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome is found in the northernmost parts of the world and supports low-growing vegetation like mosses and lichens?",
+        "answerOptions": [
+          { "answerText": "Tundra", "isCorrect": true },
+          { "answerText": "Desert", "isCorrect": false },
+          { "answerText": "Temperate forest", "isCorrect": false },
+          { "answerText": "Savanna", "isCorrect": false }
+        ]
+      },
+      {
+        "questionText": "Which biome has high rainfall, high humidity, and a warm climate throughout the year?",
+        "answerOptions": [
+          { "answerText": "Tropical rainforest", "isCorrect": true },
+          { "answerText": "Savanna", "isCorrect": false },
+          { "answerText": "Temperate grassland", "isCorrect": false },
+          { "answerText": "Tundra", "isCorrect": false }
+        ]
+      }
+      
+]
