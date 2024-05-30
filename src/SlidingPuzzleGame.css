@@ -175,7 +175,7 @@ h1 {
 /* Media queries for mobile screens */
 @media (max-width: 600px) {
   .game-box {
-    width: 140%;
+    width: 150%;
     height: auto;
     padding: 10px;
     margin: 10px;
