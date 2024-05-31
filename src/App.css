@@ -7,10 +7,10 @@
 /* Game container with border and layout styling */
 .game-container {
   border: 6px solid transparent;
-  border-image: linear-gradient(to bottom, #909097, #cca44d) 1 stretch;
+  border-image: linear-gradient(to bottom, #3232be, #a3ff12) 1 stretch;
   border-image-slice: 1;
   border-radius: 15px;
-  background-color: transparent;
+  background-color: #151625;
   font-weight: bold;
  /* width: 90%; */
   max-width: 1200px;

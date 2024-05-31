@@ -125,13 +125,13 @@
 
 /* Label styling */
 label {
-  color: black; /* Change the color of the label text to black */
+  color: #a3ff12; /* Change the color of the label text to black */
   margin-right: 10px;
 }
 
 /* Heading styling */
 h1 {
-  color: rgb(0, 0, 0);
+  color: #a3ff12;
 }
 
 /* Popup overlay styling */
