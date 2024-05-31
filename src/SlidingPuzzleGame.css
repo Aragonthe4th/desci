@@ -172,6 +172,12 @@ h1 {
   cursor: pointer;
 }
 
+
+.tile.correct {
+  border: 2px solid green; /* Highlight color for correct tiles */
+}
+
+
 /* Media queries for mobile screens */
 @media (max-width: 600px) {
   .game-box {

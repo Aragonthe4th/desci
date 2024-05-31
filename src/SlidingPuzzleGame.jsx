@@ -25,7 +25,8 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
   const [imageSrc, setImageSrc] = useState(getRandomImage());
   const [showFullImage, setShowFullImage] = useState(false);
   const [showPopup, setShowPopup] = useState(false);
-  const gameBoardRef = useRef(null); // Use ref for the game board
+  const [highlightedTiles, setHighlightedTiles] = useState([]); // State to track highlighted tiles
+  const gameBoardRef = useRef(null);
 
   useEffect(() => {
     initializeBoard();
@@ -41,13 +42,18 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
     const newTiles = [];
     const tileCount = gridSize * gridSize;
     const tileSize = getTileSize();
+    const imageWidth = tileSize * gridSize;
+    const imageHeight = tileSize * gridSize;
+
     for (let i = 0; i < tileCount; i++) {
+      const x = (i % gridSize) * tileSize;
+      const y = Math.floor(i / gridSize) * tileSize;
       newTiles.push({
         index: i,
         style: {
           backgroundImage: `url(${imageSrc})`,
-          backgroundSize: `${gridSize * 100}% ${gridSize * 100}%`,
-          backgroundPosition: `${(i % gridSize) * (100 / (gridSize - 1))}% ${(Math.floor(i / gridSize) * (100 / (gridSize - 1)))}%`,
+          backgroundSize: `${imageWidth}px ${imageHeight}px`,
+          backgroundPosition: `-${x}px -${y}px`,
           width: `${tileSize}px`,
           height: `${tileSize}px`,
         },
@@ -59,7 +65,7 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
   const getTileSize = () => {
     const isMobile = window.innerWidth <= 600;
     const boardSize = isMobile ? window.innerWidth * 0.9 : 400;
-    return (boardSize / gridSize);
+    return Math.floor(boardSize / gridSize);
   };
 
   const shuffleBoard = (newTiles) => {
@@ -73,6 +79,7 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
     } while (isSolved(shuffledTiles));
 
     setTiles(shuffledTiles);
+    setHighlightedTiles([]); // Clear highlighted tiles
   };
 
   const onTileClick = (index) => {
@@ -89,12 +96,25 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
         setPoints(points + earnedPoints);
         updatePoints(earnedPoints);
         setShowPopup(true);
+        setImageSrc(getRandomImage());
+        initializeBoard();
+      } else {
+        highlightCorrectTiles(newTiles);
       }
     }
   };
 
   const isSolved = (tiles) => {
     return tiles.every((tile, i) => tile.index === i);
+  };
+
+  const highlightCorrectTiles = (tiles) => {
+    const newHighlightedTiles = tiles.map((tile, index) => tile.index === index);
+    setHighlightedTiles(newHighlightedTiles);
+
+    setTimeout(() => {
+      setHighlightedTiles([]);
+    }, 5000);
   };
 
   const showFullImageTemporarily = () => {
@@ -119,7 +139,7 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
       <h1>Sliding Puzzle Game</h1>
       <div className="game-box">
         <div
-          ref={gameBoardRef} // Assign ref to the game board div
+          ref={gameBoardRef}
           className="game-board"
           style={{
             gridTemplateColumns: `repeat(${gridSize}, 1fr)`,
@@ -136,7 +156,7 @@ const SlidingPuzzleGame = ({ updatePoints }) => {
             tiles.map((tile, index) => (
               <div
                 key={index}
-                className={`tile ${index === selectedTileIndex ? 'selected' : ''}`}
+                className={`tile ${index === selectedTileIndex ? 'selected' : ''} ${highlightedTiles[index] ? 'correct' : ''}`}
                 style={tile.style}
                 onClick={() => onTileClick(index)}
               ></div>
