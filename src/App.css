@@ -29,7 +29,7 @@
 .game-selection {
   display: flex;
   justify-content: flex-end;
-  gap: 20px;
+  gap: 5px;
   margin-bottom: 20px;
 }
 
@@ -41,26 +41,26 @@
   font-weight: bold;
   transition: color 0.3s, background-color 0.3s;
   padding: 5px 10px;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 }
 
 /* Active and hover state for game selection buttons */
 .game-selection span:hover,
 .game-selection span.active {
   color: white;
-  background-color: rgb(71, 118, 206);
+  background-color: #6d4afe;
 }
 
 /* Points display styling */
 .points-display {
   position: absolute;
-  top: 10px;
-  left: 10px;
+  top: 20px;
+  left: 16px;
   font-size: 1.2em;
-  color: rgb(0, 0, 0);
-  background-color: rgba(255, 255, 255, 0.8);
+  color: rgb(255, 255, 255);
+  background-color: #6d4afe;
   padding: 5px 10px;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 }
 
 /* Media query for smaller screens to avoid overlay and position points display below buttons */
